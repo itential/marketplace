@@ -1,0 +1,4705 @@
+projects:
+
+  - name: adapter-128technology
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to 128 Technology
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-128technology
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-128technology/-/blob/master/README.md
+
+  - name: adapter-accedian_skylight
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Accedian Skylight
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight/-/blob/master/README.md
+
+  - name: adapter-accedian_skylight_vision
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Accedian Skylight Vision
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight_vision
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight_vision/-/blob/master/README.md
+
+  - name: adapter-adtran_mosaic_cloud_platform
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Adtran Mosaic Cloud Platform
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_cloud_platform
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_cloud_platform/-/blob/master/README.md
+
+  - name: adapter-adtran_mosaic_devicemanager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Adtran Mosaic Device Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_devicemanager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_devicemanager/-/blob/master/README.md
+
+  - name: adapter-akamai_gtm
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Akamai Global Traffic Management
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-akamai_gtm
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-akamai_gtm/-/blob/master/README.md
+
+  - name: adapter-akamai_property_manager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Akamai Property Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-akamai_property_manager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-akamai_property_manager/-/blob/master/README.md
+
+  - name: adapter-algosec_appviz
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Algosec AppViz
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-algosec_appviz
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-algosec_appviz/-/blob/master/README.md
+
+  - name: adapter-algosec_fireflow
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Algosec FireFlow
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-algosec_fireflow
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-algosec_fireflow/-/blob/master/README.md
+
+  - name: adapter-algosec_firewall
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Algosec Firewall
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-algosec_firewall
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-algosec_firewall/-/blob/master/README.md
+
+  - name: adapter-alkira
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Alkira Cloud Management
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-alkira
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-alkira/-/blob/master/README.md
+
+  - name: adapter-amazon_api_gateway
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Itential integration to Amazon API Gateway
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_api_gateway
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_api_gateway/-/blob/master/README.md
+
+  - name: adapter-amazon_connectservice
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for integration to Amazon Web Services Connect Service
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_connectservice
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_connectservice/-/blob/master/README.md
+
+  - name: adapter-amazon_eks
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for integration to Amazon Web Services Elastic Kubernetes Service (EKS)
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_eks
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_eks/-/blob/master/README.md
+
+  - name: adapter-amazon_route53
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Amazon Web Services Route 53
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_route53
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_route53/-/blob/master/README.md
+
+  - name: adapter-ansible_tower
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Red Hat Ansible Tower
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-ansible_tower
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-ansible_tower/-/blob/master/README.md
+
+  - name: adapter-apache_airflow
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Apache Airflow
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-apache_airflow
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-apache_airflow/-/blob/master/README.md
+
+  - name: adapter-apic
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco APIC
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-apic
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-apic/-/blob/master/README.md
+
+  - name: adapter-artifactory
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Jfrog Artifactory
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-artifactory
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-artifactory/-/blob/master/README.md
+
+  - name: adapter-aruba_airwave
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Aruba AirWave
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_airwave
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_airwave/-/blob/master/README.md
+
+  - name: adapter-aruba_central
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Aruba Central
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central/-/blob/master/README.md
+
+  - name: adapter-aruba_central_enhanced
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Aruba Central
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central_enhanced
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central/-/blob/master/README.md
+
+  - name: adapter-aruba_clearpass
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Aruba Clearpass
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_clearpass
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_clearpass/-/blob/master/README.md
+
+  - name: adapter-att_mobility
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: "Adapter for Integration to AT&T Mobility"
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-att_mobility
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-att_mobility/-/blob/master/README.md
+
+  - name: adapter-automox
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Automox
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-automox
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-automox/-/blob/master/README.md
+
+  - name: adapter-avi_controller
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to AVI Controller
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-avi_controller
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-avi_controller/-/blob/master/README.md
+
+  - name: adapter-aviatrix
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Aviatrix
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aviatrix
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aviatrix/-/blob/master/README.md
+
+  - name: adapter-aws_cloudformation
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for integration to Amazon Web Services CloudFormation
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_cloudformation
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_cloudformation/-/blob/master/README.md
+
+  - name: adapter-aws_cognito_identity_provider
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Amazon Web Services Cognito Identity Provider
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/Cloud/adapter-aws_cognito_identity_provider
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_cognito_identity_provider/-/blob/master/README.md
+
+  - name: adapter-aws_directconnect
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Itential integration to Amazon Web Services Direct Connect
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_directconnect
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_directconnect/-/blob/master/README.md
+
+  - name: adapter-aws_ec2
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Amazon Web Services Elastic Compute Cloud (EC2)
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_ec2
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_ec2/-/blob/master/README.md
+
+  - name: adapter-aws_lambda
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Aws Lambda
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_lambda
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_lambda/-/blob/master/README.md
+
+  - name: adapter-aws_nfw
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to AWS Network Firewall
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_nfw
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_nfw/-/blob/master/README.md
+
+  - name: adapter-aws_organizations
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to AWS Organizations
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/@itentialopensource/adapters/adapter-aws_organizations
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_organizations/-/blob/master/README.md
+
+  - name: adapter-aws_s3
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Amazon Web Services S3
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_s3
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_s3/-/blob/master/README.md
+
+  - name: adapter-aws_secretsmanager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Itential integration to Amazon Web Services Secrets Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_secretsmanager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_secretsmanager/-/blob/master/README.md
+
+  - name: adapter-azure
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Microsoft Azure
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-azure
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-azure/-/blob/master/README.md
+
+  - name: adapter-azure_aks
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Azure AKS
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-azure_aks
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-azure_aks/-/blob/master/README.md
+
+  - name: adapter-azure_blobs
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Microsoft Azure Blobs
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-azure_blobs
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-azure_blobs/-/blob/master/README.md
+
+  - name: adapter-azure_devops
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Microsoft Azure DevOps
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-azure_devops
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-azure_devops/-/blob/master/README.md
+
+  - name: adapter-beyond_trust
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Beyond Trust
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/@itentialopensource/adapters/adapter-beyond_trust
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-beyond_trust/-/blob/master/README.md
+
+  - name: adapter-bigpanda
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to BigPanda
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-bigpanda
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-bigpanda/-/blob/master/README.md
+
+  - name: adapter-bitbucket
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Atlassian Bitbucket Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket/-/blob/master/README.md
+
+  - name: adapter-bitbucket_server
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Bitbucket Server
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket_server
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket_server/-/blob/master/README.md
+
+  - name: adapter-bluecat
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to BlueCat
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-bluecat
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-bluecat/-/blob/master/README.md
+
+  - name: adapter-bluecat_ipam
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to BlueCat IPAM
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-bluecat_ipam
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-bluecat_ipam/-/blob/master/README.md
+
+  - name: adapter-bmc_helix_itsm
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to BMC Helix
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-bmc_helix_itsm
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-bmc_helix_itsm/-/blob/master/README.md
+
+  - name: adapter-ca_spectrum
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to CA Spectrum
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-ca_spectrum
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-ca_spectrum/-/blob/master/README.md
+
+  - name: adapter-calix_cloud_devportal
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Calix Developer Portal
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_cloud_devportal
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_cloud_devportal/-/blob/master/README.md
+
+  - name: adapter-calix_cms
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Calix CMS
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_cms
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_cms/-/blob/master/README.md
+
+  - name: adapter-calix_smx
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Calix SMX
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_smx
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_smx/-/blob/master/README.md
+
+  - name: adapter-calix_support_cloud
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Calix Support Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_support_cloud
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_support_cloud/-/blob/master/README.md
+
+  - name: adapter-centreon
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Centreon
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-centreon
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-centreon/-/blob/master/README.md
+
+  - name: adapter-chatgpt
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ChatGPT
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/@itentialopensource/adapters/adapter-chatgpt
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-chatgpt/-/blob/master/README.md
+
+  - name: adapter-checkpoint_gaia
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Checkpoint Gaia
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/@itentialopensource/adapters/adapter-checkpoint_gaia
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_gaia/-/blob/master/README.md
+
+  - name: adapter-checkpoint_management
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Check Point Firewall Management
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_management
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_management/-/blob/master/README.md
+
+  - name: adapter-checkpoint_reputation_service
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Checkpoint Reputation Service
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_reputation_service
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_reputation_service/-/blob/master/README.md
+
+  - name: adapter-ciena_mcp
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Ciena Manage, Control and Plan
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-ciena_mcp
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-ciena_mcp/-/blob/master/README.md
+
+  - name: adapter-cisco_aci
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco ACI
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_aci
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_aci/-/blob/master/README.md
+
+  - name: adapter-cisco_acs
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Access Control System
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_acs
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_acs/-/blob/master/README.md
+
+  - name: adapter-cisco_callmanager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Call Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_callmanager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_callmanager/-/blob/master/README.md
+
+  - name: adapter-cisco_cml
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Modeling Labs
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_cml
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_cml/-/blob/master/README.md
+
+  - name: adapter-cisco_dcnm
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Data Center Network Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_dcnm
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_dcnm/-/blob/master/README.md
+
+  - name: adapter-cisco_defense_orchestrator
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Defense Orchestrator
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_defense_orchestrator
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_defense_orchestrator/-/blob/master/README.md
+
+  - name: adapter-cisco_firepowermanagementcenter
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Firepower Management Center (FMC)
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowermanagementcenter
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowermanagementcenter/-/blob/master/README.md
+
+  - name: adapter-cisco_firepowerthreatdefense
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Firepower Threat Defense
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowerthreatdefense
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowerthreatdefense/-/blob/master/README.md
+
+  - name: adapter-cisco_ise
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco ISE
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise/-/blob/master/README.md
+
+  - name: adapter-cisco_ise_ers
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco ISE
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise_ers
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise_ers/-/blob/master/README.md
+
+  - name: adapter-cisco_ndfc
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Nexus Dashboard Fabric Controller
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/@itentialopensource/adapters/adapter-cisco_ndfc
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ndfc/-/blob/master/README.md
+
+  - name: adapter-cisco_prime
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Prime
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_prime
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_prime/-/blob/master/README.md
+
+  - name: adapter-cisco_software_manager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Software Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_software_manager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_software_manager/-/blob/master/README.md
+
+  - name: adapter-cisco_support
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Support
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_support
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_support/-/blob/master/README.md
+
+  - name: adapter-cisco_tetration
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Tetration
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_tetration
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_tetration/-/blob/master/README.md
+
+  - name: adapter-clearcable_noms
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Clearcable Noms
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-clearcable_noms
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-clearcable_noms/-/blob/master/README.md
+
+  - name: adapter-cloudgenix
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Palo Alto Networks CloudGenix
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cloudgenix
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cloudgenix/-/blob/master/README.md
+
+  - name: adapter-cloudify
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cloudify
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cloudify
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cloudify/-/blob/master/README.md
+
+  - name: adapter-confluence_cloud
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Confluence Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-confluence_cloud
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-confluence_cloud/-/blob/master/README.md
+
+  - name: adapter-cvp
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Arista Networks Cloud Vision Portal
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cvp
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cvp/-/blob/master/README.md
+
+  - name: adapter-cyberark
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to CyberArk
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-cyberark
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-cyberark/-/blob/master/README.md
+
+  - name: adapter-datadog
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Datadog
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-datadog
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-datadog/-/blob/master/README.md
+
+  - name: adapter-db_mongo
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Mongo
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-db_mongo
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-db_mongo/-/blob/master/README.md
+
+  - name: adapter-db_mssql
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Microsoft SQL Database
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-db_mssql
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-db_mssql/-/blob/master/README.md
+
+  - name: adapter-db_mysql
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Oracle MySQL Database
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-db_mysql
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-db_mysql/-/blob/master/README.md
+
+  - name: adapter-db_oracle
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Oracle Database
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-db_oracle
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-db_oracle/-/blob/master/README.md
+
+  - name: adapter-db_postgresql
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to PostgreSQL Database
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-db_postgresql
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-db_postgresql/-/blob/master/README.md
+
+  - name: adapter-db_sybase
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Sybase Database
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-db_sybase
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-db_sybase/-/blob/master/README.md
+
+  - name: adapter-dbt_cloud
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to dbt Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-dbt_cloud
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-dbt_cloud/-/blob/master/README.md
+
+  - name: adapter-delinea
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Delinea Secret Server
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-delinea
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-delinea/-/blob/master/README.md
+
+  - name: adapter-device42
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Device42
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-device42
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-device42/-/blob/master/README.md
+
+  - name: adapter-digicert_pki
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to DigiCert PKI
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-digicert_pki
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-digicert_pki/-/blob/master/README.md
+
+  - name: adapter-dna_center
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco DNA Center
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-dna_center
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-dna_center/-/blob/master/README.md
+
+  - name: adapter-docker
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Docker Engine
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-docker
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-docker/-/blob/master/README.md
+
+  - name: adapter-drivenets_networkcloud
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to DriveNets Network Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkcloud
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkcloud/-/blob/master/README.md
+
+  - name: adapter-drivenets_networkorchestrator
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to DriveNets Network Orchestrator
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkorchestrator
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkorchestrator/-/blob/master/README.md
+
+  - name: adapter-eai
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Ericsson Adaptive Inventory
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-eai
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-eai/-/blob/master/README.md
+
+  - name: adapter-easypost
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to EasyPost
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-easypost
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-easypost/-/blob/master/README.md
+
+  - name: adapter-efficientip_solidserver
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to EfficientIP SOLIDserver
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-efficientip_solidserver
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-efficientip_solidserver/-/blob/master/README.md
+
+  - name: adapter-email
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Email Server
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-email
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-email/-/blob/master/README.md
+
+  - name: adapter-equinix
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Equinix
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-equinix
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-equinix/-/blob/master/README.md
+
+  - name: adapter-etsi_sol002
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: "Adapter for Integration to ETSI NFV-SOL 002"
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol002
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol002/-/blob/master/README.md
+
+  - name: adapter-etsi_sol003
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: "Adapter for Integration to ETSI NFV-SOL 003"
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol003
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol003/-/blob/master/README.md
+
+  - name: adapter-etsi_sol005
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: "Adapter for Integration to ETSI NFV-SOL 005"
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol005
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol005/-/blob/master/README.md
+
+  - name: adapter-extrahop
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ExtraHop
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-extrahop
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-extrahop/-/blob/master/README.md
+
+  - name: adapter-f5_bigiq
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: "Adapter for Integration to F5 BIG-IQ"
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-f5_bigiq
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-f5_bigiq/-/blob/master/README.md
+
+  - name: adapter-f5_velos
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to F5 Velos
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-f5_velos
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-f5_velos/-/blob/master/README.md
+
+  - name: adapter-firemon_securitymanager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to FireMon Security Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-firemon_securitymanager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-firemon_securitymanager/-/blob/master/README.md
+
+  - name: adapter-flexiwan
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to flexiWAN
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-flexiwan
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-flexiwan/-/blob/master/README.md
+
+  - name: adapter-fortimanager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to FortiManager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-fortimanager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-fortimanager/-/blob/master/README.md
+
+  - name: adapter-forwardnetworks
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Forward Networks
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-forwardnetworks
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-forwardnetworks/-/blob/master/README.md
+
+  - name: adapter-gcp_compute
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Google Cloud Platform Compute
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-gcp_compute
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-gcp_compute/-/blob/master/README.md
+
+  - name: adapter-generic
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Generic adapter for integration with any system with a REST API
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-generic
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-generic/-/blob/master/README.md
+
+  - name: adapter-git
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Git
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-git
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-git/-/blob/master/README.md
+
+  - name: adapter-github
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to GitHub
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-github
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-github/-/blob/master/README.md
+
+  - name: adapter-gitlab
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to GitLab
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-gitlab
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-gitlab/-/blob/master/README.md
+
+  - name: adapter-glds_customerexperiencegateway
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to GLDS Customer Experience Gateway
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-glds_customerexperiencegateway
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-glds_customerexperiencegateway/-/blob/master/README.md
+
+  - name: adapter-godaddy
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to GoDaddy
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-godaddy
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-godaddy/-/blob/master/README.md
+
+  - name: adapter-gogetssl
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to GoGetSSL
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-gogetssl
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-gogetssl/-/blob/master/README.md
+
+  - name: adapter-google_drive
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Google Drive
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-google_drive
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-google_drive/-/blob/master/README.md
+
+  - name: adapter-hashicorp_vault
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to HashiCorp Vault
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-hashicorp_vault
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-hashicorp_vault/-/blob/master/README.md
+
+  - name: adapter-hyas_protect
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Hyas Protect
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-hyas_protect
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-hyas_protect/-/blob/master/README.md
+
+  - name: adapter-iap
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Itential Automation Platform
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-iap
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-iap/-/blob/master/README.md
+
+  - name: adapter-imperva
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Imperva
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-imperva
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-imperva/-/blob/master/README.md
+
+  - name: adapter-incognito
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Incognito
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-incognito
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-incognito/-/blob/master/README.md
+
+  - name: adapter-incognito_soap
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Incognito
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-incognito_soap
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-incognito_soap/-/blob/master/README.md
+
+  - name: adapter-infoblox
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Infoblox DDI
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox/-/blob/master/README.md
+
+  - name: adapter-infoblox_netmri
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Infoblox NetMRI
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_netmri
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_netmri/-/blob/master/README.md
+
+  - name: adapter-infoblox_threat_defense
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Infoblox Threat Defense
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_threat_defense
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_threat_defense/-/blob/master/README.md
+
+  - name: adapter-infoblox_universal_ddi
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Infoblox Universal DDI
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_universal_ddi
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_universal_ddi/-/blob/master/README.md
+
+  - name: adapter-ipfabric
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to IP Fabric Platform
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-ipfabric
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-ipfabric/-/blob/master/README.md
+
+  - name: adapter-itop
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to iTop
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-itop
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-ipfabric/-/blob/master/README.md
+
+  - name: adapter-jenkins
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Jenkins
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-jenkins
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-jenkins/-/blob/master/README.md
+
+  - name: adapter-jira
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Jira
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-jira
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-jira/-/blob/master/README.md
+
+  - name: adapter-jira_service_management
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Jira Service Management Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/@itentialopensource/adapters/adapter-jira_service_management
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-jira_service_management/-/blob/master/README.md
+
+  - name: adapter-juniper_cso
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Juniper Contrail Services Orchestrator
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-juniper_cso
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-juniper_cso/-/blob/master/README.md
+
+  - name: adapter-juniper_mist
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Juniper Networks Mist
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-juniper_mist
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-juniper_mist/-/blob/master/README.md
+
+  - name: adapter-juniper_northstar
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Juniper Northstar
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-juniper_northstar
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-juniper_northstar/-/blob/master/README.md
+
+  - name: adapter-kafkav2
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Kafka using kafkajs
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-kafkav2
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-kafkav2/-/blob/master/README.md
+
+  - name: adapter-kentik
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Kentik
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-kentik
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-kentik/-/blob/master/README.md
+
+  - name: adapter-kentik_v5
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Kentik API v5
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-kentik_v5
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-kentik_v5/-/blob/master/README.md
+
+  - name: adapter-keygen
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Keygen
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-keygen
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-keygen/-/blob/master/README.md
+
+  - name: adapter-kubernetes
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Kubernetes
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-kubernetes
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-kubernetes/-/blob/master/README.md
+
+  - name: adapter-logicmonitor
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to LogicMonitor
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-logicmonitor
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-logicmonitor/-/blob/master/README.md
+
+  - name: adapter-mattermost
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Mattermost
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-mattermost
+    docs: https://gitlab.com/itentialopensource/adapters/mattermost/-/blob/master/README.md
+
+  - name: adapter-menmice_micetro
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Men and Mice Micetro
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-menmice_micetro
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-menmice_micetro/-/blob/master/README.md
+
+  - name: adapter-meraki
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Meraki
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-meraki
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-meraki/-/blob/master/README.md
+
+  - name: adapter-metaswitch
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Metaswitch
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-metaswitch
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-metaswitch/-/blob/master/README.md
+
+  - name: adapter-microsoft_dynamics
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Microsoft Dynamics
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_dynamics
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_dynamics/-/blob/master/README.md
+
+  - name: adapter-microsoft_graph
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Microsoft Graph
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_graph
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_graph/-/blob/master/README.md
+
+  - name: adapter-microsoft_office365
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Microsoft Office 365
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_office365
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_office365/-/blob/master/README.md
+
+  - name: adapter-mockdevice
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to any Mock Device
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-mockdevice
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-mockdevice/-/blob/master/README.md
+
+  - name: adapter-moogsoft
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Moogsoft
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft/-/blob/master/README.md
+
+  - name: adapter-moogsoft_saas
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Moogsoft Saas
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft_saas
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft_saas/-/blob/master/README.md
+
+  - name: adapter-morpheus
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Morpheus
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-morpheus
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-morpheus/-/blob/master/README.md
+
+  - name: adapter-msteams
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Microsoft Teams
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-msteams
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-msteams/-/blob/master/README.md
+
+  - name: adapter-nautobot
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Network to Code Nautobot
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nautobot
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nautobot/-/blob/master/README.md
+
+  - name: adapter-nautobot_v2
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Network to Code Nautobot
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/@itentialopensource/adapters/adapter-nautobot_v2
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nautobot/-/blob/master/README.md
+
+  - name: adapter-netadmin_nine
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Netadmin Nine
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-netadmin_nine
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-netadmin_nine/-/blob/master/README.md
+
+  - name: adapter-netbox
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to NetBox Labs NetBox v2.5
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-netbox
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-netbox/-/blob/master/README.md
+
+  - name: adapter-netbox_v210
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to NetBox Labs NetBox v2.1.0
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v210
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v210/-/blob/master/README.md
+
+  - name: adapter-netbox_v33
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to NetBox Labs NetBox v3.3
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v33
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v33/-/blob/master/README.md
+
+  - name: adapter-netbrain
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to NetBrain
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-netbrain
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-netbrain/-/blob/master/README.md
+
+  - name: adapter-netterrain
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Graphical Networks netTerrain
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-netterrain
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-netterrain/-/blob/master/README.md
+
+  - name: adapter-new_relic
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to New Relic
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-new_relic
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-new_relic/-/blob/master/README.md
+
+  - name: adapter-nexus_repository
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Sonatype Nexus Repository
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nexus_repository
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nexus_repository/-/blob/master/README.md
+
+  - name: adapter-nokia_altiplano
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to  Nokia Altiplano
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_altiplano
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_altiplano/-/blob/master/README.md
+
+  - name: adapter-nokia_netact
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nokia NetAct
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_netact
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_netact/-/blob/master/README.md
+
+  - name: adapter-nokia_nsp_assurance
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nokia NSP Network and Service Assurance
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_assurance
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_assurance/-/blob/master/README.md
+
+  - name: adapter-nokia_nsp_device_administrator
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nokia NSP Device Administrator
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_administrator
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_administrator/-/blob/master/README.md
+
+  - name: adapter-nokia_nsp_device_configurator
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nokia NSP Device Configurator
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_configurator
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_configurator/-/blob/master/README.md
+
+  - name: adapter-nokia_nsp_network
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nokia NSP Network
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network/-/blob/master/README.md
+
+  - name: adapter-nokia_nsp_network_management
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: nokia_nsp_network_management
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network_management
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network_management/-/blob/master/README.md
+
+  - name: adapter-nokia_nsp_nfm_p
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nokia NSP NFM P
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfm_p
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfm_p/-/blob/master/README.md
+
+  - name: adapter-nokia_nsp_nfv
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nokia NSP NFV
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfv
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfv/-/blob/master/README.md
+
+  - name: adapter-nokia_nsp_sdn
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nokia NSP SDN
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_sdn
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_sdn/-/blob/master/README.md
+
+  - name: adapter-nokia_vitalqip
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nokia VitalQIP
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_vitalqip
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_vitalqip/-/blob/master/README.md
+
+  - name: adapter-ns1_cloud
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to NS1 Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-ns1_cloud
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-ns1_cloud/-/blob/master/README.md
+
+  - name: adapter-ns1_enterprise
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to NS1 Enterprise
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-ns1_enterprise
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-ns1_enterprise/-/blob/master/README.md
+
+  - name: adapter-nutanix_intentful
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Nutanix Intentful
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nutanix_intentful
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nutanix_intentful/-/blob/master/README.md
+
+  - name: adapter-nvd
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to National Vulnerability Database
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-nvd
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-nvd/-/blob/master/README.md
+
+  - name: adapter-okta
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Okta
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-okta
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-okta/-/blob/master/README.md
+
+  - name: adapter-onap_aai
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ONAP Active and Available Inventory
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_aai
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_aai/-/blob/master/README.md
+
+  - name: adapter-onap_appc
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ONAP Application Controller (APPC)
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_appc
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_appc/-/blob/master/README.md
+
+  - name: adapter-onap_blueprint_processor
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Blueprint Processor
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_blueprint_processor
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_blueprint_processor/-/blob/master/README.md
+
+  - name: adapter-onap_dcae
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: "Adapter for Integration to ONAP DCAE - Data Collection Analytics and Events"
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_dcae
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_dcae/-/blob/master/README.md
+
+  - name: adapter-onap_sdc
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ONAP Service Design Creation
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_sdc
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_sdc/-/blob/master/README.md
+
+  - name: adapter-onap_so
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ONAP Service Orchestrator
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_so
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_so/-/blob/master/README.md
+
+  - name: adapter-onepassword_connect
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to 1Password Connect
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-onepassword_connect
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-onepassword_connect/-/blob/master/README.md
+
+  - name: adapter-op5
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ITRS OP5
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-op5
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-op5/-/blob/master/README.md
+
+  - name: adapter-opengear_lighthouse
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Opengear Lighthouse
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-opengear_lighthouse
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-opengear_lighthouse/-/blob/master/README.md
+
+  - name: adapter-openstack_cinder
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to OpenStack Block Storage (Cinder)
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_cinder
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_cinder/-/blob/master/README.md
+
+  - name: adapter-openstack_glance
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to OpenStack Glance
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_glance
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_glance/-/blob/master/README.md
+
+  - name: adapter-openstack_keystone
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to OpenStack Keystone identity service
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_keystone
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_keystone/-/blob/master/README.md
+
+  - name: adapter-openstack_neutron
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to OpenStack Neutron
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_neutron
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_neutron/-/blob/master/README.md
+
+  - name: adapter-openstack_nova
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to OpenStack Compute Service (Nova)
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_nova
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_nova/-/blob/master/README.md
+
+  - name: adapter-opsgenie
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Atlassian Opsgenie
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-opsgenie
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-opsgenie/-/blob/master/README.md
+
+  - name: adapter-opsramp
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Opsramp
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-opsramp
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-opsramp/-/blob/master/README.md
+
+  - name: adapter-oracle_assure1
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Oracle Assure1
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-oracle_assure1
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-oracle_assure1/-/blob/master/README.md
+
+  - name: adapter-oracle_cloud
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Oracle Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-oracle_cloud
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-oracle_cloud/-/blob/master/README.md
+
+  - name: adapter-owasp_zap
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Owasp Zap
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-owasp_zap
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-owasp_zap/-/blob/master/README.md
+
+  - name: adapter-pagerduty
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to PagerDuty
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-pagerduty
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-pagerduty/-/blob/master/README.md
+
+  - name: adapter-paloalto_prismacloud
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Pal Alto Networks Prisma Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paloalto_prismacloud
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paloalto_prismacloud/-/blob/master/README.md
+
+  - name: adapter-panorama
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to PaloAlto Panorama
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-panorama
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-panorama/-/blob/master/README.md
+
+  - name: adapter-paragon_active_assurance
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Juniper Paragon Active Assurance
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_active_assurance
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_active_assurance/-/blob/master/README.md
+
+  - name: adapter-paragon_dcs
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Paragon DCS
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dcs
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dcs/-/blob/master/README.md
+
+  - name: adapter-paragon_dpm
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Paragon DPM
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dpm
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dpm/-/blob/master/README.md
+
+  - name: adapter-paragon_ems_device_manager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Paragon EMS Device Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_manager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_manager/-/blob/master/README.md
+
+  - name: adapter-paragon_ems_device_model
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Paragon EMS Device Model
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_model
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_model/-/blob/master/README.md
+
+  - name: adapter-paragon_iam
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Paragon IAM
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_iam
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_iam/-/blob/master/README.md
+
+  - name: adapter-paragon_insights
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Juniper Paragon Insights
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_insights
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_insights/-/blob/master/README.md
+
+  - name: adapter-paragon_job_store
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Paragon Job Store
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_job_store
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_job_store/-/blob/master/README.md
+
+  - name: adapter-paragon_pathfinder
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Paragon Pathfinder
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_pathfinder
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_pathfinder/-/blob/master/README.md
+
+  - name: adapter-phpipam
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to phpIPAM
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-phpipam
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-phpipam/-/blob/master/README.md
+
+  - name: adapter-pitney_bowes
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Pitney Bowes
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-pitney_bowes
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-pitney_bowes/-/blob/master/README.md
+
+  - name: adapter-prtg
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Paessler PRTG
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-prtg
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-prtg/-/blob/master/README.md
+
+  - name: adapter-psirt
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco PSIRT
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-psirt
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-psirt/-/blob/master/README.md
+
+  - name: adapter-psxapiservice
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to PSX API Service
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-psxapiservice
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-psxapiservice/-/blob/master/README.md
+
+  - name: adapter-puppet
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Puppet
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-puppet
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-puppet/-/blob/master/README.md
+
+  - name: adapter-qualys
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Qualys
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-qualys
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-qualys/-/blob/master/README.md
+
+  - name: adapter-rackn_digital_rebar
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to RackN Digital Rebar
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-rackn_digital_rebar
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-rackn_digital_rebar/-/blob/master/README.md
+
+  - name: adapter-rancher
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Rancher
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-rancher
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-rancher/-/blob/master/README.md
+
+  - name: adapter-redis_cloud
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Redis Cloud
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-redis_cloud
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-redis_cloud/-/blob/master/README.md
+
+  - name: adapter-remedy_actionrequest
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to BMC Remedy Action Request
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-remedy_actionrequest
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-remedy_actionrequest/-/blob/master/README.md
+
+  - name: adapter-ringcentral
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to RingCentral
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-ringcentral
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-ringcentral/-/blob/master/README.md
+
+  - name: adapter-robustel
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Robustel
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-robustel
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-robustel/-/blob/master/README.md
+
+  - name: adapter-rubrik
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Rubrik
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-rubrik
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-rubrik/-/blob/master/README.md
+
+  - name: adapter-rundeck
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to PagerDuty Rundeck
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-rundeck
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-rundeck/-/blob/master/README.md
+
+  - name: adapter-salesforce
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Salesforce
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce/-/blob/master/README.md
+
+  - name: adapter-salesforce_apex
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Salesforce Apex
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_apex
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_apex/-/blob/master/README.md
+
+  - name: adapter-salesforce_cases
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Salesforce Cases
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_cases
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_cases/-/blob/master/README.md
+
+  - name: adapter-salesforce_metadata
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Salesforce Metadata
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_metadata
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_metadata/-/blob/master/README.md
+
+  - name: adapter-salesforce_partner
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Salesforce Partner
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_partner
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_partner/-/blob/master/README.md
+
+  - name: adapter-salesforce_rest
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Salesforce REST API
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/@itentialopensource/adapters/adapter-salesforce_rest
+    docs: https://docs.itential.com/opensource/docs/salesforce_rest
+
+  - name: adapter-salesforce_tooling
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Salesforce Tooling
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_tooling
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_tooling/-/blob/master/README.md
+
+  - name: adapter-salt
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to SaltStack
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-salt
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-salt/-/blob/master/README.md
+
+  - name: adapter-scansource
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Scansource
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-scansource
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-scansource/-/blob/master/README.md
+
+  - name: adapter-sciencelogic_sl1
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ScienceLogic SL1
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-sciencelogic_sl1
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-sciencelogic_sl1/-/blob/master/README.md
+
+  - name: adapter-sectigo_certification_manager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Sectigo Certification Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/Security (SASE)/adapter-sectigo_certification_manager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-sectigo_certification_manager/-/blob/master/README.md
+
+  - name: adapter-selector_ai
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Selector AI
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-selector_ai
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-selector_ai/-/blob/master/README.md
+
+  - name: adapter-sendgrid
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to SendGrid
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-sendgrid
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-sendgrid/-/blob/master/README.md
+
+  - name: adapter-service_desk_plus
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ManageEngine ServiceDesk Plus
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-service_desk_plus
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-service_desk_plus/-/blob/master/README.md
+
+  - name: adapter-servicenow
+    type: adapter
+    active: true
+    status: certified
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ServiceNow
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-servicenow
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-servicenow/-/blob/master/README.md
+
+  - name: adapter-sevone
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to IBM SevOne
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-sevone
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-sevone/-/blob/master/README.md
+
+  - name: adapter-sevone_v2
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to IBM SevOne v2
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-sevone_v2
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-sevone_v2/-/blob/master/README.md
+
+  - name: adapter-sharepoint
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Microsoft Sharepoint
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-sharepoint
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-sharepoint/-/blob/master/README.md
+
+  - name: adapter-silverpeak
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: "Adapter for Integration to Silver Peak SD-WAN controller"
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-silverpeak
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-silverpeak/-/blob/master/README.md
+
+  - name: adapter-six_connect
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to 6connect ProVision
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-six_connect
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-six_connect/-/blob/master/README.md
+
+  - name: adapter-skybox
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Skybox
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-skybox
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-skybox/-/blob/master/README.md
+
+  - name: adapter-slack
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Slack
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-slack
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-slack/-/blob/master/README.md
+
+  - name: adapter-snowflake_sql
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Snowflake SQL
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-snowflake_sql
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-snowflake_sql/-/blob/master/README.md
+
+  - name: adapter-solarwinds
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to SolarWinds Orion
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds/-/blob/master/README.md
+
+  - name: adapter-solarwinds_servicedesk
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to SolarWinds Service Desk
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds_servicedesk
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds_servicedesk/-/blob/master/README.md
+
+  - name: adapter-spirent_testcenter
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Spirent TestCenter
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-spirent_testcenter
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-spirent_testcenter/-/blob/master/README.md
+
+  - name: adapter-splunk
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Splunk
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-splunk
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-splunk/-/blob/master/README.md
+
+  - name: adapter-starburst
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Starburst
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/@itentialopensource/adapters/adapter-starburst
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-starburst/-/blob/master/README.md
+
+  - name: adapter-steel_connect
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Riverbed SteelConnect
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-steel_connect
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-steel_connect/-/blob/master/README.md
+
+  - name: adapter-surreal_db
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Surreal DB
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-surreal_db
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-surreal_db/-/blob/master/README.md
+
+  - name: adapter-symantec_mgmtcenter
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Symantec Management Center
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-symantec_mgmtcenter
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-symantec_mgmtcenter/-/blob/master/README.md
+
+  - name: adapter-tapi
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ONF TAPI
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tapi
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tapi/-/blob/master/README.md
+
+  - name: adapter-tcpwave
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to TCPWave
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tcpwave
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tcpwave/-/blob/master/README.md
+
+  - name: adapter-terraform_enterprise
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to HashiCorp Terraform Enterprise
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-terraform_enterprise
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-terraform_enterprise/-/blob/master/README.md
+
+  - name: adapter-thales_cipher_trust_manager
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Thales Ciphertrust Manager
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-thales_cipher_trust_manager
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-thales_cipher_trust_manager/-/blob/master/README.md
+
+  - name: adapter-thingspace
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Verizon Thingspace
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-thingspace
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-thingspace/-/blob/master/README.md
+
+  - name: adapter-thousand_eyes
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to ThousandEyes
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-thousand_eyes
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-thousand_eyes/-/blob/master/README.md
+
+  - name: adapter-thruk_monitoring
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Thruk Monitoring
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-thruk_monitoring
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-thruk_monitoring/-/blob/master/README.md
+
+  - name: adapter-tiger_connect
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Tiger Connect
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tiger_connect
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tiger_connect/-/blob/master/README.md
+
+  - name: adapter-tmf638_service_inventory_management
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to TMF 638 Service Inventory Management
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf638_service_inventory_management
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf638_service_inventory_management/-/blob/master/README.md
+
+  - name: adapter-tmf639_resource_inventory_management
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to TMF 639 Resource Inventory Management
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf639_resource_inventory_management
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf639_resource_inventory_management/-/blob/master/README.md
+
+  - name: adapter-tmf641_service_ordering_management
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to TMF Service Ordering Management
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf641_tmf641_service_ordering_management
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf641_service_ordering_management/-/blob/master/README.md
+
+  - name: adapter-tmf642_alarm_management
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to TMF642 Alarm Management
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf642_alarm_management
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf642_alarm_management/-/blob/master/README.md
+
+  - name: adapter-tufin_secureapp
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Tufin SecureApp
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tufin_secureapp
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tufin_secureapp/-/blob/master/README.md
+
+  - name: adapter-tufin_securechange
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Tufin SecureChange
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securechange
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securechange/-/blob/master/README.md
+
+  - name: adapter-tufin_securetrack
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Tufin SecureTrack
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securetrack
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securetrack/-/blob/master/README.md
+
+  - name: adapter-velocloud_orchestrator
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to VMware VeloCloud Orchestrator
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-velocloud_orchestrator
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-velocloud_orchestrator/-/blob/master/README.md
+
+  - name: adapter-venafi
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Venafi
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-venafi
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-venafi/-/blob/master/README.md
+
+  - name: adapter-venafi_trust_protection_platform
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Venafi Trust Protection Platform
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-venafi_trust_protection_platform
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-venafi_trust_protection_platform/-/blob/master/README.md
+
+  - name: adapter-versa_director
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Versa Director
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-versa_director
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-versa_director/-/blob/master/README.md
+
+  - name: adapter-viavi_xpertrak
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Viavi Xpertrak
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-viavi_xpertrak
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-viavi_xpertrak/-/blob/master/README.md
+
+  - name: adapter-viptela
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Viptela
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-viptela
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-viptela/-/blob/master/README.md
+
+  - name: adapter-vmware_cloud
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to VMware Cloud on AWS
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_cloud
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_cloud/-/blob/master/README.md
+
+  - name: adapter-vmware_horizon_server
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Vmware Horizon Server
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_horizon_server
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_horizon_server/-/blob/master/README.md
+
+  - name: adapter-vmware_nsx_t
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to VMware NSX T
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_nsx_t
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_nsx_t/-/blob/master/README.md
+
+  - name: adapter-vmware_vcenter
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to VMware vCenter
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vcenter
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vcenter/-/blob/master/README.md
+
+  - name: adapter-vmware_virtual_infrastructure
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Vmware Virtual Infrastructure
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_virtual_infrastructure
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_virtual_infrastructure/-/blob/master/README.md
+
+  - name: adapter-vmware_vrealize_orchestrator
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to VMware vRealize Orchestrator
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vrealize_orchestrator
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vrealize_orchestrator/-/blob/master/README.md
+
+  - name: adapter-vmware_vsphere
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to VMware vSphere
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vsphere
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vsphere/-/blob/master/README.md
+
+  - name: adapter-watchguard_firebox_mgmt
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Watchguard Firebox Management
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-watchguard_firebox_mgmt
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-watchguard_firebox_mgmt/-/blob/master/README.md
+
+  - name: adapter-webex_teams
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Cisco Webex Teams
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-webex_teams
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-webex_teams/-/blob/master/README.md
+
+  - name: adapter-whatsup_gold
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Progress WhatsUp Gold
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-whatsup_gold
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-whatsup_gold/-/blob/master/README.md
+
+  - name: adapter-winston_syslog
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Winston Syslog
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-winston_syslog
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-winston_syslog/-/blob/master/README.md
+
+  - name: adapter-zabbix
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Zabbix
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-zabbix
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-zabbix/-/blob/master/README.md
+
+  - name: adapter-zero_networks
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Zero Networks
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/security/adapter-zero_networks
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-zero_networks/-/blob/master/README.md
+
+  - name: adapter-zoom
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Zoom
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-zoom
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-zoom/-/blob/master/README.md
+
+  - name: adapter-zscaler
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Zscaler
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-zscaler
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-zscaler/-/blob/master/README.md
+
+  - name: adapter-zscaler_zpa
+    type: adapter
+    active: true
+    status: community
+    source: gitlab
+    compatibility:
+      - platform
+    description: Adapter for Integration to Zscaler ZPA
+    tags:
+      - integration
+    maintainer:
+      - "@itentialopensource"
+    license: Apache-2.0
+    repo: https://gitlab.com/itentialopensource/adapters/adapter-zscaler_zpa
+    docs: https://gitlab.com/itentialopensource/adapters/adapter-zscaler_zpa/-/blob/master/README.md
