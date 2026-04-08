@@ -16,6 +16,7 @@ projects:
     license: Apache-2.0
     repo: https://github.com/itential/builder-skills
     docs: https://github.com/itential/builder-skills/blob/main/README.md
+    icon: assets/generic/mcp.png
 
   - name: ipctl
     type: tool
@@ -33,3 +34,4 @@ projects:
     license: Apache-2.0
     repo: https://github.com/itential/ipctl
     docs: https://github.com/itential/ipctl/blob/main/README.md
+    icon: assets/generic/cli.png

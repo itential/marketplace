@@ -15,6 +15,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-128technology
     docs: https://gitlab.com/itentialopensource/adapters/adapter-128technology/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-accedian_skylight
     type: adapter
@@ -31,6 +32,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight
     docs: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-accedian_skylight_vision
     type: adapter
@@ -47,6 +49,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight_vision
     docs: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight_vision/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-adtran_mosaic_cloud_platform
     type: adapter
@@ -63,6 +66,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_cloud_platform
     docs: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_cloud_platform/-/blob/master/README.md
+    icon: assets/vendors/adtran.png
 
   - name: adapter-adtran_mosaic_devicemanager
     type: adapter
@@ -79,6 +83,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_devicemanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_devicemanager/-/blob/master/README.md
+    icon: assets/vendors/adtran.png
 
   - name: adapter-akamai_gtm
     type: adapter
@@ -95,6 +100,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-akamai_gtm
     docs: https://gitlab.com/itentialopensource/adapters/adapter-akamai_gtm/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-akamai_property_manager
     type: adapter
@@ -111,6 +117,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-akamai_property_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-akamai_property_manager/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-algosec_appviz
     type: adapter
@@ -127,6 +134,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-algosec_appviz
     docs: https://gitlab.com/itentialopensource/adapters/adapter-algosec_appviz/-/blob/master/README.md
+    icon: assets/vendors/algosec.png
 
   - name: adapter-algosec_fireflow
     type: adapter
@@ -143,6 +151,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-algosec_fireflow
     docs: https://gitlab.com/itentialopensource/adapters/adapter-algosec_fireflow/-/blob/master/README.md
+    icon: assets/vendors/algosec.png
 
   - name: adapter-algosec_firewall
     type: adapter
@@ -159,6 +168,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-algosec_firewall
     docs: https://gitlab.com/itentialopensource/adapters/adapter-algosec_firewall/-/blob/master/README.md
+    icon: assets/vendors/algosec.png
 
   - name: adapter-alkira
     type: adapter
@@ -175,6 +185,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-alkira
     docs: https://gitlab.com/itentialopensource/adapters/adapter-alkira/-/blob/master/README.md
+    icon: assets/vendors/alkira.png
 
   - name: adapter-amazon_api_gateway
     type: adapter
@@ -191,6 +202,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_api_gateway
     docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_api_gateway/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-amazon_connectservice
     type: adapter
@@ -207,6 +219,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_connectservice
     docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_connectservice/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-amazon_eks
     type: adapter
@@ -223,6 +236,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_eks
     docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_eks/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-amazon_route53
     type: adapter
@@ -239,6 +253,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_route53
     docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_route53/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-ansible_tower
     type: adapter
@@ -255,6 +270,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ansible_tower
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ansible_tower/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-apache_airflow
     type: adapter
@@ -271,6 +287,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-apache_airflow
     docs: https://gitlab.com/itentialopensource/adapters/adapter-apache_airflow/-/blob/master/README.md
+    icon: assets/vendors/apache.png
 
   - name: adapter-apic
     type: adapter
@@ -287,6 +304,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-apic
     docs: https://gitlab.com/itentialopensource/adapters/adapter-apic/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-artifactory
     type: adapter
@@ -303,6 +321,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-artifactory
     docs: https://gitlab.com/itentialopensource/adapters/adapter-artifactory/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-aruba_airwave
     type: adapter
@@ -319,6 +338,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_airwave
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_airwave/-/blob/master/README.md
+    icon: assets/vendors/aruba.png
 
   - name: adapter-aruba_central
     type: adapter
@@ -335,6 +355,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central/-/blob/master/README.md
+    icon: assets/vendors/aruba.png
 
   - name: adapter-aruba_central_enhanced
     type: adapter
@@ -351,6 +372,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central_enhanced
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central/-/blob/master/README.md
+    icon: assets/vendors/aruba.png
 
   - name: adapter-aruba_clearpass
     type: adapter
@@ -367,6 +389,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_clearpass
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_clearpass/-/blob/master/README.md
+    icon: assets/vendors/aruba.png
 
   - name: adapter-att_mobility
     type: adapter
@@ -383,6 +406,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-att_mobility
     docs: https://gitlab.com/itentialopensource/adapters/adapter-att_mobility/-/blob/master/README.md
+    icon: assets/vendors/att.png
 
   - name: adapter-automox
     type: adapter
@@ -399,6 +423,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-automox
     docs: https://gitlab.com/itentialopensource/adapters/adapter-automox/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-avi_controller
     type: adapter
@@ -415,6 +440,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-avi_controller
     docs: https://gitlab.com/itentialopensource/adapters/adapter-avi_controller/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-aviatrix
     type: adapter
@@ -431,6 +457,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aviatrix
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aviatrix/-/blob/master/README.md
+    icon: assets/vendors/aviatrix.png
 
   - name: adapter-aws_cloudformation
     type: adapter
@@ -447,6 +474,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_cloudformation
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_cloudformation/-/blob/master/README.md
+    icon: assets/vendors/aws.png
 
   - name: adapter-aws_cognito_identity_provider
     type: adapter
@@ -463,6 +491,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/Cloud/adapter-aws_cognito_identity_provider
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_cognito_identity_provider/-/blob/master/README.md
+    icon: assets/vendors/aws.png
 
   - name: adapter-aws_directconnect
     type: adapter
@@ -479,6 +508,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_directconnect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_directconnect/-/blob/master/README.md
+    icon: assets/vendors/aws.png
 
   - name: adapter-aws_ec2
     type: adapter
@@ -495,6 +525,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_ec2
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_ec2/-/blob/master/README.md
+    icon: assets/vendors/aws.png
 
   - name: adapter-aws_lambda
     type: adapter
@@ -511,6 +542,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_lambda
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_lambda/-/blob/master/README.md
+    icon: assets/vendors/aws.png
 
   - name: adapter-aws_nfw
     type: adapter
@@ -527,6 +559,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_nfw
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_nfw/-/blob/master/README.md
+    icon: assets/vendors/aws.png
 
   - name: adapter-aws_organizations
     type: adapter
@@ -543,6 +576,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-aws_organizations
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_organizations/-/blob/master/README.md
+    icon: assets/vendors/aws.png
 
   - name: adapter-aws_s3
     type: adapter
@@ -559,6 +593,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_s3
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_s3/-/blob/master/README.md
+    icon: assets/vendors/aws.png
 
   - name: adapter-aws_secretsmanager
     type: adapter
@@ -575,6 +610,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_secretsmanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_secretsmanager/-/blob/master/README.md
+    icon: assets/vendors/aws.png
 
   - name: adapter-azure
     type: adapter
@@ -591,6 +627,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-azure
     docs: https://gitlab.com/itentialopensource/adapters/adapter-azure/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-azure_aks
     type: adapter
@@ -607,6 +644,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-azure_aks
     docs: https://gitlab.com/itentialopensource/adapters/adapter-azure_aks/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-azure_blobs
     type: adapter
@@ -623,6 +661,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-azure_blobs
     docs: https://gitlab.com/itentialopensource/adapters/adapter-azure_blobs/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-azure_devops
     type: adapter
@@ -639,6 +678,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-azure_devops
     docs: https://gitlab.com/itentialopensource/adapters/adapter-azure_devops/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-beyond_trust
     type: adapter
@@ -655,6 +695,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-beyond_trust
     docs: https://gitlab.com/itentialopensource/adapters/adapter-beyond_trust/-/blob/master/README.md
+    icon: assets/vendors/beyondtrust.png
 
   - name: adapter-bigpanda
     type: adapter
@@ -671,6 +712,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bigpanda
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bigpanda/-/blob/master/README.md
+    icon: assets/vendors/bigpanda.png
 
   - name: adapter-bitbucket
     type: adapter
@@ -687,6 +729,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-bitbucket_server
     type: adapter
@@ -703,6 +746,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket_server
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket_server/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-bluecat
     type: adapter
@@ -719,6 +763,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bluecat
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bluecat/-/blob/master/README.md
+    icon: assets/vendors/bluecat.png
 
   - name: adapter-bluecat_ipam
     type: adapter
@@ -735,6 +780,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bluecat_ipam
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bluecat_ipam/-/blob/master/README.md
+    icon: assets/vendors/bluecat.png
 
   - name: adapter-bmc_helix_itsm
     type: adapter
@@ -751,6 +797,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bmc_helix_itsm
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bmc_helix_itsm/-/blob/master/README.md
+    icon: assets/vendors/bmc.png
 
   - name: adapter-ca_spectrum
     type: adapter
@@ -767,6 +814,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ca_spectrum
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ca_spectrum/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-calix_cloud_devportal
     type: adapter
@@ -783,6 +831,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_cloud_devportal
     docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_cloud_devportal/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-calix_cms
     type: adapter
@@ -799,6 +848,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_cms
     docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_cms/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-calix_smx
     type: adapter
@@ -815,6 +865,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_smx
     docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_smx/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-calix_support_cloud
     type: adapter
@@ -831,6 +882,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_support_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_support_cloud/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-centreon
     type: adapter
@@ -847,6 +899,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-centreon
     docs: https://gitlab.com/itentialopensource/adapters/adapter-centreon/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-chatgpt
     type: adapter
@@ -863,6 +916,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-chatgpt
     docs: https://gitlab.com/itentialopensource/adapters/adapter-chatgpt/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-checkpoint_gaia
     type: adapter
@@ -879,6 +933,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-checkpoint_gaia
     docs: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_gaia/-/blob/master/README.md
+    icon: assets/vendors/checkpoint.png
 
   - name: adapter-checkpoint_management
     type: adapter
@@ -895,6 +950,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_management/-/blob/master/README.md
+    icon: assets/vendors/checkpoint.png
 
   - name: adapter-checkpoint_reputation_service
     type: adapter
@@ -911,6 +967,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_reputation_service
     docs: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_reputation_service/-/blob/master/README.md
+    icon: assets/vendors/checkpoint.png
 
   - name: adapter-ciena_mcp
     type: adapter
@@ -927,6 +984,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ciena_mcp
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ciena_mcp/-/blob/master/README.md
+    icon: assets/vendors/ciena.png
 
   - name: adapter-cisco_aci
     type: adapter
@@ -943,6 +1001,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_aci
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_aci/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_acs
     type: adapter
@@ -959,6 +1018,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_acs
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_acs/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_callmanager
     type: adapter
@@ -975,6 +1035,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_callmanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_callmanager/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_cml
     type: adapter
@@ -991,6 +1052,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_cml
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_cml/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_dcnm
     type: adapter
@@ -1007,6 +1069,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_dcnm
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_dcnm/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_defense_orchestrator
     type: adapter
@@ -1023,6 +1086,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_defense_orchestrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_defense_orchestrator/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_firepowermanagementcenter
     type: adapter
@@ -1039,6 +1103,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowermanagementcenter
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowermanagementcenter/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_firepowerthreatdefense
     type: adapter
@@ -1055,6 +1120,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowerthreatdefense
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowerthreatdefense/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_ise
     type: adapter
@@ -1071,6 +1137,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_ise_ers
     type: adapter
@@ -1087,6 +1154,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise_ers
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise_ers/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_ndfc
     type: adapter
@@ -1103,6 +1171,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-cisco_ndfc
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ndfc/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_prime
     type: adapter
@@ -1119,6 +1188,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_prime
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_prime/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_software_manager
     type: adapter
@@ -1135,6 +1205,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_software_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_software_manager/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_support
     type: adapter
@@ -1151,6 +1222,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_support
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_support/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-cisco_tetration
     type: adapter
@@ -1167,6 +1239,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_tetration
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_tetration/-/blob/master/README.md
+    icon: assets/vendors/cisco.png
 
   - name: adapter-clearcable_noms
     type: adapter
@@ -1183,6 +1256,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-clearcable_noms
     docs: https://gitlab.com/itentialopensource/adapters/adapter-clearcable_noms/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-cloudgenix
     type: adapter
@@ -1199,6 +1273,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cloudgenix
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cloudgenix/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-cloudify
     type: adapter
@@ -1215,6 +1290,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cloudify
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cloudify/-/blob/master/README.md
+    icon: assets/vendors/cloudify.png
 
   - name: adapter-confluence_cloud
     type: adapter
@@ -1231,6 +1307,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-confluence_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-confluence_cloud/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-cvp
     type: adapter
@@ -1247,6 +1324,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cvp
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cvp/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-cyberark
     type: adapter
@@ -1263,6 +1341,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cyberark
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cyberark/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-datadog
     type: adapter
@@ -1279,6 +1358,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-datadog
     docs: https://gitlab.com/itentialopensource/adapters/adapter-datadog/-/blob/master/README.md
+    icon: assets/vendors/datadog.png
 
   - name: adapter-db_mongo
     type: adapter
@@ -1295,6 +1375,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_mongo
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_mongo/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-db_mssql
     type: adapter
@@ -1311,6 +1392,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_mssql
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_mssql/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-db_mysql
     type: adapter
@@ -1327,6 +1409,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_mysql
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_mysql/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-db_oracle
     type: adapter
@@ -1343,6 +1426,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_oracle
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_oracle/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-db_postgresql
     type: adapter
@@ -1359,6 +1443,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_postgresql
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_postgresql/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-db_sybase
     type: adapter
@@ -1375,6 +1460,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_sybase
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_sybase/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-dbt_cloud
     type: adapter
@@ -1391,6 +1477,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-dbt_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-dbt_cloud/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-delinea
     type: adapter
@@ -1407,6 +1494,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-delinea
     docs: https://gitlab.com/itentialopensource/adapters/adapter-delinea/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-device42
     type: adapter
@@ -1423,6 +1511,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-device42
     docs: https://gitlab.com/itentialopensource/adapters/adapter-device42/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-digicert_pki
     type: adapter
@@ -1439,6 +1528,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-digicert_pki
     docs: https://gitlab.com/itentialopensource/adapters/adapter-digicert_pki/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-dna_center
     type: adapter
@@ -1455,6 +1545,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-dna_center
     docs: https://gitlab.com/itentialopensource/adapters/adapter-dna_center/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-docker
     type: adapter
@@ -1471,6 +1562,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-docker
     docs: https://gitlab.com/itentialopensource/adapters/adapter-docker/-/blob/master/README.md
+    icon: assets/vendors/docker.png
 
   - name: adapter-drivenets_networkcloud
     type: adapter
@@ -1487,6 +1579,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkcloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkcloud/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-drivenets_networkorchestrator
     type: adapter
@@ -1503,6 +1596,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkorchestrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkorchestrator/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-eai
     type: adapter
@@ -1519,6 +1613,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-eai
     docs: https://gitlab.com/itentialopensource/adapters/adapter-eai/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-easypost
     type: adapter
@@ -1535,6 +1630,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-easypost
     docs: https://gitlab.com/itentialopensource/adapters/adapter-easypost/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-efficientip_solidserver
     type: adapter
@@ -1551,6 +1647,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-efficientip_solidserver
     docs: https://gitlab.com/itentialopensource/adapters/adapter-efficientip_solidserver/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-email
     type: adapter
@@ -1567,6 +1664,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-email
     docs: https://gitlab.com/itentialopensource/adapters/adapter-email/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-equinix
     type: adapter
@@ -1583,6 +1681,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-equinix
     docs: https://gitlab.com/itentialopensource/adapters/adapter-equinix/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-etsi_sol002
     type: adapter
@@ -1599,6 +1698,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol002
     docs: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol002/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-etsi_sol003
     type: adapter
@@ -1615,6 +1715,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol003
     docs: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol003/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-etsi_sol005
     type: adapter
@@ -1631,6 +1732,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol005
     docs: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol005/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-extrahop
     type: adapter
@@ -1647,6 +1749,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-extrahop
     docs: https://gitlab.com/itentialopensource/adapters/adapter-extrahop/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-f5_bigiq
     type: adapter
@@ -1663,6 +1766,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-f5_bigiq
     docs: https://gitlab.com/itentialopensource/adapters/adapter-f5_bigiq/-/blob/master/README.md
+    icon: assets/vendors/f5.png
 
   - name: adapter-f5_velos
     type: adapter
@@ -1679,6 +1783,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-f5_velos
     docs: https://gitlab.com/itentialopensource/adapters/adapter-f5_velos/-/blob/master/README.md
+    icon: assets/vendors/f5.png
 
   - name: adapter-firemon_securitymanager
     type: adapter
@@ -1695,6 +1800,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-firemon_securitymanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-firemon_securitymanager/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-flexiwan
     type: adapter
@@ -1711,6 +1817,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-flexiwan
     docs: https://gitlab.com/itentialopensource/adapters/adapter-flexiwan/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-fortimanager
     type: adapter
@@ -1727,6 +1834,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-fortimanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-fortimanager/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-forwardnetworks
     type: adapter
@@ -1743,6 +1851,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-forwardnetworks
     docs: https://gitlab.com/itentialopensource/adapters/adapter-forwardnetworks/-/blob/master/README.md
+    icon: assets/vendors/forward-networks.png
 
   - name: adapter-gcp_compute
     type: adapter
@@ -1759,6 +1868,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-gcp_compute
     docs: https://gitlab.com/itentialopensource/adapters/adapter-gcp_compute/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-generic
     type: adapter
@@ -1775,6 +1885,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-generic
     docs: https://gitlab.com/itentialopensource/adapters/adapter-generic/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-git
     type: adapter
@@ -1791,6 +1902,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-git
     docs: https://gitlab.com/itentialopensource/adapters/adapter-git/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-github
     type: adapter
@@ -1807,6 +1919,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-github
     docs: https://gitlab.com/itentialopensource/adapters/adapter-github/-/blob/master/README.md
+    icon: assets/vendors/github.png
 
   - name: adapter-gitlab
     type: adapter
@@ -1823,6 +1936,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-gitlab
     docs: https://gitlab.com/itentialopensource/adapters/adapter-gitlab/-/blob/master/README.md
+    icon: assets/vendors/gitlab.png
 
   - name: adapter-glds_customerexperiencegateway
     type: adapter
@@ -1839,6 +1953,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-glds_customerexperiencegateway
     docs: https://gitlab.com/itentialopensource/adapters/adapter-glds_customerexperiencegateway/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-godaddy
     type: adapter
@@ -1855,6 +1970,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-godaddy
     docs: https://gitlab.com/itentialopensource/adapters/adapter-godaddy/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-gogetssl
     type: adapter
@@ -1871,6 +1987,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-gogetssl
     docs: https://gitlab.com/itentialopensource/adapters/adapter-gogetssl/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-google_drive
     type: adapter
@@ -1887,6 +2004,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-google_drive
     docs: https://gitlab.com/itentialopensource/adapters/adapter-google_drive/-/blob/master/README.md
+    icon: assets/vendors/google-cloud.png
 
   - name: adapter-hashicorp_vault
     type: adapter
@@ -1903,6 +2021,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-hashicorp_vault
     docs: https://gitlab.com/itentialopensource/adapters/adapter-hashicorp_vault/-/blob/master/README.md
+    icon: assets/vendors/hashicorp.png
 
   - name: adapter-hyas_protect
     type: adapter
@@ -1919,6 +2038,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-hyas_protect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-hyas_protect/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-iap
     type: adapter
@@ -1935,6 +2055,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-iap
     docs: https://gitlab.com/itentialopensource/adapters/adapter-iap/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-imperva
     type: adapter
@@ -1951,6 +2072,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-imperva
     docs: https://gitlab.com/itentialopensource/adapters/adapter-imperva/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-incognito
     type: adapter
@@ -1967,6 +2089,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-incognito
     docs: https://gitlab.com/itentialopensource/adapters/adapter-incognito/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-incognito_soap
     type: adapter
@@ -1983,6 +2106,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-incognito_soap
     docs: https://gitlab.com/itentialopensource/adapters/adapter-incognito_soap/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-infoblox
     type: adapter
@@ -1999,6 +2123,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox
     docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox/-/blob/master/README.md
+    icon: assets/vendors/infoblox.png
 
   - name: adapter-infoblox_netmri
     type: adapter
@@ -2015,6 +2140,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_netmri
     docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_netmri/-/blob/master/README.md
+    icon: assets/vendors/infoblox.png
 
   - name: adapter-infoblox_threat_defense
     type: adapter
@@ -2031,6 +2157,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_threat_defense
     docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_threat_defense/-/blob/master/README.md
+    icon: assets/vendors/infoblox.png
 
   - name: adapter-infoblox_universal_ddi
     type: adapter
@@ -2047,6 +2174,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_universal_ddi
     docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_universal_ddi/-/blob/master/README.md
+    icon: assets/vendors/infoblox.png
 
   - name: adapter-ipfabric
     type: adapter
@@ -2063,6 +2191,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ipfabric
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ipfabric/-/blob/master/README.md
+    icon: assets/vendors/ip-fabric.png
 
   - name: adapter-itop
     type: adapter
@@ -2079,6 +2208,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-itop
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ipfabric/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-jenkins
     type: adapter
@@ -2095,6 +2225,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-jenkins
     docs: https://gitlab.com/itentialopensource/adapters/adapter-jenkins/-/blob/master/README.md
+    icon: assets/vendors/jenkins.png
 
   - name: adapter-jira
     type: adapter
@@ -2111,6 +2242,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-jira
     docs: https://gitlab.com/itentialopensource/adapters/adapter-jira/-/blob/master/README.md
+    icon: assets/vendors/jira.png
 
   - name: adapter-jira_service_management
     type: adapter
@@ -2127,6 +2259,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-jira_service_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-jira_service_management/-/blob/master/README.md
+    icon: assets/vendors/jira.png
 
   - name: adapter-juniper_cso
     type: adapter
@@ -2143,6 +2276,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-juniper_cso
     docs: https://gitlab.com/itentialopensource/adapters/adapter-juniper_cso/-/blob/master/README.md
+    icon: assets/vendors/juniper.png
 
   - name: adapter-juniper_mist
     type: adapter
@@ -2159,6 +2293,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-juniper_mist
     docs: https://gitlab.com/itentialopensource/adapters/adapter-juniper_mist/-/blob/master/README.md
+    icon: assets/vendors/juniper.png
 
   - name: adapter-juniper_northstar
     type: adapter
@@ -2175,6 +2310,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-juniper_northstar
     docs: https://gitlab.com/itentialopensource/adapters/adapter-juniper_northstar/-/blob/master/README.md
+    icon: assets/vendors/juniper.png
 
   - name: adapter-kafkav2
     type: adapter
@@ -2191,6 +2327,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-kafkav2
     docs: https://gitlab.com/itentialopensource/adapters/adapter-kafkav2/-/blob/master/README.md
+    icon: assets/vendors/kafka.png
 
   - name: adapter-kentik
     type: adapter
@@ -2207,6 +2344,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-kentik
     docs: https://gitlab.com/itentialopensource/adapters/adapter-kentik/-/blob/master/README.md
+    icon: assets/vendors/kentik.png
 
   - name: adapter-kentik_v5
     type: adapter
@@ -2223,6 +2361,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-kentik_v5
     docs: https://gitlab.com/itentialopensource/adapters/adapter-kentik_v5/-/blob/master/README.md
+    icon: assets/vendors/kentik.png
 
   - name: adapter-keygen
     type: adapter
@@ -2239,6 +2378,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-keygen
     docs: https://gitlab.com/itentialopensource/adapters/adapter-keygen/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-kubernetes
     type: adapter
@@ -2255,6 +2395,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-kubernetes
     docs: https://gitlab.com/itentialopensource/adapters/adapter-kubernetes/-/blob/master/README.md
+    icon: assets/vendors/kubernetes.png
 
   - name: adapter-logicmonitor
     type: adapter
@@ -2271,6 +2412,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-logicmonitor
     docs: https://gitlab.com/itentialopensource/adapters/adapter-logicmonitor/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-mattermost
     type: adapter
@@ -2287,6 +2429,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-mattermost
     docs: https://gitlab.com/itentialopensource/adapters/mattermost/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-menmice_micetro
     type: adapter
@@ -2303,6 +2446,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-menmice_micetro
     docs: https://gitlab.com/itentialopensource/adapters/adapter-menmice_micetro/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-meraki
     type: adapter
@@ -2319,6 +2463,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-meraki
     docs: https://gitlab.com/itentialopensource/adapters/adapter-meraki/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-metaswitch
     type: adapter
@@ -2335,6 +2480,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-metaswitch
     docs: https://gitlab.com/itentialopensource/adapters/adapter-metaswitch/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-microsoft_dynamics
     type: adapter
@@ -2351,6 +2497,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_dynamics
     docs: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_dynamics/-/blob/master/README.md
+    icon: assets/vendors/microsoft.png
 
   - name: adapter-microsoft_graph
     type: adapter
@@ -2367,6 +2514,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_graph
     docs: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_graph/-/blob/master/README.md
+    icon: assets/vendors/microsoft.png
 
   - name: adapter-microsoft_office365
     type: adapter
@@ -2383,6 +2531,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_office365
     docs: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_office365/-/blob/master/README.md
+    icon: assets/vendors/microsoft.png
 
   - name: adapter-mockdevice
     type: adapter
@@ -2399,6 +2548,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-mockdevice
     docs: https://gitlab.com/itentialopensource/adapters/adapter-mockdevice/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-moogsoft
     type: adapter
@@ -2415,6 +2565,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft
     docs: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft/-/blob/master/README.md
+    icon: assets/vendors/moogsoft.png
 
   - name: adapter-moogsoft_saas
     type: adapter
@@ -2431,6 +2582,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft_saas
     docs: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft_saas/-/blob/master/README.md
+    icon: assets/vendors/moogsoft.png
 
   - name: adapter-morpheus
     type: adapter
@@ -2447,6 +2599,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-morpheus
     docs: https://gitlab.com/itentialopensource/adapters/adapter-morpheus/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-msteams
     type: adapter
@@ -2463,6 +2616,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-msteams
     docs: https://gitlab.com/itentialopensource/adapters/adapter-msteams/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-nautobot
     type: adapter
@@ -2479,6 +2633,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nautobot
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nautobot/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-nautobot_v2
     type: adapter
@@ -2495,6 +2650,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-nautobot_v2
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nautobot/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-netadmin_nine
     type: adapter
@@ -2511,6 +2667,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netadmin_nine
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netadmin_nine/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-netbox
     type: adapter
@@ -2527,6 +2684,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netbox
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netbox/-/blob/master/README.md
+    icon: assets/vendors/netbox.png
 
   - name: adapter-netbox_v210
     type: adapter
@@ -2543,6 +2701,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v210
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v210/-/blob/master/README.md
+    icon: assets/vendors/netbox.png
 
   - name: adapter-netbox_v33
     type: adapter
@@ -2559,6 +2718,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v33
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v33/-/blob/master/README.md
+    icon: assets/vendors/netbox.png
 
   - name: adapter-netbrain
     type: adapter
@@ -2575,6 +2735,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netbrain
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netbrain/-/blob/master/README.md
+    icon: assets/vendors/netbrain.png
 
   - name: adapter-netterrain
     type: adapter
@@ -2591,6 +2752,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netterrain
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netterrain/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-new_relic
     type: adapter
@@ -2607,6 +2769,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-new_relic
     docs: https://gitlab.com/itentialopensource/adapters/adapter-new_relic/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-nexus_repository
     type: adapter
@@ -2623,6 +2786,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nexus_repository
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nexus_repository/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-nokia_altiplano
     type: adapter
@@ -2639,6 +2803,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_altiplano
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_altiplano/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_netact
     type: adapter
@@ -2655,6 +2820,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_netact
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_netact/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_nsp_assurance
     type: adapter
@@ -2671,6 +2837,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_assurance
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_assurance/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_nsp_device_administrator
     type: adapter
@@ -2687,6 +2854,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_administrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_administrator/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_nsp_device_configurator
     type: adapter
@@ -2703,6 +2871,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_configurator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_configurator/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_nsp_network
     type: adapter
@@ -2719,6 +2888,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_nsp_network_management
     type: adapter
@@ -2735,6 +2905,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network_management/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_nsp_nfm_p
     type: adapter
@@ -2751,6 +2922,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfm_p
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfm_p/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_nsp_nfv
     type: adapter
@@ -2767,6 +2939,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfv
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfv/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_nsp_sdn
     type: adapter
@@ -2783,6 +2956,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_sdn
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_sdn/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-nokia_vitalqip
     type: adapter
@@ -2799,6 +2973,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_vitalqip
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_vitalqip/-/blob/master/README.md
+    icon: assets/vendors/nokia.png
 
   - name: adapter-ns1_cloud
     type: adapter
@@ -2815,6 +2990,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ns1_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ns1_cloud/-/blob/master/README.md
+    icon: assets/vendors/ns1.png
 
   - name: adapter-ns1_enterprise
     type: adapter
@@ -2831,6 +3007,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ns1_enterprise
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ns1_enterprise/-/blob/master/README.md
+    icon: assets/vendors/ns1.png
 
   - name: adapter-nutanix_intentful
     type: adapter
@@ -2847,6 +3024,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nutanix_intentful
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nutanix_intentful/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-nvd
     type: adapter
@@ -2863,6 +3041,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nvd
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nvd/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-okta
     type: adapter
@@ -2879,6 +3058,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-okta
     docs: https://gitlab.com/itentialopensource/adapters/adapter-okta/-/blob/master/README.md
+    icon: assets/vendors/okta.png
 
   - name: adapter-onap_aai
     type: adapter
@@ -2895,6 +3075,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_aai
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_aai/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-onap_appc
     type: adapter
@@ -2911,6 +3092,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_appc
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_appc/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-onap_blueprint_processor
     type: adapter
@@ -2927,6 +3109,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_blueprint_processor
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_blueprint_processor/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-onap_dcae
     type: adapter
@@ -2943,6 +3126,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_dcae
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_dcae/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-onap_sdc
     type: adapter
@@ -2959,6 +3143,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_sdc
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_sdc/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-onap_so
     type: adapter
@@ -2975,6 +3160,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_so
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_so/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-onepassword_connect
     type: adapter
@@ -2991,6 +3177,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onepassword_connect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onepassword_connect/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-op5
     type: adapter
@@ -3007,6 +3194,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-op5
     docs: https://gitlab.com/itentialopensource/adapters/adapter-op5/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-opengear_lighthouse
     type: adapter
@@ -3023,6 +3211,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-opengear_lighthouse
     docs: https://gitlab.com/itentialopensource/adapters/adapter-opengear_lighthouse/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-openstack_cinder
     type: adapter
@@ -3039,6 +3228,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_cinder
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_cinder/-/blob/master/README.md
+    icon: assets/vendors/openstack.png
 
   - name: adapter-openstack_glance
     type: adapter
@@ -3055,6 +3245,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_glance
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_glance/-/blob/master/README.md
+    icon: assets/vendors/openstack.png
 
   - name: adapter-openstack_keystone
     type: adapter
@@ -3071,6 +3262,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_keystone
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_keystone/-/blob/master/README.md
+    icon: assets/vendors/openstack.png
 
   - name: adapter-openstack_neutron
     type: adapter
@@ -3087,6 +3279,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_neutron
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_neutron/-/blob/master/README.md
+    icon: assets/vendors/openstack.png
 
   - name: adapter-openstack_nova
     type: adapter
@@ -3103,6 +3296,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_nova
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_nova/-/blob/master/README.md
+    icon: assets/vendors/openstack.png
 
   - name: adapter-opsgenie
     type: adapter
@@ -3119,6 +3313,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-opsgenie
     docs: https://gitlab.com/itentialopensource/adapters/adapter-opsgenie/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-opsramp
     type: adapter
@@ -3135,6 +3330,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-opsramp
     docs: https://gitlab.com/itentialopensource/adapters/adapter-opsramp/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-oracle_assure1
     type: adapter
@@ -3151,6 +3347,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-oracle_assure1
     docs: https://gitlab.com/itentialopensource/adapters/adapter-oracle_assure1/-/blob/master/README.md
+    icon: assets/vendors/oracle.png
 
   - name: adapter-oracle_cloud
     type: adapter
@@ -3167,6 +3364,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-oracle_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-oracle_cloud/-/blob/master/README.md
+    icon: assets/vendors/oracle.png
 
   - name: adapter-owasp_zap
     type: adapter
@@ -3183,6 +3381,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-owasp_zap
     docs: https://gitlab.com/itentialopensource/adapters/adapter-owasp_zap/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-pagerduty
     type: adapter
@@ -3199,6 +3398,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-pagerduty
     docs: https://gitlab.com/itentialopensource/adapters/adapter-pagerduty/-/blob/master/README.md
+    icon: assets/vendors/pagerduty.png
 
   - name: adapter-paloalto_prismacloud
     type: adapter
@@ -3215,6 +3415,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paloalto_prismacloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paloalto_prismacloud/-/blob/master/README.md
+    icon: assets/vendors/palo-alto.png
 
   - name: adapter-panorama
     type: adapter
@@ -3231,6 +3432,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-panorama
     docs: https://gitlab.com/itentialopensource/adapters/adapter-panorama/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-paragon_active_assurance
     type: adapter
@@ -3247,6 +3449,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_active_assurance
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_active_assurance/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-paragon_dcs
     type: adapter
@@ -3263,6 +3466,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dcs
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dcs/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-paragon_dpm
     type: adapter
@@ -3279,6 +3483,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dpm
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dpm/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-paragon_ems_device_manager
     type: adapter
@@ -3295,6 +3500,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_manager/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-paragon_ems_device_model
     type: adapter
@@ -3311,6 +3517,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_model
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_model/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-paragon_iam
     type: adapter
@@ -3327,6 +3534,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_iam
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_iam/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-paragon_insights
     type: adapter
@@ -3343,6 +3551,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_insights
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_insights/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-paragon_job_store
     type: adapter
@@ -3359,6 +3568,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_job_store
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_job_store/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-paragon_pathfinder
     type: adapter
@@ -3375,6 +3585,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_pathfinder
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_pathfinder/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-phpipam
     type: adapter
@@ -3391,6 +3602,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-phpipam
     docs: https://gitlab.com/itentialopensource/adapters/adapter-phpipam/-/blob/master/README.md
+    icon: assets/vendors/phpipam.png
 
   - name: adapter-pitney_bowes
     type: adapter
@@ -3407,6 +3619,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-pitney_bowes
     docs: https://gitlab.com/itentialopensource/adapters/adapter-pitney_bowes/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-prtg
     type: adapter
@@ -3423,6 +3636,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-prtg
     docs: https://gitlab.com/itentialopensource/adapters/adapter-prtg/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-psirt
     type: adapter
@@ -3439,6 +3653,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-psirt
     docs: https://gitlab.com/itentialopensource/adapters/adapter-psirt/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-psxapiservice
     type: adapter
@@ -3455,6 +3670,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-psxapiservice
     docs: https://gitlab.com/itentialopensource/adapters/adapter-psxapiservice/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-puppet
     type: adapter
@@ -3471,6 +3687,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-puppet
     docs: https://gitlab.com/itentialopensource/adapters/adapter-puppet/-/blob/master/README.md
+    icon: assets/vendors/puppet.png
 
   - name: adapter-qualys
     type: adapter
@@ -3487,6 +3704,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-qualys
     docs: https://gitlab.com/itentialopensource/adapters/adapter-qualys/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-rackn_digital_rebar
     type: adapter
@@ -3503,6 +3721,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-rackn_digital_rebar
     docs: https://gitlab.com/itentialopensource/adapters/adapter-rackn_digital_rebar/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-rancher
     type: adapter
@@ -3519,6 +3738,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-rancher
     docs: https://gitlab.com/itentialopensource/adapters/adapter-rancher/-/blob/master/README.md
+    icon: assets/vendors/rancher.png
 
   - name: adapter-redis_cloud
     type: adapter
@@ -3535,6 +3755,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-redis_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-redis_cloud/-/blob/master/README.md
+    icon: assets/vendors/redis.png
 
   - name: adapter-remedy_actionrequest
     type: adapter
@@ -3551,6 +3772,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-remedy_actionrequest
     docs: https://gitlab.com/itentialopensource/adapters/adapter-remedy_actionrequest/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-ringcentral
     type: adapter
@@ -3567,6 +3789,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ringcentral
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ringcentral/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-robustel
     type: adapter
@@ -3583,6 +3806,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-robustel
     docs: https://gitlab.com/itentialopensource/adapters/adapter-robustel/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-rubrik
     type: adapter
@@ -3599,6 +3823,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-rubrik
     docs: https://gitlab.com/itentialopensource/adapters/adapter-rubrik/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-rundeck
     type: adapter
@@ -3615,6 +3840,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-rundeck
     docs: https://gitlab.com/itentialopensource/adapters/adapter-rundeck/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-salesforce
     type: adapter
@@ -3631,6 +3857,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce/-/blob/master/README.md
+    icon: assets/vendors/salesforce.png
 
   - name: adapter-salesforce_apex
     type: adapter
@@ -3647,6 +3874,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_apex
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_apex/-/blob/master/README.md
+    icon: assets/vendors/salesforce.png
 
   - name: adapter-salesforce_cases
     type: adapter
@@ -3663,6 +3891,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_cases
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_cases/-/blob/master/README.md
+    icon: assets/vendors/salesforce.png
 
   - name: adapter-salesforce_metadata
     type: adapter
@@ -3679,6 +3908,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_metadata
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_metadata/-/blob/master/README.md
+    icon: assets/vendors/salesforce.png
 
   - name: adapter-salesforce_partner
     type: adapter
@@ -3695,6 +3925,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_partner
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_partner/-/blob/master/README.md
+    icon: assets/vendors/salesforce.png
 
   - name: adapter-salesforce_rest
     type: adapter
@@ -3711,6 +3942,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-salesforce_rest
     docs: https://docs.itential.com/opensource/docs/salesforce_rest
+    icon: assets/vendors/salesforce.png
 
   - name: adapter-salesforce_tooling
     type: adapter
@@ -3727,6 +3959,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_tooling
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_tooling/-/blob/master/README.md
+    icon: assets/vendors/salesforce.png
 
   - name: adapter-salt
     type: adapter
@@ -3743,6 +3976,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salt
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salt/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-scansource
     type: adapter
@@ -3759,6 +3993,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-scansource
     docs: https://gitlab.com/itentialopensource/adapters/adapter-scansource/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-sciencelogic_sl1
     type: adapter
@@ -3775,6 +4010,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sciencelogic_sl1
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sciencelogic_sl1/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-sectigo_certification_manager
     type: adapter
@@ -3791,6 +4027,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/Security (SASE)/adapter-sectigo_certification_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sectigo_certification_manager/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-selector_ai
     type: adapter
@@ -3807,6 +4044,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-selector_ai
     docs: https://gitlab.com/itentialopensource/adapters/adapter-selector_ai/-/blob/master/README.md
+    icon: assets/vendors/selector.png
 
   - name: adapter-sendgrid
     type: adapter
@@ -3823,6 +4061,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sendgrid
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sendgrid/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-service_desk_plus
     type: adapter
@@ -3839,6 +4078,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-service_desk_plus
     docs: https://gitlab.com/itentialopensource/adapters/adapter-service_desk_plus/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-servicenow
     type: adapter
@@ -3855,6 +4095,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-servicenow
     docs: https://gitlab.com/itentialopensource/adapters/adapter-servicenow/-/blob/master/README.md
+    icon: assets/vendors/servicenow.png
 
   - name: adapter-sevone
     type: adapter
@@ -3871,6 +4112,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sevone
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sevone/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-sevone_v2
     type: adapter
@@ -3887,6 +4129,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sevone_v2
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sevone_v2/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-sharepoint
     type: adapter
@@ -3903,6 +4146,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sharepoint
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sharepoint/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-silverpeak
     type: adapter
@@ -3919,6 +4163,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-silverpeak
     docs: https://gitlab.com/itentialopensource/adapters/adapter-silverpeak/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-six_connect
     type: adapter
@@ -3935,6 +4180,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-six_connect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-six_connect/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-skybox
     type: adapter
@@ -3951,6 +4197,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-skybox
     docs: https://gitlab.com/itentialopensource/adapters/adapter-skybox/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-slack
     type: adapter
@@ -3967,6 +4214,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-slack
     docs: https://gitlab.com/itentialopensource/adapters/adapter-slack/-/blob/master/README.md
+    icon: assets/vendors/slack.png
 
   - name: adapter-snowflake_sql
     type: adapter
@@ -3983,6 +4231,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-snowflake_sql
     docs: https://gitlab.com/itentialopensource/adapters/adapter-snowflake_sql/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-solarwinds
     type: adapter
@@ -3999,6 +4248,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds
     docs: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds/-/blob/master/README.md
+    icon: assets/vendors/solarwinds.png
 
   - name: adapter-solarwinds_servicedesk
     type: adapter
@@ -4015,6 +4265,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds_servicedesk
     docs: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds_servicedesk/-/blob/master/README.md
+    icon: assets/vendors/solarwinds.png
 
   - name: adapter-spirent_testcenter
     type: adapter
@@ -4031,6 +4282,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-spirent_testcenter
     docs: https://gitlab.com/itentialopensource/adapters/adapter-spirent_testcenter/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-splunk
     type: adapter
@@ -4047,6 +4299,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-splunk
     docs: https://gitlab.com/itentialopensource/adapters/adapter-splunk/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-starburst
     type: adapter
@@ -4063,6 +4316,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-starburst
     docs: https://gitlab.com/itentialopensource/adapters/adapter-starburst/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-steel_connect
     type: adapter
@@ -4079,6 +4333,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-steel_connect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-steel_connect/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-surreal_db
     type: adapter
@@ -4095,6 +4350,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-surreal_db
     docs: https://gitlab.com/itentialopensource/adapters/adapter-surreal_db/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-symantec_mgmtcenter
     type: adapter
@@ -4111,6 +4367,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-symantec_mgmtcenter
     docs: https://gitlab.com/itentialopensource/adapters/adapter-symantec_mgmtcenter/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-tapi
     type: adapter
@@ -4127,6 +4384,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tapi
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tapi/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-tcpwave
     type: adapter
@@ -4143,6 +4401,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tcpwave
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tcpwave/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-terraform_enterprise
     type: adapter
@@ -4159,6 +4418,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-terraform_enterprise
     docs: https://gitlab.com/itentialopensource/adapters/adapter-terraform_enterprise/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-thales_cipher_trust_manager
     type: adapter
@@ -4175,6 +4435,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-thales_cipher_trust_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-thales_cipher_trust_manager/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-thingspace
     type: adapter
@@ -4191,6 +4452,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-thingspace
     docs: https://gitlab.com/itentialopensource/adapters/adapter-thingspace/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-thousand_eyes
     type: adapter
@@ -4207,6 +4469,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-thousand_eyes
     docs: https://gitlab.com/itentialopensource/adapters/adapter-thousand_eyes/-/blob/master/README.md
+    icon: assets/vendors/thousandeyes.png
 
   - name: adapter-thruk_monitoring
     type: adapter
@@ -4223,6 +4486,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-thruk_monitoring
     docs: https://gitlab.com/itentialopensource/adapters/adapter-thruk_monitoring/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-tiger_connect
     type: adapter
@@ -4239,6 +4503,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tiger_connect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tiger_connect/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-tmf638_service_inventory_management
     type: adapter
@@ -4255,6 +4520,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf638_service_inventory_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf638_service_inventory_management/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-tmf639_resource_inventory_management
     type: adapter
@@ -4271,6 +4537,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf639_resource_inventory_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf639_resource_inventory_management/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-tmf641_service_ordering_management
     type: adapter
@@ -4287,6 +4554,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf641_tmf641_service_ordering_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf641_service_ordering_management/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-tmf642_alarm_management
     type: adapter
@@ -4303,6 +4571,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf642_alarm_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf642_alarm_management/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-tufin_secureapp
     type: adapter
@@ -4319,6 +4588,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tufin_secureapp
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tufin_secureapp/-/blob/master/README.md
+    icon: assets/vendors/tufin.png
 
   - name: adapter-tufin_securechange
     type: adapter
@@ -4335,6 +4605,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securechange
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securechange/-/blob/master/README.md
+    icon: assets/vendors/tufin.png
 
   - name: adapter-tufin_securetrack
     type: adapter
@@ -4351,6 +4622,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securetrack
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securetrack/-/blob/master/README.md
+    icon: assets/vendors/tufin.png
 
   - name: adapter-velocloud_orchestrator
     type: adapter
@@ -4367,6 +4639,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-velocloud_orchestrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-velocloud_orchestrator/-/blob/master/README.md
+    icon: assets/vendors/velocloud.png
 
   - name: adapter-venafi
     type: adapter
@@ -4383,6 +4656,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-venafi
     docs: https://gitlab.com/itentialopensource/adapters/adapter-venafi/-/blob/master/README.md
+    icon: assets/vendors/venafi.png
 
   - name: adapter-venafi_trust_protection_platform
     type: adapter
@@ -4399,6 +4673,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-venafi_trust_protection_platform
     docs: https://gitlab.com/itentialopensource/adapters/adapter-venafi_trust_protection_platform/-/blob/master/README.md
+    icon: assets/vendors/venafi.png
 
   - name: adapter-versa_director
     type: adapter
@@ -4415,6 +4690,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-versa_director
     docs: https://gitlab.com/itentialopensource/adapters/adapter-versa_director/-/blob/master/README.md
+    icon: assets/vendors/versa.png
 
   - name: adapter-viavi_xpertrak
     type: adapter
@@ -4431,6 +4707,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-viavi_xpertrak
     docs: https://gitlab.com/itentialopensource/adapters/adapter-viavi_xpertrak/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-viptela
     type: adapter
@@ -4447,6 +4724,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-viptela
     docs: https://gitlab.com/itentialopensource/adapters/adapter-viptela/-/blob/master/README.md
+    icon: assets/vendors/viptela.png
 
   - name: adapter-vmware_cloud
     type: adapter
@@ -4463,6 +4741,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_cloud/-/blob/master/README.md
+    icon: assets/vendors/vmware.png
 
   - name: adapter-vmware_horizon_server
     type: adapter
@@ -4479,6 +4758,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_horizon_server
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_horizon_server/-/blob/master/README.md
+    icon: assets/vendors/vmware.png
 
   - name: adapter-vmware_nsx_t
     type: adapter
@@ -4495,6 +4775,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_nsx_t
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_nsx_t/-/blob/master/README.md
+    icon: assets/vendors/vmware.png
 
   - name: adapter-vmware_vcenter
     type: adapter
@@ -4511,6 +4792,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vcenter
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vcenter/-/blob/master/README.md
+    icon: assets/vendors/vmware.png
 
   - name: adapter-vmware_virtual_infrastructure
     type: adapter
@@ -4527,6 +4809,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_virtual_infrastructure
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_virtual_infrastructure/-/blob/master/README.md
+    icon: assets/vendors/vmware.png
 
   - name: adapter-vmware_vrealize_orchestrator
     type: adapter
@@ -4543,6 +4826,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vrealize_orchestrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vrealize_orchestrator/-/blob/master/README.md
+    icon: assets/vendors/vmware.png
 
   - name: adapter-vmware_vsphere
     type: adapter
@@ -4559,6 +4843,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vsphere
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vsphere/-/blob/master/README.md
+    icon: assets/vendors/vmware.png
 
   - name: adapter-watchguard_firebox_mgmt
     type: adapter
@@ -4575,6 +4860,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-watchguard_firebox_mgmt
     docs: https://gitlab.com/itentialopensource/adapters/adapter-watchguard_firebox_mgmt/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-webex_teams
     type: adapter
@@ -4591,6 +4877,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-webex_teams
     docs: https://gitlab.com/itentialopensource/adapters/adapter-webex_teams/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-whatsup_gold
     type: adapter
@@ -4607,6 +4894,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-whatsup_gold
     docs: https://gitlab.com/itentialopensource/adapters/adapter-whatsup_gold/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-winston_syslog
     type: adapter
@@ -4623,6 +4911,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-winston_syslog
     docs: https://gitlab.com/itentialopensource/adapters/adapter-winston_syslog/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-zabbix
     type: adapter
@@ -4639,6 +4928,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-zabbix
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zabbix/-/blob/master/README.md
+    icon: assets/vendors/zabbix.png
 
   - name: adapter-zero_networks
     type: adapter
@@ -4655,6 +4945,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/security/adapter-zero_networks
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zero_networks/-/blob/master/README.md
+    icon: assets/generic/adapter.png
 
   - name: adapter-zoom
     type: adapter
@@ -4671,6 +4962,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-zoom
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zoom/-/blob/master/README.md
+    icon: assets/vendors/zoom.png
 
   - name: adapter-zscaler
     type: adapter
@@ -4687,6 +4979,7 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-zscaler
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zscaler/-/blob/master/README.md
+    icon: assets/vendors/zscaler.png
 
   - name: adapter-zscaler_zpa
     type: adapter
@@ -4703,3 +4996,4 @@ projects:
     license: Apache-2.0
     repo: https://gitlab.com/itentialopensource/adapters/adapter-zscaler_zpa
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zscaler_zpa/-/blob/master/README.md
+    icon: assets/vendors/zscaler.png
