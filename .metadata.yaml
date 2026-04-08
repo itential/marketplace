@@ -1,0 +1,29 @@
+# .metadata.yaml
+# Itential Community — Marketplace Registry
+#
+# This file registers marketplace in the Itential Developer Community Marketplace.
+# Schema reference: https://itential.atlassian.net/wiki/spaces/DCOMM/pages/5919899707
+#
+# active: controls visibility in the Marketplace
+# status: certified | community (certification tier — separate from visibility)
+
+projects:
+
+  # ---------------------------------------------------------------------------
+  # marketplace
+  # Source: GitHub — https://github.com/itential/marketplace
+  # ---------------------------------------------------------------------------
+  - name: marketplace
+    type: Assets
+    active: false
+    status: community
+    source: github
+    compatibility:
+      - platform
+    description: "The Itential Developer Community Marketplace — a centralized registry for discovering and sharing community-built tools, adapters, and integrations."
+    tags:
+      - assets
+    maintainer:
+      - "@wcollins"
+    license: GPL-3.0
+    repo: https://github.com/itential/marketplace
