@@ -16,6 +16,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-128technology
     docs: https://gitlab.com/itentialopensource/adapters/adapter-128technology/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-03-26"
+    featured: false
 
   - name: adapter-accedian_skylight
     type: adapter
@@ -33,6 +35,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight
     docs: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-04-23"
+    featured: false
 
   - name: adapter-accedian_skylight_vision
     type: adapter
@@ -50,6 +54,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight_vision
     docs: https://gitlab.com/itentialopensource/adapters/adapter-accedian_skylight_vision/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-04-29"
+    featured: false
 
   - name: adapter-adtran_mosaic_cloud_platform
     type: adapter
@@ -67,6 +73,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_cloud_platform
     docs: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_cloud_platform/-/blob/master/README.md
     icon: assets/vendors/adtran.png
+    updated: "2022-06-09"
+    featured: false
 
   - name: adapter-adtran_mosaic_devicemanager
     type: adapter
@@ -84,6 +92,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_devicemanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-adtran_mosaic_devicemanager/-/blob/master/README.md
     icon: assets/vendors/adtran.png
+    updated: "2022-05-02"
+    featured: false
 
   - name: adapter-akamai_gtm
     type: adapter
@@ -101,6 +111,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-akamai_gtm
     docs: https://gitlab.com/itentialopensource/adapters/adapter-akamai_gtm/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-04-01"
+    featured: false
 
   - name: adapter-akamai_property_manager
     type: adapter
@@ -118,6 +130,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-akamai_property_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-akamai_property_manager/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-04-01"
+    featured: false
 
   - name: adapter-algosec_appviz
     type: adapter
@@ -135,6 +149,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-algosec_appviz
     docs: https://gitlab.com/itentialopensource/adapters/adapter-algosec_appviz/-/blob/master/README.md
     icon: assets/vendors/algosec.png
+    updated: "2023-04-12"
+    featured: false
 
   - name: adapter-algosec_fireflow
     type: adapter
@@ -152,6 +168,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-algosec_fireflow
     docs: https://gitlab.com/itentialopensource/adapters/adapter-algosec_fireflow/-/blob/master/README.md
     icon: assets/vendors/algosec.png
+    updated: "2023-04-12"
+    featured: false
 
   - name: adapter-algosec_firewall
     type: adapter
@@ -169,6 +187,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-algosec_firewall
     docs: https://gitlab.com/itentialopensource/adapters/adapter-algosec_firewall/-/blob/master/README.md
     icon: assets/vendors/algosec.png
+    updated: "2023-04-12"
+    featured: false
 
   - name: adapter-alkira
     type: adapter
@@ -186,6 +206,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-alkira
     docs: https://gitlab.com/itentialopensource/adapters/adapter-alkira/-/blob/master/README.md
     icon: assets/vendors/alkira.png
+    updated: "2022-11-28"
+    featured: false
 
   - name: adapter-amazon_api_gateway
     type: adapter
@@ -203,6 +225,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_api_gateway
     docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_api_gateway/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-19"
+    featured: false
 
   - name: adapter-amazon_connectservice
     type: adapter
@@ -220,6 +244,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_connectservice
     docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_connectservice/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-02-24"
+    featured: false
 
   - name: adapter-amazon_eks
     type: adapter
@@ -237,6 +263,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_eks
     docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_eks/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-04-09"
+    featured: false
 
   - name: adapter-amazon_route53
     type: adapter
@@ -254,6 +282,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-amazon_route53
     docs: https://gitlab.com/itentialopensource/adapters/adapter-amazon_route53/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-03-06"
+    featured: false
 
   - name: adapter-ansible_tower
     type: adapter
@@ -271,6 +301,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ansible_tower
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ansible_tower/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-16"
+    featured: false
 
   - name: adapter-apache_airflow
     type: adapter
@@ -288,6 +320,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-apache_airflow
     docs: https://gitlab.com/itentialopensource/adapters/adapter-apache_airflow/-/blob/master/README.md
     icon: assets/vendors/apache.png
+    updated: "2021-10-23"
+    featured: false
 
   - name: adapter-apic
     type: adapter
@@ -305,6 +339,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-apic
     docs: https://gitlab.com/itentialopensource/adapters/adapter-apic/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-07-19"
+    featured: false
 
   - name: adapter-artifactory
     type: adapter
@@ -322,6 +358,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-artifactory
     docs: https://gitlab.com/itentialopensource/adapters/adapter-artifactory/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-02-27"
+    featured: false
 
   - name: adapter-aruba_airwave
     type: adapter
@@ -339,6 +377,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_airwave
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_airwave/-/blob/master/README.md
     icon: assets/vendors/aruba.png
+    updated: "2022-10-31"
+    featured: false
 
   - name: adapter-aruba_central
     type: adapter
@@ -356,6 +396,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central/-/blob/master/README.md
     icon: assets/vendors/aruba.png
+    updated: "2022-10-25"
+    featured: false
 
   - name: adapter-aruba_central_enhanced
     type: adapter
@@ -373,6 +415,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central_enhanced
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_central/-/blob/master/README.md
     icon: assets/vendors/aruba.png
+    updated: "2024-10-07"
+    featured: false
 
   - name: adapter-aruba_clearpass
     type: adapter
@@ -390,6 +434,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aruba_clearpass
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aruba_clearpass/-/blob/master/README.md
     icon: assets/vendors/aruba.png
+    updated: "2021-05-19"
+    featured: false
 
   - name: adapter-att_mobility
     type: adapter
@@ -407,6 +453,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-att_mobility
     docs: https://gitlab.com/itentialopensource/adapters/adapter-att_mobility/-/blob/master/README.md
     icon: assets/vendors/att.png
+    updated: "2022-11-09"
+    featured: false
 
   - name: adapter-automox
     type: adapter
@@ -424,6 +472,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-automox
     docs: https://gitlab.com/itentialopensource/adapters/adapter-automox/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-09-17"
+    featured: false
 
   - name: adapter-avi_controller
     type: adapter
@@ -441,6 +491,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-avi_controller
     docs: https://gitlab.com/itentialopensource/adapters/adapter-avi_controller/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-01-28"
+    featured: false
 
   - name: adapter-aviatrix
     type: adapter
@@ -458,6 +510,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aviatrix
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aviatrix/-/blob/master/README.md
     icon: assets/vendors/aviatrix.png
+    updated: "2020-06-04"
+    featured: false
 
   - name: adapter-aws_cloudformation
     type: adapter
@@ -475,6 +529,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_cloudformation
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_cloudformation/-/blob/master/README.md
     icon: assets/vendors/aws.png
+    updated: "2020-02-25"
+    featured: false
 
   - name: adapter-aws_cognito_identity_provider
     type: adapter
@@ -492,6 +548,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/Cloud/adapter-aws_cognito_identity_provider
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_cognito_identity_provider/-/blob/master/README.md
     icon: assets/vendors/aws.png
+    updated: "2024-10-25"
+    featured: false
 
   - name: adapter-aws_directconnect
     type: adapter
@@ -509,6 +567,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_directconnect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_directconnect/-/blob/master/README.md
     icon: assets/vendors/aws.png
+    updated: "2020-09-08"
+    featured: false
 
   - name: adapter-aws_ec2
     type: adapter
@@ -526,6 +586,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_ec2
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_ec2/-/blob/master/README.md
     icon: assets/vendors/aws.png
+    updated: "2019-08-05"
+    featured: false
 
   - name: adapter-aws_lambda
     type: adapter
@@ -543,6 +605,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_lambda
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_lambda/-/blob/master/README.md
     icon: assets/vendors/aws.png
+    updated: "2025-10-15"
+    featured: false
 
   - name: adapter-aws_nfw
     type: adapter
@@ -560,6 +624,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_nfw
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_nfw/-/blob/master/README.md
     icon: assets/vendors/aws.png
+    updated: "2022-06-24"
+    featured: false
 
   - name: adapter-aws_organizations
     type: adapter
@@ -577,6 +643,8 @@ projects:
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-aws_organizations
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_organizations/-/blob/master/README.md
     icon: assets/vendors/aws.png
+    updated: "2024-08-05"
+    featured: false
 
   - name: adapter-aws_s3
     type: adapter
@@ -594,6 +662,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_s3
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_s3/-/blob/master/README.md
     icon: assets/vendors/aws.png
+    updated: "2019-08-08"
+    featured: false
 
   - name: adapter-aws_secretsmanager
     type: adapter
@@ -611,6 +681,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-aws_secretsmanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_secretsmanager/-/blob/master/README.md
     icon: assets/vendors/aws.png
+    updated: "2023-07-24"
+    featured: false
 
   - name: adapter-azure
     type: adapter
@@ -628,6 +700,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-azure
     docs: https://gitlab.com/itentialopensource/adapters/adapter-azure/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-03-16"
+    featured: false
 
   - name: adapter-azure_aks
     type: adapter
@@ -645,6 +719,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-azure_aks
     docs: https://gitlab.com/itentialopensource/adapters/adapter-azure_aks/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-07-24"
+    featured: false
 
   - name: adapter-azure_blobs
     type: adapter
@@ -662,6 +738,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-azure_blobs
     docs: https://gitlab.com/itentialopensource/adapters/adapter-azure_blobs/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-01-05"
+    featured: false
 
   - name: adapter-azure_devops
     type: adapter
@@ -679,6 +757,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-azure_devops
     docs: https://gitlab.com/itentialopensource/adapters/adapter-azure_devops/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-12-13"
+    featured: false
 
   - name: adapter-beyond_trust
     type: adapter
@@ -696,6 +776,8 @@ projects:
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-beyond_trust
     docs: https://gitlab.com/itentialopensource/adapters/adapter-beyond_trust/-/blob/master/README.md
     icon: assets/vendors/beyondtrust.png
+    updated: "2024-03-27"
+    featured: false
 
   - name: adapter-bigpanda
     type: adapter
@@ -713,6 +795,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bigpanda
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bigpanda/-/blob/master/README.md
     icon: assets/vendors/bigpanda.png
+    updated: "2024-01-19"
+    featured: false
 
   - name: adapter-bitbucket
     type: adapter
@@ -730,6 +814,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-19"
+    featured: false
 
   - name: adapter-bitbucket_server
     type: adapter
@@ -747,6 +833,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket_server
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bitbucket_server/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-06-10"
+    featured: false
 
   - name: adapter-bluecat
     type: adapter
@@ -764,6 +852,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bluecat
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bluecat/-/blob/master/README.md
     icon: assets/vendors/bluecat.png
+    updated: "2021-06-14"
+    featured: false
 
   - name: adapter-bluecat_ipam
     type: adapter
@@ -781,6 +871,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bluecat_ipam
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bluecat_ipam/-/blob/master/README.md
     icon: assets/vendors/bluecat.png
+    updated: "2026-02-05"
+    featured: false
 
   - name: adapter-bmc_helix_itsm
     type: adapter
@@ -798,6 +890,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-bmc_helix_itsm
     docs: https://gitlab.com/itentialopensource/adapters/adapter-bmc_helix_itsm/-/blob/master/README.md
     icon: assets/vendors/bmc.png
+    updated: "2022-10-31"
+    featured: false
 
   - name: adapter-ca_spectrum
     type: adapter
@@ -815,6 +909,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ca_spectrum
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ca_spectrum/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-09-21"
+    featured: false
 
   - name: adapter-calix_cloud_devportal
     type: adapter
@@ -832,6 +928,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_cloud_devportal
     docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_cloud_devportal/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-04-03"
+    featured: false
 
   - name: adapter-calix_cms
     type: adapter
@@ -849,6 +947,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_cms
     docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_cms/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-07-01"
+    featured: false
 
   - name: adapter-calix_smx
     type: adapter
@@ -866,6 +966,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_smx
     docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_smx/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2025-12-21"
+    featured: false
 
   - name: adapter-calix_support_cloud
     type: adapter
@@ -883,6 +985,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-calix_support_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-calix_support_cloud/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-02-27"
+    featured: false
 
   - name: adapter-centreon
     type: adapter
@@ -900,6 +1004,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-centreon
     docs: https://gitlab.com/itentialopensource/adapters/adapter-centreon/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-06-07"
+    featured: false
 
   - name: adapter-chatgpt
     type: adapter
@@ -917,6 +1023,8 @@ projects:
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-chatgpt
     docs: https://gitlab.com/itentialopensource/adapters/adapter-chatgpt/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-08-22"
+    featured: false
 
   - name: adapter-checkpoint_gaia
     type: adapter
@@ -934,6 +1042,8 @@ projects:
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-checkpoint_gaia
     docs: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_gaia/-/blob/master/README.md
     icon: assets/vendors/checkpoint.png
+    updated: "2024-03-27"
+    featured: false
 
   - name: adapter-checkpoint_management
     type: adapter
@@ -951,6 +1061,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_management/-/blob/master/README.md
     icon: assets/vendors/checkpoint.png
+    updated: "2019-07-11"
+    featured: false
 
   - name: adapter-checkpoint_reputation_service
     type: adapter
@@ -968,6 +1080,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_reputation_service
     docs: https://gitlab.com/itentialopensource/adapters/adapter-checkpoint_reputation_service/-/blob/master/README.md
     icon: assets/vendors/checkpoint.png
+    updated: "2024-10-24"
+    featured: false
 
   - name: adapter-ciena_mcp
     type: adapter
@@ -985,6 +1099,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ciena_mcp
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ciena_mcp/-/blob/master/README.md
     icon: assets/vendors/ciena.png
+    updated: "2022-05-26"
+    featured: false
 
   - name: adapter-cisco_aci
     type: adapter
@@ -1002,6 +1118,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_aci
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_aci/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2020-08-30"
+    featured: false
 
   - name: adapter-cisco_acs
     type: adapter
@@ -1019,6 +1137,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_acs
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_acs/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2020-04-17"
+    featured: false
 
   - name: adapter-cisco_callmanager
     type: adapter
@@ -1036,6 +1156,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_callmanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_callmanager/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2020-08-14"
+    featured: false
 
   - name: adapter-cisco_cml
     type: adapter
@@ -1053,6 +1175,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_cml
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_cml/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2021-03-23"
+    featured: false
 
   - name: adapter-cisco_dcnm
     type: adapter
@@ -1070,6 +1194,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_dcnm
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_dcnm/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2021-02-23"
+    featured: false
 
   - name: adapter-cisco_defense_orchestrator
     type: adapter
@@ -1087,6 +1213,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_defense_orchestrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_defense_orchestrator/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2022-11-10"
+    featured: false
 
   - name: adapter-cisco_firepowermanagementcenter
     type: adapter
@@ -1104,6 +1232,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowermanagementcenter
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowermanagementcenter/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2021-02-09"
+    featured: false
 
   - name: adapter-cisco_firepowerthreatdefense
     type: adapter
@@ -1121,6 +1251,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowerthreatdefense
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_firepowerthreatdefense/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2021-02-09"
+    featured: false
 
   - name: adapter-cisco_ise
     type: adapter
@@ -1138,6 +1270,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2025-03-14"
+    featured: false
 
   - name: adapter-cisco_ise_ers
     type: adapter
@@ -1155,6 +1289,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise_ers
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ise_ers/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2020-12-07"
+    featured: false
 
   - name: adapter-cisco_ndfc
     type: adapter
@@ -1172,6 +1308,8 @@ projects:
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-cisco_ndfc
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_ndfc/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2024-07-30"
+    featured: false
 
   - name: adapter-cisco_prime
     type: adapter
@@ -1189,6 +1327,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_prime
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_prime/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2021-10-27"
+    featured: false
 
   - name: adapter-cisco_software_manager
     type: adapter
@@ -1206,6 +1346,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_software_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_software_manager/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2020-05-08"
+    featured: false
 
   - name: adapter-cisco_support
     type: adapter
@@ -1223,6 +1365,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_support
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_support/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2022-08-26"
+    featured: false
 
   - name: adapter-cisco_tetration
     type: adapter
@@ -1240,6 +1384,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cisco_tetration
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cisco_tetration/-/blob/master/README.md
     icon: assets/vendors/cisco.png
+    updated: "2021-12-16"
+    featured: false
 
   - name: adapter-clearcable_noms
     type: adapter
@@ -1257,6 +1403,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-clearcable_noms
     docs: https://gitlab.com/itentialopensource/adapters/adapter-clearcable_noms/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-07-29"
+    featured: false
 
   - name: adapter-cloudgenix
     type: adapter
@@ -1274,6 +1422,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cloudgenix
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cloudgenix/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-04-16"
+    featured: false
 
   - name: adapter-cloudify
     type: adapter
@@ -1291,6 +1441,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cloudify
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cloudify/-/blob/master/README.md
     icon: assets/vendors/cloudify.png
+    updated: "2019-11-19"
+    featured: false
 
   - name: adapter-confluence_cloud
     type: adapter
@@ -1308,6 +1460,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-confluence_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-confluence_cloud/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-05-24"
+    featured: false
 
   - name: adapter-cvp
     type: adapter
@@ -1325,6 +1479,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cvp
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cvp/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-03-24"
+    featured: false
 
   - name: adapter-cyberark
     type: adapter
@@ -1342,6 +1498,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-cyberark
     docs: https://gitlab.com/itentialopensource/adapters/adapter-cyberark/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-08-02"
+    featured: false
 
   - name: adapter-datadog
     type: adapter
@@ -1359,6 +1517,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-datadog
     docs: https://gitlab.com/itentialopensource/adapters/adapter-datadog/-/blob/master/README.md
     icon: assets/vendors/datadog.png
+    updated: "2019-06-13"
+    featured: false
 
   - name: adapter-db_mongo
     type: adapter
@@ -1376,6 +1536,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_mongo
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_mongo/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-07-30"
+    featured: false
 
   - name: adapter-db_mssql
     type: adapter
@@ -1393,6 +1555,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_mssql
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_mssql/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-04-23"
+    featured: false
 
   - name: adapter-db_mysql
     type: adapter
@@ -1410,6 +1574,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_mysql
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_mysql/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-14"
+    featured: false
 
   - name: adapter-db_oracle
     type: adapter
@@ -1427,6 +1593,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_oracle
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_oracle/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-11-21"
+    featured: false
 
   - name: adapter-db_postgresql
     type: adapter
@@ -1444,6 +1612,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_postgresql
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_postgresql/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-11-18"
+    featured: false
 
   - name: adapter-db_sybase
     type: adapter
@@ -1461,6 +1631,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-db_sybase
     docs: https://gitlab.com/itentialopensource/adapters/adapter-db_sybase/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-03-17"
+    featured: false
 
   - name: adapter-dbt_cloud
     type: adapter
@@ -1478,6 +1650,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-dbt_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-dbt_cloud/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-06-26"
+    featured: false
 
   - name: adapter-delinea
     type: adapter
@@ -1495,6 +1669,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-delinea
     docs: https://gitlab.com/itentialopensource/adapters/adapter-delinea/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-01-04"
+    featured: false
 
   - name: adapter-device42
     type: adapter
@@ -1512,6 +1688,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-device42
     docs: https://gitlab.com/itentialopensource/adapters/adapter-device42/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-03-19"
+    featured: false
 
   - name: adapter-digicert_pki
     type: adapter
@@ -1529,6 +1707,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-digicert_pki
     docs: https://gitlab.com/itentialopensource/adapters/adapter-digicert_pki/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-03-21"
+    featured: false
 
   - name: adapter-dna_center
     type: adapter
@@ -1546,6 +1726,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-dna_center
     docs: https://gitlab.com/itentialopensource/adapters/adapter-dna_center/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-04-24"
+    featured: false
 
   - name: adapter-docker
     type: adapter
@@ -1563,6 +1745,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-docker
     docs: https://gitlab.com/itentialopensource/adapters/adapter-docker/-/blob/master/README.md
     icon: assets/vendors/docker.png
+    updated: "2019-04-22"
+    featured: false
 
   - name: adapter-drivenets_networkcloud
     type: adapter
@@ -1580,6 +1764,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkcloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkcloud/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-05-08"
+    featured: false
 
   - name: adapter-drivenets_networkorchestrator
     type: adapter
@@ -1597,6 +1783,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkorchestrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-drivenets_networkorchestrator/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-01-25"
+    featured: false
 
   - name: adapter-eai
     type: adapter
@@ -1614,6 +1802,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-eai
     docs: https://gitlab.com/itentialopensource/adapters/adapter-eai/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-12"
+    featured: false
 
   - name: adapter-easypost
     type: adapter
@@ -1631,6 +1821,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-easypost
     docs: https://gitlab.com/itentialopensource/adapters/adapter-easypost/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-05-02"
+    featured: false
 
   - name: adapter-efficientip_solidserver
     type: adapter
@@ -1648,6 +1840,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-efficientip_solidserver
     docs: https://gitlab.com/itentialopensource/adapters/adapter-efficientip_solidserver/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-08-03"
+    featured: false
 
   - name: adapter-email
     type: adapter
@@ -1665,6 +1859,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-email
     docs: https://gitlab.com/itentialopensource/adapters/adapter-email/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-09-21"
+    featured: false
 
   - name: adapter-equinix
     type: adapter
@@ -1682,6 +1878,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-equinix
     docs: https://gitlab.com/itentialopensource/adapters/adapter-equinix/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-11-09"
+    featured: false
 
   - name: adapter-etsi_sol002
     type: adapter
@@ -1699,6 +1897,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol002
     docs: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol002/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-03-02"
+    featured: false
 
   - name: adapter-etsi_sol003
     type: adapter
@@ -1716,6 +1916,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol003
     docs: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol003/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-03-02"
+    featured: false
 
   - name: adapter-etsi_sol005
     type: adapter
@@ -1733,6 +1935,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol005
     docs: https://gitlab.com/itentialopensource/adapters/adapter-etsi_sol005/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-03-02"
+    featured: false
 
   - name: adapter-extrahop
     type: adapter
@@ -1750,6 +1954,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-extrahop
     docs: https://gitlab.com/itentialopensource/adapters/adapter-extrahop/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-12-04"
+    featured: false
 
   - name: adapter-f5_bigiq
     type: adapter
@@ -1767,6 +1973,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-f5_bigiq
     docs: https://gitlab.com/itentialopensource/adapters/adapter-f5_bigiq/-/blob/master/README.md
     icon: assets/vendors/f5.png
+    updated: "2021-07-20"
+    featured: false
 
   - name: adapter-f5_velos
     type: adapter
@@ -1784,6 +1992,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-f5_velos
     docs: https://gitlab.com/itentialopensource/adapters/adapter-f5_velos/-/blob/master/README.md
     icon: assets/vendors/f5.png
+    updated: "2023-08-31"
+    featured: false
 
   - name: adapter-firemon_securitymanager
     type: adapter
@@ -1801,6 +2011,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-firemon_securitymanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-firemon_securitymanager/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-05-05"
+    featured: false
 
   - name: adapter-flexiwan
     type: adapter
@@ -1818,6 +2030,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-flexiwan
     docs: https://gitlab.com/itentialopensource/adapters/adapter-flexiwan/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-05-15"
+    featured: false
 
   - name: adapter-fortimanager
     type: adapter
@@ -1835,6 +2049,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-fortimanager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-fortimanager/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-05-16"
+    featured: false
 
   - name: adapter-forwardnetworks
     type: adapter
@@ -1852,6 +2068,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-forwardnetworks
     docs: https://gitlab.com/itentialopensource/adapters/adapter-forwardnetworks/-/blob/master/README.md
     icon: assets/vendors/forward-networks.png
+    updated: "2020-12-02"
+    featured: false
 
   - name: adapter-gcp_compute
     type: adapter
@@ -1869,6 +2087,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-gcp_compute
     docs: https://gitlab.com/itentialopensource/adapters/adapter-gcp_compute/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-01-15"
+    featured: false
 
   - name: adapter-generic
     type: adapter
@@ -1886,6 +2106,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-generic
     docs: https://gitlab.com/itentialopensource/adapters/adapter-generic/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-05-15"
+    featured: false
 
   - name: adapter-git
     type: adapter
@@ -1903,6 +2125,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-git
     docs: https://gitlab.com/itentialopensource/adapters/adapter-git/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-03-07"
+    featured: false
 
   - name: adapter-github
     type: adapter
@@ -1920,6 +2144,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-github
     docs: https://gitlab.com/itentialopensource/adapters/adapter-github/-/blob/master/README.md
     icon: assets/vendors/github.png
+    updated: "2019-08-26"
+    featured: false
 
   - name: adapter-gitlab
     type: adapter
@@ -1937,6 +2163,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-gitlab
     docs: https://gitlab.com/itentialopensource/adapters/adapter-gitlab/-/blob/master/README.md
     icon: assets/vendors/gitlab.png
+    updated: "2019-06-07"
+    featured: false
 
   - name: adapter-glds_customerexperiencegateway
     type: adapter
@@ -1954,6 +2182,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-glds_customerexperiencegateway
     docs: https://gitlab.com/itentialopensource/adapters/adapter-glds_customerexperiencegateway/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-10-14"
+    featured: false
 
   - name: adapter-godaddy
     type: adapter
@@ -1971,6 +2201,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-godaddy
     docs: https://gitlab.com/itentialopensource/adapters/adapter-godaddy/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-12-06"
+    featured: false
 
   - name: adapter-gogetssl
     type: adapter
@@ -1988,6 +2220,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-gogetssl
     docs: https://gitlab.com/itentialopensource/adapters/adapter-gogetssl/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-12-13"
+    featured: false
 
   - name: adapter-google_drive
     type: adapter
@@ -2005,6 +2239,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-google_drive
     docs: https://gitlab.com/itentialopensource/adapters/adapter-google_drive/-/blob/master/README.md
     icon: assets/vendors/google-cloud.png
+    updated: "2022-03-07"
+    featured: false
 
   - name: adapter-hashicorp_vault
     type: adapter
@@ -2022,6 +2258,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-hashicorp_vault
     docs: https://gitlab.com/itentialopensource/adapters/adapter-hashicorp_vault/-/blob/master/README.md
     icon: assets/vendors/hashicorp.png
+    updated: "2021-08-09"
+    featured: false
 
   - name: adapter-hyas_protect
     type: adapter
@@ -2039,6 +2277,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-hyas_protect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-hyas_protect/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-05-01"
+    featured: false
 
   - name: adapter-iap
     type: adapter
@@ -2056,6 +2296,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-iap
     docs: https://gitlab.com/itentialopensource/adapters/adapter-iap/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-03-18"
+    featured: false
 
   - name: adapter-imperva
     type: adapter
@@ -2073,6 +2315,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-imperva
     docs: https://gitlab.com/itentialopensource/adapters/adapter-imperva/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-06-07"
+    featured: false
 
   - name: adapter-incognito
     type: adapter
@@ -2090,6 +2334,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-incognito
     docs: https://gitlab.com/itentialopensource/adapters/adapter-incognito/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-04-30"
+    featured: false
 
   - name: adapter-incognito_soap
     type: adapter
@@ -2107,6 +2353,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-incognito_soap
     docs: https://gitlab.com/itentialopensource/adapters/adapter-incognito_soap/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-06-06"
+    featured: false
 
   - name: adapter-infoblox
     type: adapter
@@ -2124,6 +2372,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox
     docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox/-/blob/master/README.md
     icon: assets/vendors/infoblox.png
+    updated: "2019-05-30"
+    featured: true
 
   - name: adapter-infoblox_netmri
     type: adapter
@@ -2141,6 +2391,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_netmri
     docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_netmri/-/blob/master/README.md
     icon: assets/vendors/infoblox.png
+    updated: "2021-10-26"
+    featured: false
 
   - name: adapter-infoblox_threat_defense
     type: adapter
@@ -2158,6 +2410,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_threat_defense
     docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_threat_defense/-/blob/master/README.md
     icon: assets/vendors/infoblox.png
+    updated: "2025-08-18"
+    featured: false
 
   - name: adapter-infoblox_universal_ddi
     type: adapter
@@ -2175,6 +2429,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_universal_ddi
     docs: https://gitlab.com/itentialopensource/adapters/adapter-infoblox_universal_ddi/-/blob/master/README.md
     icon: assets/vendors/infoblox.png
+    updated: "2025-08-18"
+    featured: false
 
   - name: adapter-ipfabric
     type: adapter
@@ -2192,6 +2448,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ipfabric
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ipfabric/-/blob/master/README.md
     icon: assets/vendors/ip-fabric.png
+    updated: "2021-06-14"
+    featured: false
 
   - name: adapter-itop
     type: adapter
@@ -2209,6 +2467,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-itop
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ipfabric/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-03-24"
+    featured: false
 
   - name: adapter-jenkins
     type: adapter
@@ -2226,6 +2486,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-jenkins
     docs: https://gitlab.com/itentialopensource/adapters/adapter-jenkins/-/blob/master/README.md
     icon: assets/vendors/jenkins.png
+    updated: "2019-11-22"
+    featured: false
 
   - name: adapter-jira
     type: adapter
@@ -2243,6 +2505,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-jira
     docs: https://gitlab.com/itentialopensource/adapters/adapter-jira/-/blob/master/README.md
     icon: assets/vendors/jira.png
+    updated: "2019-04-09"
+    featured: false
 
   - name: adapter-jira_service_management
     type: adapter
@@ -2260,6 +2524,8 @@ projects:
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-jira_service_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-jira_service_management/-/blob/master/README.md
     icon: assets/vendors/jira.png
+    updated: "2024-10-15"
+    featured: false
 
   - name: adapter-juniper_cso
     type: adapter
@@ -2277,6 +2543,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-juniper_cso
     docs: https://gitlab.com/itentialopensource/adapters/adapter-juniper_cso/-/blob/master/README.md
     icon: assets/vendors/juniper.png
+    updated: "2020-07-12"
+    featured: false
 
   - name: adapter-juniper_mist
     type: adapter
@@ -2294,6 +2562,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-juniper_mist
     docs: https://gitlab.com/itentialopensource/adapters/adapter-juniper_mist/-/blob/master/README.md
     icon: assets/vendors/juniper.png
+    updated: "2021-03-08"
+    featured: false
 
   - name: adapter-juniper_northstar
     type: adapter
@@ -2311,6 +2581,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-juniper_northstar
     docs: https://gitlab.com/itentialopensource/adapters/adapter-juniper_northstar/-/blob/master/README.md
     icon: assets/vendors/juniper.png
+    updated: "2021-09-20"
+    featured: false
 
   - name: adapter-kafkav2
     type: adapter
@@ -2328,6 +2600,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-kafkav2
     docs: https://gitlab.com/itentialopensource/adapters/adapter-kafkav2/-/blob/master/README.md
     icon: assets/vendors/kafka.png
+    updated: "2023-02-07"
+    featured: false
 
   - name: adapter-kentik
     type: adapter
@@ -2345,6 +2619,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-kentik
     docs: https://gitlab.com/itentialopensource/adapters/adapter-kentik/-/blob/master/README.md
     icon: assets/vendors/kentik.png
+    updated: "2023-04-25"
+    featured: false
 
   - name: adapter-kentik_v5
     type: adapter
@@ -2362,6 +2638,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-kentik_v5
     docs: https://gitlab.com/itentialopensource/adapters/adapter-kentik_v5/-/blob/master/README.md
     icon: assets/vendors/kentik.png
+    updated: "2023-05-15"
+    featured: false
 
   - name: adapter-keygen
     type: adapter
@@ -2379,6 +2657,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-keygen
     docs: https://gitlab.com/itentialopensource/adapters/adapter-keygen/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-09-16"
+    featured: false
 
   - name: adapter-kubernetes
     type: adapter
@@ -2396,6 +2676,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-kubernetes
     docs: https://gitlab.com/itentialopensource/adapters/adapter-kubernetes/-/blob/master/README.md
     icon: assets/vendors/kubernetes.png
+    updated: "2019-04-23"
+    featured: false
 
   - name: adapter-logicmonitor
     type: adapter
@@ -2413,6 +2695,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-logicmonitor
     docs: https://gitlab.com/itentialopensource/adapters/adapter-logicmonitor/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-12-09"
+    featured: false
 
   - name: adapter-mattermost
     type: adapter
@@ -2430,6 +2714,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-mattermost
     docs: https://gitlab.com/itentialopensource/adapters/mattermost/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-11-18"
+    featured: false
 
   - name: adapter-menmice_micetro
     type: adapter
@@ -2447,6 +2733,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-menmice_micetro
     docs: https://gitlab.com/itentialopensource/adapters/adapter-menmice_micetro/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-07-28"
+    featured: false
 
   - name: adapter-meraki
     type: adapter
@@ -2464,6 +2752,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-meraki
     docs: https://gitlab.com/itentialopensource/adapters/adapter-meraki/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-06-10"
+    featured: true
 
   - name: adapter-metaswitch
     type: adapter
@@ -2481,6 +2771,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-metaswitch
     docs: https://gitlab.com/itentialopensource/adapters/adapter-metaswitch/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-04-13"
+    featured: false
 
   - name: adapter-microsoft_dynamics
     type: adapter
@@ -2498,6 +2790,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_dynamics
     docs: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_dynamics/-/blob/master/README.md
     icon: assets/vendors/microsoft.png
+    updated: "2022-08-22"
+    featured: false
 
   - name: adapter-microsoft_graph
     type: adapter
@@ -2515,6 +2809,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_graph
     docs: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_graph/-/blob/master/README.md
     icon: assets/vendors/microsoft.png
+    updated: "2022-10-07"
+    featured: false
 
   - name: adapter-microsoft_office365
     type: adapter
@@ -2532,6 +2828,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_office365
     docs: https://gitlab.com/itentialopensource/adapters/adapter-microsoft_office365/-/blob/master/README.md
     icon: assets/vendors/microsoft.png
+    updated: "2021-06-08"
+    featured: false
 
   - name: adapter-mockdevice
     type: adapter
@@ -2549,6 +2847,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-mockdevice
     docs: https://gitlab.com/itentialopensource/adapters/adapter-mockdevice/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-08-04"
+    featured: false
 
   - name: adapter-moogsoft
     type: adapter
@@ -2566,6 +2866,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft
     docs: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft/-/blob/master/README.md
     icon: assets/vendors/moogsoft.png
+    updated: "2020-02-19"
+    featured: false
 
   - name: adapter-moogsoft_saas
     type: adapter
@@ -2583,6 +2885,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft_saas
     docs: https://gitlab.com/itentialopensource/adapters/adapter-moogsoft_saas/-/blob/master/README.md
     icon: assets/vendors/moogsoft.png
+    updated: "2021-07-18"
+    featured: false
 
   - name: adapter-morpheus
     type: adapter
@@ -2600,6 +2904,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-morpheus
     docs: https://gitlab.com/itentialopensource/adapters/adapter-morpheus/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-04-22"
+    featured: false
 
   - name: adapter-msteams
     type: adapter
@@ -2617,6 +2923,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-msteams
     docs: https://gitlab.com/itentialopensource/adapters/adapter-msteams/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-07-19"
+    featured: false
 
   - name: adapter-nautobot
     type: adapter
@@ -2634,6 +2942,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nautobot
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nautobot/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-10-28"
+    featured: false
 
   - name: adapter-nautobot_v2
     type: adapter
@@ -2651,6 +2961,8 @@ projects:
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-nautobot_v2
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nautobot/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-10-07"
+    featured: false
 
   - name: adapter-netadmin_nine
     type: adapter
@@ -2668,6 +2980,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netadmin_nine
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netadmin_nine/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-07-12"
+    featured: false
 
   - name: adapter-netbox
     type: adapter
@@ -2685,6 +2999,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netbox
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netbox/-/blob/master/README.md
     icon: assets/vendors/netbox.png
+    updated: "2019-04-16"
+    featured: true
 
   - name: adapter-netbox_v210
     type: adapter
@@ -2702,6 +3018,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v210
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v210/-/blob/master/README.md
     icon: assets/vendors/netbox.png
+    updated: "2021-08-02"
+    featured: false
 
   - name: adapter-netbox_v33
     type: adapter
@@ -2719,6 +3037,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v33
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netbox_v33/-/blob/master/README.md
     icon: assets/vendors/netbox.png
+    updated: "2022-10-20"
+    featured: false
 
   - name: adapter-netbrain
     type: adapter
@@ -2736,6 +3056,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netbrain
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netbrain/-/blob/master/README.md
     icon: assets/vendors/netbrain.png
+    updated: "2019-04-23"
+    featured: false
 
   - name: adapter-netterrain
     type: adapter
@@ -2753,6 +3075,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-netterrain
     docs: https://gitlab.com/itentialopensource/adapters/adapter-netterrain/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-08-30"
+    featured: false
 
   - name: adapter-new_relic
     type: adapter
@@ -2770,6 +3094,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-new_relic
     docs: https://gitlab.com/itentialopensource/adapters/adapter-new_relic/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-09-09"
+    featured: false
 
   - name: adapter-nexus_repository
     type: adapter
@@ -2787,6 +3113,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nexus_repository
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nexus_repository/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-07-12"
+    featured: false
 
   - name: adapter-nokia_altiplano
     type: adapter
@@ -2804,6 +3132,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_altiplano
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_altiplano/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2021-07-29"
+    featured: false
 
   - name: adapter-nokia_netact
     type: adapter
@@ -2821,6 +3151,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_netact
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_netact/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2024-12-03"
+    featured: false
 
   - name: adapter-nokia_nsp_assurance
     type: adapter
@@ -2838,6 +3170,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_assurance
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_assurance/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2024-06-10"
+    featured: false
 
   - name: adapter-nokia_nsp_device_administrator
     type: adapter
@@ -2855,6 +3189,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_administrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_administrator/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2023-04-14"
+    featured: false
 
   - name: adapter-nokia_nsp_device_configurator
     type: adapter
@@ -2872,6 +3208,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_configurator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_device_configurator/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2023-04-17"
+    featured: false
 
   - name: adapter-nokia_nsp_network
     type: adapter
@@ -2889,6 +3227,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2022-11-29"
+    featured: false
 
   - name: adapter-nokia_nsp_network_management
     type: adapter
@@ -2906,6 +3246,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_network_management/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2024-06-17"
+    featured: false
 
   - name: adapter-nokia_nsp_nfm_p
     type: adapter
@@ -2923,6 +3265,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfm_p
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfm_p/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2023-03-13"
+    featured: false
 
   - name: adapter-nokia_nsp_nfv
     type: adapter
@@ -2940,6 +3284,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfv
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_nfv/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2024-06-03"
+    featured: false
 
   - name: adapter-nokia_nsp_sdn
     type: adapter
@@ -2957,6 +3303,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_sdn
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_nsp_sdn/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2021-08-31"
+    featured: false
 
   - name: adapter-nokia_vitalqip
     type: adapter
@@ -2974,6 +3322,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nokia_vitalqip
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nokia_vitalqip/-/blob/master/README.md
     icon: assets/vendors/nokia.png
+    updated: "2021-10-26"
+    featured: false
 
   - name: adapter-ns1_cloud
     type: adapter
@@ -2991,6 +3341,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ns1_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ns1_cloud/-/blob/master/README.md
     icon: assets/vendors/ns1.png
+    updated: "2020-07-02"
+    featured: false
 
   - name: adapter-ns1_enterprise
     type: adapter
@@ -3008,6 +3360,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ns1_enterprise
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ns1_enterprise/-/blob/master/README.md
     icon: assets/vendors/ns1.png
+    updated: "2020-07-01"
+    featured: false
 
   - name: adapter-nutanix_intentful
     type: adapter
@@ -3025,6 +3379,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nutanix_intentful
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nutanix_intentful/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-11-25"
+    featured: false
 
   - name: adapter-nvd
     type: adapter
@@ -3042,6 +3398,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-nvd
     docs: https://gitlab.com/itentialopensource/adapters/adapter-nvd/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-11-05"
+    featured: false
 
   - name: adapter-okta
     type: adapter
@@ -3059,6 +3417,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-okta
     docs: https://gitlab.com/itentialopensource/adapters/adapter-okta/-/blob/master/README.md
     icon: assets/vendors/okta.png
+    updated: "2021-06-01"
+    featured: false
 
   - name: adapter-onap_aai
     type: adapter
@@ -3076,6 +3436,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_aai
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_aai/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-16"
+    featured: false
 
   - name: adapter-onap_appc
     type: adapter
@@ -3093,6 +3455,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_appc
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_appc/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-16"
+    featured: false
 
   - name: adapter-onap_blueprint_processor
     type: adapter
@@ -3110,6 +3474,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_blueprint_processor
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_blueprint_processor/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-09-11"
+    featured: false
 
   - name: adapter-onap_dcae
     type: adapter
@@ -3127,6 +3493,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_dcae
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_dcae/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-16"
+    featured: false
 
   - name: adapter-onap_sdc
     type: adapter
@@ -3144,6 +3512,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_sdc
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_sdc/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-16"
+    featured: false
 
   - name: adapter-onap_so
     type: adapter
@@ -3161,6 +3531,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onap_so
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onap_so/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-16"
+    featured: false
 
   - name: adapter-onepassword_connect
     type: adapter
@@ -3178,6 +3550,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-onepassword_connect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-onepassword_connect/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-08-16"
+    featured: false
 
   - name: adapter-op5
     type: adapter
@@ -3195,6 +3569,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-op5
     docs: https://gitlab.com/itentialopensource/adapters/adapter-op5/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-09-26"
+    featured: false
 
   - name: adapter-opengear_lighthouse
     type: adapter
@@ -3212,6 +3588,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-opengear_lighthouse
     docs: https://gitlab.com/itentialopensource/adapters/adapter-opengear_lighthouse/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-01-02"
+    featured: false
 
   - name: adapter-openstack_cinder
     type: adapter
@@ -3229,6 +3607,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_cinder
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_cinder/-/blob/master/README.md
     icon: assets/vendors/openstack.png
+    updated: "2022-09-05"
+    featured: false
 
   - name: adapter-openstack_glance
     type: adapter
@@ -3246,6 +3626,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_glance
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_glance/-/blob/master/README.md
     icon: assets/vendors/openstack.png
+    updated: "2022-09-05"
+    featured: false
 
   - name: adapter-openstack_keystone
     type: adapter
@@ -3263,6 +3645,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_keystone
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_keystone/-/blob/master/README.md
     icon: assets/vendors/openstack.png
+    updated: "2022-08-31"
+    featured: false
 
   - name: adapter-openstack_neutron
     type: adapter
@@ -3280,6 +3664,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_neutron
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_neutron/-/blob/master/README.md
     icon: assets/vendors/openstack.png
+    updated: "2022-09-05"
+    featured: false
 
   - name: adapter-openstack_nova
     type: adapter
@@ -3297,6 +3683,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-openstack_nova
     docs: https://gitlab.com/itentialopensource/adapters/adapter-openstack_nova/-/blob/master/README.md
     icon: assets/vendors/openstack.png
+    updated: "2022-08-31"
+    featured: false
 
   - name: adapter-opsgenie
     type: adapter
@@ -3314,6 +3702,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-opsgenie
     docs: https://gitlab.com/itentialopensource/adapters/adapter-opsgenie/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-06-06"
+    featured: false
 
   - name: adapter-opsramp
     type: adapter
@@ -3331,6 +3721,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-opsramp
     docs: https://gitlab.com/itentialopensource/adapters/adapter-opsramp/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-10-23"
+    featured: false
 
   - name: adapter-oracle_assure1
     type: adapter
@@ -3348,6 +3740,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-oracle_assure1
     docs: https://gitlab.com/itentialopensource/adapters/adapter-oracle_assure1/-/blob/master/README.md
     icon: assets/vendors/oracle.png
+    updated: "2024-11-23"
+    featured: false
 
   - name: adapter-oracle_cloud
     type: adapter
@@ -3365,6 +3759,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-oracle_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-oracle_cloud/-/blob/master/README.md
     icon: assets/vendors/oracle.png
+    updated: "2021-12-14"
+    featured: false
 
   - name: adapter-owasp_zap
     type: adapter
@@ -3382,6 +3778,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-owasp_zap
     docs: https://gitlab.com/itentialopensource/adapters/adapter-owasp_zap/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-08-06"
+    featured: false
 
   - name: adapter-pagerduty
     type: adapter
@@ -3399,6 +3797,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-pagerduty
     docs: https://gitlab.com/itentialopensource/adapters/adapter-pagerduty/-/blob/master/README.md
     icon: assets/vendors/pagerduty.png
+    updated: "2019-12-02"
+    featured: false
 
   - name: adapter-paloalto_prismacloud
     type: adapter
@@ -3416,6 +3816,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paloalto_prismacloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paloalto_prismacloud/-/blob/master/README.md
     icon: assets/vendors/palo-alto.png
+    updated: "2022-01-17"
+    featured: false
 
   - name: adapter-panorama
     type: adapter
@@ -3433,6 +3835,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-panorama
     docs: https://gitlab.com/itentialopensource/adapters/adapter-panorama/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-09-02"
+    featured: false
 
   - name: adapter-paragon_active_assurance
     type: adapter
@@ -3450,6 +3854,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_active_assurance
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_active_assurance/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-03-13"
+    featured: false
 
   - name: adapter-paragon_dcs
     type: adapter
@@ -3467,6 +3873,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dcs
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dcs/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-10-03"
+    featured: false
 
   - name: adapter-paragon_dpm
     type: adapter
@@ -3484,6 +3892,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dpm
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_dpm/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-10-03"
+    featured: false
 
   - name: adapter-paragon_ems_device_manager
     type: adapter
@@ -3501,6 +3911,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_manager/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-06-23"
+    featured: false
 
   - name: adapter-paragon_ems_device_model
     type: adapter
@@ -3518,6 +3930,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_model
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_ems_device_model/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-06-23"
+    featured: false
 
   - name: adapter-paragon_iam
     type: adapter
@@ -3535,6 +3949,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_iam
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_iam/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-04-20"
+    featured: false
 
   - name: adapter-paragon_insights
     type: adapter
@@ -3552,6 +3968,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_insights
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_insights/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-03-13"
+    featured: false
 
   - name: adapter-paragon_job_store
     type: adapter
@@ -3569,6 +3987,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_job_store
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_job_store/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-10-03"
+    featured: false
 
   - name: adapter-paragon_pathfinder
     type: adapter
@@ -3586,6 +4006,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-paragon_pathfinder
     docs: https://gitlab.com/itentialopensource/adapters/adapter-paragon_pathfinder/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-03-13"
+    featured: false
 
   - name: adapter-phpipam
     type: adapter
@@ -3603,6 +4025,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-phpipam
     docs: https://gitlab.com/itentialopensource/adapters/adapter-phpipam/-/blob/master/README.md
     icon: assets/vendors/phpipam.png
+    updated: "2019-07-18"
+    featured: false
 
   - name: adapter-pitney_bowes
     type: adapter
@@ -3620,6 +4044,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-pitney_bowes
     docs: https://gitlab.com/itentialopensource/adapters/adapter-pitney_bowes/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-02-17"
+    featured: false
 
   - name: adapter-prtg
     type: adapter
@@ -3637,6 +4063,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-prtg
     docs: https://gitlab.com/itentialopensource/adapters/adapter-prtg/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-06-15"
+    featured: false
 
   - name: adapter-psirt
     type: adapter
@@ -3654,6 +4082,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-psirt
     docs: https://gitlab.com/itentialopensource/adapters/adapter-psirt/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-27"
+    featured: false
 
   - name: adapter-psxapiservice
     type: adapter
@@ -3671,6 +4101,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-psxapiservice
     docs: https://gitlab.com/itentialopensource/adapters/adapter-psxapiservice/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-10-05"
+    featured: false
 
   - name: adapter-puppet
     type: adapter
@@ -3688,6 +4120,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-puppet
     docs: https://gitlab.com/itentialopensource/adapters/adapter-puppet/-/blob/master/README.md
     icon: assets/vendors/puppet.png
+    updated: "2019-08-30"
+    featured: false
 
   - name: adapter-qualys
     type: adapter
@@ -3705,6 +4139,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-qualys
     docs: https://gitlab.com/itentialopensource/adapters/adapter-qualys/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-09-27"
+    featured: false
 
   - name: adapter-rackn_digital_rebar
     type: adapter
@@ -3722,6 +4158,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-rackn_digital_rebar
     docs: https://gitlab.com/itentialopensource/adapters/adapter-rackn_digital_rebar/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-02-17"
+    featured: false
 
   - name: adapter-rancher
     type: adapter
@@ -3739,6 +4177,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-rancher
     docs: https://gitlab.com/itentialopensource/adapters/adapter-rancher/-/blob/master/README.md
     icon: assets/vendors/rancher.png
+    updated: "2023-06-21"
+    featured: false
 
   - name: adapter-redis_cloud
     type: adapter
@@ -3756,6 +4196,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-redis_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-redis_cloud/-/blob/master/README.md
     icon: assets/vendors/redis.png
+    updated: "2023-08-14"
+    featured: false
 
   - name: adapter-remedy_actionrequest
     type: adapter
@@ -3773,6 +4215,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-remedy_actionrequest
     docs: https://gitlab.com/itentialopensource/adapters/adapter-remedy_actionrequest/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-10-24"
+    featured: false
 
   - name: adapter-ringcentral
     type: adapter
@@ -3790,6 +4234,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-ringcentral
     docs: https://gitlab.com/itentialopensource/adapters/adapter-ringcentral/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-06-09"
+    featured: false
 
   - name: adapter-robustel
     type: adapter
@@ -3807,6 +4253,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-robustel
     docs: https://gitlab.com/itentialopensource/adapters/adapter-robustel/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-03-16"
+    featured: false
 
   - name: adapter-rubrik
     type: adapter
@@ -3824,6 +4272,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-rubrik
     docs: https://gitlab.com/itentialopensource/adapters/adapter-rubrik/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-11-26"
+    featured: false
 
   - name: adapter-rundeck
     type: adapter
@@ -3841,6 +4291,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-rundeck
     docs: https://gitlab.com/itentialopensource/adapters/adapter-rundeck/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-03-11"
+    featured: false
 
   - name: adapter-salesforce
     type: adapter
@@ -3858,6 +4310,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce/-/blob/master/README.md
     icon: assets/vendors/salesforce.png
+    updated: "2019-05-02"
+    featured: false
 
   - name: adapter-salesforce_apex
     type: adapter
@@ -3875,6 +4329,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_apex
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_apex/-/blob/master/README.md
     icon: assets/vendors/salesforce.png
+    updated: "2020-04-08"
+    featured: false
 
   - name: adapter-salesforce_cases
     type: adapter
@@ -3892,6 +4348,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_cases
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_cases/-/blob/master/README.md
     icon: assets/vendors/salesforce.png
+    updated: "2021-07-19"
+    featured: false
 
   - name: adapter-salesforce_metadata
     type: adapter
@@ -3909,6 +4367,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_metadata
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_metadata/-/blob/master/README.md
     icon: assets/vendors/salesforce.png
+    updated: "2020-04-08"
+    featured: false
 
   - name: adapter-salesforce_partner
     type: adapter
@@ -3926,6 +4386,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_partner
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_partner/-/blob/master/README.md
     icon: assets/vendors/salesforce.png
+    updated: "2020-04-07"
+    featured: false
 
   - name: adapter-salesforce_rest
     type: adapter
@@ -3943,6 +4405,8 @@ projects:
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-salesforce_rest
     docs: https://docs.itential.com/opensource/docs/salesforce_rest
     icon: assets/vendors/salesforce.png
+    updated: "2024-10-09"
+    featured: false
 
   - name: adapter-salesforce_tooling
     type: adapter
@@ -3960,6 +4424,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_tooling
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salesforce_tooling/-/blob/master/README.md
     icon: assets/vendors/salesforce.png
+    updated: "2020-04-07"
+    featured: false
 
   - name: adapter-salt
     type: adapter
@@ -3977,6 +4443,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-salt
     docs: https://gitlab.com/itentialopensource/adapters/adapter-salt/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-12-03"
+    featured: false
 
   - name: adapter-scansource
     type: adapter
@@ -3994,6 +4462,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-scansource
     docs: https://gitlab.com/itentialopensource/adapters/adapter-scansource/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-08-05"
+    featured: false
 
   - name: adapter-sciencelogic_sl1
     type: adapter
@@ -4011,6 +4481,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sciencelogic_sl1
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sciencelogic_sl1/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-10-04"
+    featured: false
 
   - name: adapter-sectigo_certification_manager
     type: adapter
@@ -4028,6 +4500,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/Security (SASE)/adapter-sectigo_certification_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sectigo_certification_manager/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-11-22"
+    featured: false
 
   - name: adapter-selector_ai
     type: adapter
@@ -4045,6 +4519,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-selector_ai
     docs: https://gitlab.com/itentialopensource/adapters/adapter-selector_ai/-/blob/master/README.md
     icon: assets/vendors/selector.png
+    updated: "2025-06-06"
+    featured: true
 
   - name: adapter-sendgrid
     type: adapter
@@ -4062,6 +4538,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sendgrid
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sendgrid/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2025-01-23"
+    featured: false
 
   - name: adapter-service_desk_plus
     type: adapter
@@ -4079,6 +4557,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-service_desk_plus
     docs: https://gitlab.com/itentialopensource/adapters/adapter-service_desk_plus/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-11-01"
+    featured: false
 
   - name: adapter-servicenow
     type: adapter
@@ -4096,6 +4576,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-servicenow
     docs: https://gitlab.com/itentialopensource/adapters/adapter-servicenow/-/blob/master/README.md
     icon: assets/vendors/servicenow.png
+    updated: "2019-05-28"
+    featured: false
 
   - name: adapter-sevone
     type: adapter
@@ -4113,6 +4595,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sevone
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sevone/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-04-04"
+    featured: false
 
   - name: adapter-sevone_v2
     type: adapter
@@ -4130,6 +4614,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sevone_v2
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sevone_v2/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-03-29"
+    featured: false
 
   - name: adapter-sharepoint
     type: adapter
@@ -4147,6 +4633,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-sharepoint
     docs: https://gitlab.com/itentialopensource/adapters/adapter-sharepoint/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-06-28"
+    featured: false
 
   - name: adapter-silverpeak
     type: adapter
@@ -4164,6 +4652,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-silverpeak
     docs: https://gitlab.com/itentialopensource/adapters/adapter-silverpeak/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-09-20"
+    featured: false
 
   - name: adapter-six_connect
     type: adapter
@@ -4181,6 +4671,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-six_connect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-six_connect/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-04-23"
+    featured: false
 
   - name: adapter-skybox
     type: adapter
@@ -4198,6 +4690,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-skybox
     docs: https://gitlab.com/itentialopensource/adapters/adapter-skybox/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-10-29"
+    featured: false
 
   - name: adapter-slack
     type: adapter
@@ -4215,6 +4709,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-slack
     docs: https://gitlab.com/itentialopensource/adapters/adapter-slack/-/blob/master/README.md
     icon: assets/vendors/slack.png
+    updated: "2019-04-11"
+    featured: true
 
   - name: adapter-snowflake_sql
     type: adapter
@@ -4232,6 +4728,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-snowflake_sql
     docs: https://gitlab.com/itentialopensource/adapters/adapter-snowflake_sql/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-04-03"
+    featured: false
 
   - name: adapter-solarwinds
     type: adapter
@@ -4249,6 +4747,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds
     docs: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds/-/blob/master/README.md
     icon: assets/vendors/solarwinds.png
+    updated: "2019-05-20"
+    featured: false
 
   - name: adapter-solarwinds_servicedesk
     type: adapter
@@ -4266,6 +4766,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds_servicedesk
     docs: https://gitlab.com/itentialopensource/adapters/adapter-solarwinds_servicedesk/-/blob/master/README.md
     icon: assets/vendors/solarwinds.png
+    updated: "2021-07-12"
+    featured: false
 
   - name: adapter-spirent_testcenter
     type: adapter
@@ -4283,6 +4785,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-spirent_testcenter
     docs: https://gitlab.com/itentialopensource/adapters/adapter-spirent_testcenter/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-06-28"
+    featured: false
 
   - name: adapter-splunk
     type: adapter
@@ -4300,6 +4804,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-splunk
     docs: https://gitlab.com/itentialopensource/adapters/adapter-splunk/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-09-30"
+    featured: false
 
   - name: adapter-starburst
     type: adapter
@@ -4317,6 +4823,8 @@ projects:
     repo: https://gitlab.com/@itentialopensource/adapters/adapter-starburst
     docs: https://gitlab.com/itentialopensource/adapters/adapter-starburst/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-05-01"
+    featured: false
 
   - name: adapter-steel_connect
     type: adapter
@@ -4334,6 +4842,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-steel_connect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-steel_connect/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-04-26"
+    featured: false
 
   - name: adapter-surreal_db
     type: adapter
@@ -4351,6 +4861,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-surreal_db
     docs: https://gitlab.com/itentialopensource/adapters/adapter-surreal_db/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-08-06"
+    featured: false
 
   - name: adapter-symantec_mgmtcenter
     type: adapter
@@ -4368,6 +4880,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-symantec_mgmtcenter
     docs: https://gitlab.com/itentialopensource/adapters/adapter-symantec_mgmtcenter/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-07-12"
+    featured: false
 
   - name: adapter-tapi
     type: adapter
@@ -4385,6 +4899,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tapi
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tapi/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-06-10"
+    featured: false
 
   - name: adapter-tcpwave
     type: adapter
@@ -4402,6 +4918,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tcpwave
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tcpwave/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2019-08-13"
+    featured: false
 
   - name: adapter-terraform_enterprise
     type: adapter
@@ -4419,6 +4937,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-terraform_enterprise
     docs: https://gitlab.com/itentialopensource/adapters/adapter-terraform_enterprise/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-03-11"
+    featured: true
 
   - name: adapter-thales_cipher_trust_manager
     type: adapter
@@ -4436,6 +4956,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-thales_cipher_trust_manager
     docs: https://gitlab.com/itentialopensource/adapters/adapter-thales_cipher_trust_manager/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2024-05-22"
+    featured: false
 
   - name: adapter-thingspace
     type: adapter
@@ -4453,6 +4975,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-thingspace
     docs: https://gitlab.com/itentialopensource/adapters/adapter-thingspace/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-01-03"
+    featured: false
 
   - name: adapter-thousand_eyes
     type: adapter
@@ -4470,6 +4994,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-thousand_eyes
     docs: https://gitlab.com/itentialopensource/adapters/adapter-thousand_eyes/-/blob/master/README.md
     icon: assets/vendors/thousandeyes.png
+    updated: "2023-06-12"
+    featured: false
 
   - name: adapter-thruk_monitoring
     type: adapter
@@ -4487,6 +5013,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-thruk_monitoring
     docs: https://gitlab.com/itentialopensource/adapters/adapter-thruk_monitoring/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2021-07-29"
+    featured: false
 
   - name: adapter-tiger_connect
     type: adapter
@@ -4504,6 +5032,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tiger_connect
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tiger_connect/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-10-19"
+    featured: false
 
   - name: adapter-tmf638_service_inventory_management
     type: adapter
@@ -4521,6 +5051,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf638_service_inventory_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf638_service_inventory_management/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-03-09"
+    featured: false
 
   - name: adapter-tmf639_resource_inventory_management
     type: adapter
@@ -4538,6 +5070,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf639_resource_inventory_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf639_resource_inventory_management/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-03-09"
+    featured: false
 
   - name: adapter-tmf641_service_ordering_management
     type: adapter
@@ -4555,6 +5089,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf641_tmf641_service_ordering_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf641_service_ordering_management/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-03-09"
+    featured: false
 
   - name: adapter-tmf642_alarm_management
     type: adapter
@@ -4572,6 +5108,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tmf642_alarm_management
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tmf642_alarm_management/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-03-09"
+    featured: false
 
   - name: adapter-tufin_secureapp
     type: adapter
@@ -4589,6 +5127,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tufin_secureapp
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tufin_secureapp/-/blob/master/README.md
     icon: assets/vendors/tufin.png
+    updated: "2019-07-12"
+    featured: false
 
   - name: adapter-tufin_securechange
     type: adapter
@@ -4606,6 +5146,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securechange
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securechange/-/blob/master/README.md
     icon: assets/vendors/tufin.png
+    updated: "2020-03-24"
+    featured: false
 
   - name: adapter-tufin_securetrack
     type: adapter
@@ -4623,6 +5165,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securetrack
     docs: https://gitlab.com/itentialopensource/adapters/adapter-tufin_securetrack/-/blob/master/README.md
     icon: assets/vendors/tufin.png
+    updated: "2019-07-12"
+    featured: false
 
   - name: adapter-velocloud_orchestrator
     type: adapter
@@ -4640,6 +5184,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-velocloud_orchestrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-velocloud_orchestrator/-/blob/master/README.md
     icon: assets/vendors/velocloud.png
+    updated: "2020-10-19"
+    featured: false
 
   - name: adapter-venafi
     type: adapter
@@ -4657,6 +5203,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-venafi
     docs: https://gitlab.com/itentialopensource/adapters/adapter-venafi/-/blob/master/README.md
     icon: assets/vendors/venafi.png
+    updated: "2022-06-06"
+    featured: false
 
   - name: adapter-venafi_trust_protection_platform
     type: adapter
@@ -4674,6 +5222,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-venafi_trust_protection_platform
     docs: https://gitlab.com/itentialopensource/adapters/adapter-venafi_trust_protection_platform/-/blob/master/README.md
     icon: assets/vendors/venafi.png
+    updated: "2022-07-25"
+    featured: false
 
   - name: adapter-versa_director
     type: adapter
@@ -4691,6 +5241,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-versa_director
     docs: https://gitlab.com/itentialopensource/adapters/adapter-versa_director/-/blob/master/README.md
     icon: assets/vendors/versa.png
+    updated: "2020-10-08"
+    featured: false
 
   - name: adapter-viavi_xpertrak
     type: adapter
@@ -4708,6 +5260,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-viavi_xpertrak
     docs: https://gitlab.com/itentialopensource/adapters/adapter-viavi_xpertrak/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-11-16"
+    featured: false
 
   - name: adapter-viptela
     type: adapter
@@ -4725,6 +5279,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-viptela
     docs: https://gitlab.com/itentialopensource/adapters/adapter-viptela/-/blob/master/README.md
     icon: assets/vendors/viptela.png
+    updated: "2019-04-25"
+    featured: false
 
   - name: adapter-vmware_cloud
     type: adapter
@@ -4742,6 +5298,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_cloud
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_cloud/-/blob/master/README.md
     icon: assets/vendors/vmware.png
+    updated: "2021-03-16"
+    featured: false
 
   - name: adapter-vmware_horizon_server
     type: adapter
@@ -4759,6 +5317,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_horizon_server
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_horizon_server/-/blob/master/README.md
     icon: assets/vendors/vmware.png
+    updated: "2024-11-26"
+    featured: false
 
   - name: adapter-vmware_nsx_t
     type: adapter
@@ -4776,6 +5336,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_nsx_t
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_nsx_t/-/blob/master/README.md
     icon: assets/vendors/vmware.png
+    updated: "2019-04-23"
+    featured: false
 
   - name: adapter-vmware_vcenter
     type: adapter
@@ -4793,6 +5355,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vcenter
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vcenter/-/blob/master/README.md
     icon: assets/vendors/vmware.png
+    updated: "2019-04-23"
+    featured: false
 
   - name: adapter-vmware_virtual_infrastructure
     type: adapter
@@ -4810,6 +5374,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_virtual_infrastructure
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_virtual_infrastructure/-/blob/master/README.md
     icon: assets/vendors/vmware.png
+    updated: "2024-08-19"
+    featured: false
 
   - name: adapter-vmware_vrealize_orchestrator
     type: adapter
@@ -4827,6 +5393,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vrealize_orchestrator
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vrealize_orchestrator/-/blob/master/README.md
     icon: assets/vendors/vmware.png
+    updated: "2021-09-22"
+    featured: false
 
   - name: adapter-vmware_vsphere
     type: adapter
@@ -4844,6 +5412,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vsphere
     docs: https://gitlab.com/itentialopensource/adapters/adapter-vmware_vsphere/-/blob/master/README.md
     icon: assets/vendors/vmware.png
+    updated: "2020-12-29"
+    featured: false
 
   - name: adapter-watchguard_firebox_mgmt
     type: adapter
@@ -4861,6 +5431,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-watchguard_firebox_mgmt
     docs: https://gitlab.com/itentialopensource/adapters/adapter-watchguard_firebox_mgmt/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-10-12"
+    featured: false
 
   - name: adapter-webex_teams
     type: adapter
@@ -4878,6 +5450,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-webex_teams
     docs: https://gitlab.com/itentialopensource/adapters/adapter-webex_teams/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2020-01-30"
+    featured: false
 
   - name: adapter-whatsup_gold
     type: adapter
@@ -4895,6 +5469,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-whatsup_gold
     docs: https://gitlab.com/itentialopensource/adapters/adapter-whatsup_gold/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-07-12"
+    featured: false
 
   - name: adapter-winston_syslog
     type: adapter
@@ -4912,6 +5488,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-winston_syslog
     docs: https://gitlab.com/itentialopensource/adapters/adapter-winston_syslog/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2022-12-15"
+    featured: false
 
   - name: adapter-zabbix
     type: adapter
@@ -4929,6 +5507,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-zabbix
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zabbix/-/blob/master/README.md
     icon: assets/vendors/zabbix.png
+    updated: "2020-08-17"
+    featured: false
 
   - name: adapter-zero_networks
     type: adapter
@@ -4946,6 +5526,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/security/adapter-zero_networks
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zero_networks/-/blob/master/README.md
     icon: assets/generic/adapter.png
+    updated: "2023-11-16"
+    featured: false
 
   - name: adapter-zoom
     type: adapter
@@ -4963,6 +5545,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-zoom
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zoom/-/blob/master/README.md
     icon: assets/vendors/zoom.png
+    updated: "2020-09-09"
+    featured: false
 
   - name: adapter-zscaler
     type: adapter
@@ -4980,6 +5564,8 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-zscaler
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zscaler/-/blob/master/README.md
     icon: assets/vendors/zscaler.png
+    updated: "2019-04-25"
+    featured: false
 
   - name: adapter-zscaler_zpa
     type: adapter
@@ -4997,3 +5583,5 @@ projects:
     repo: https://gitlab.com/itentialopensource/adapters/adapter-zscaler_zpa
     docs: https://gitlab.com/itentialopensource/adapters/adapter-zscaler_zpa/-/blob/master/README.md
     icon: assets/vendors/zscaler.png
+    updated: "2024-04-30"
+    featured: false
