@@ -17,6 +17,8 @@ projects:
     repo: https://github.com/itential/builder-skills
     docs: https://github.com/itential/builder-skills/blob/main/README.md
     icon: assets/generic/mcp.png
+    updated: "2026-04-08"
+    featured: true
 
   - name: ipctl
     type: tool
@@ -35,3 +37,5 @@ projects:
     repo: https://github.com/itential/ipctl
     docs: https://github.com/itential/ipctl/blob/main/README.md
     icon: assets/generic/cli.png
+    updated: "2026-04-08"
+    featured: true
