@@ -1,6 +1,6 @@
 projects:
 
-  - name: adapter-128technology
+  - name: 128technology
     type: adapter
     active: true
     status: community
@@ -19,7 +19,7 @@ projects:
     updated: "2020-03-26"
     featured: false
 
-  - name: adapter-accedian_skylight
+  - name: accedian_skylight
     type: adapter
     active: true
     status: community
@@ -38,7 +38,7 @@ projects:
     updated: "2020-04-23"
     featured: false
 
-  - name: adapter-accedian_skylight_vision
+  - name: accedian_skylight_vision
     type: adapter
     active: true
     status: community
@@ -57,7 +57,7 @@ projects:
     updated: "2020-04-29"
     featured: false
 
-  - name: adapter-adtran_mosaic_cloud_platform
+  - name: adtran_mosaic_cloud_platform
     type: adapter
     active: true
     status: community
@@ -76,7 +76,7 @@ projects:
     updated: "2022-06-09"
     featured: false
 
-  - name: adapter-adtran_mosaic_devicemanager
+  - name: adtran_mosaic_devicemanager
     type: adapter
     active: true
     status: community
@@ -95,7 +95,7 @@ projects:
     updated: "2022-05-02"
     featured: false
 
-  - name: adapter-akamai_gtm
+  - name: akamai_gtm
     type: adapter
     active: true
     status: community
@@ -114,7 +114,7 @@ projects:
     updated: "2021-04-01"
     featured: false
 
-  - name: adapter-akamai_property_manager
+  - name: akamai_property_manager
     type: adapter
     active: true
     status: community
@@ -133,7 +133,7 @@ projects:
     updated: "2022-04-01"
     featured: false
 
-  - name: adapter-algosec_appviz
+  - name: algosec_appviz
     type: adapter
     active: true
     status: community
@@ -152,7 +152,7 @@ projects:
     updated: "2023-04-12"
     featured: false
 
-  - name: adapter-algosec_fireflow
+  - name: algosec_fireflow
     type: adapter
     active: true
     status: community
@@ -171,7 +171,7 @@ projects:
     updated: "2023-04-12"
     featured: false
 
-  - name: adapter-algosec_firewall
+  - name: algosec_firewall
     type: adapter
     active: true
     status: community
@@ -190,7 +190,7 @@ projects:
     updated: "2023-04-12"
     featured: false
 
-  - name: adapter-alkira
+  - name: alkira
     type: adapter
     active: true
     status: community
@@ -209,7 +209,7 @@ projects:
     updated: "2022-11-28"
     featured: false
 
-  - name: adapter-amazon_api_gateway
+  - name: amazon_api_gateway
     type: adapter
     active: true
     status: community
@@ -228,7 +228,7 @@ projects:
     updated: "2019-08-19"
     featured: false
 
-  - name: adapter-amazon_connectservice
+  - name: amazon_connectservice
     type: adapter
     active: true
     status: community
@@ -247,7 +247,7 @@ projects:
     updated: "2021-02-24"
     featured: false
 
-  - name: adapter-amazon_eks
+  - name: amazon_eks
     type: adapter
     active: true
     status: community
@@ -266,7 +266,7 @@ projects:
     updated: "2021-04-09"
     featured: false
 
-  - name: adapter-amazon_route53
+  - name: amazon_route53
     type: adapter
     active: true
     status: certified
@@ -285,7 +285,7 @@ projects:
     updated: "2022-03-06"
     featured: false
 
-  - name: adapter-ansible_tower
+  - name: ansible_tower
     type: adapter
     active: true
     status: community
@@ -304,7 +304,7 @@ projects:
     updated: "2019-08-16"
     featured: false
 
-  - name: adapter-apache_airflow
+  - name: apache_airflow
     type: adapter
     active: true
     status: community
@@ -323,7 +323,7 @@ projects:
     updated: "2021-10-23"
     featured: false
 
-  - name: adapter-apic
+  - name: apic
     type: adapter
     active: true
     status: community
@@ -342,7 +342,7 @@ projects:
     updated: "2019-07-19"
     featured: false
 
-  - name: adapter-artifactory
+  - name: artifactory
     type: adapter
     active: true
     status: community
@@ -361,7 +361,7 @@ projects:
     updated: "2021-02-27"
     featured: false
 
-  - name: adapter-aruba_airwave
+  - name: aruba_airwave
     type: adapter
     active: true
     status: community
@@ -380,7 +380,7 @@ projects:
     updated: "2022-10-31"
     featured: false
 
-  - name: adapter-aruba_central
+  - name: aruba_central
     type: adapter
     active: true
     status: community
@@ -399,7 +399,7 @@ projects:
     updated: "2022-10-25"
     featured: false
 
-  - name: adapter-aruba_central_enhanced
+  - name: aruba_central_enhanced
     type: adapter
     active: true
     status: community
@@ -418,7 +418,7 @@ projects:
     updated: "2024-10-07"
     featured: false
 
-  - name: adapter-aruba_clearpass
+  - name: aruba_clearpass
     type: adapter
     active: true
     status: community
@@ -437,7 +437,7 @@ projects:
     updated: "2021-05-19"
     featured: false
 
-  - name: adapter-att_mobility
+  - name: att_mobility
     type: adapter
     active: true
     status: community
@@ -456,7 +456,7 @@ projects:
     updated: "2022-11-09"
     featured: false
 
-  - name: adapter-automox
+  - name: automox
     type: adapter
     active: true
     status: community
@@ -475,7 +475,7 @@ projects:
     updated: "2020-09-17"
     featured: false
 
-  - name: adapter-avi_controller
+  - name: avi_controller
     type: adapter
     active: true
     status: community
@@ -494,7 +494,7 @@ projects:
     updated: "2021-01-28"
     featured: false
 
-  - name: adapter-aviatrix
+  - name: aviatrix
     type: adapter
     active: true
     status: community
@@ -513,7 +513,7 @@ projects:
     updated: "2020-06-04"
     featured: false
 
-  - name: adapter-aws_cloudformation
+  - name: aws_cloudformation
     type: adapter
     active: true
     status: community
@@ -532,7 +532,7 @@ projects:
     updated: "2020-02-25"
     featured: false
 
-  - name: adapter-aws_cognito_identity_provider
+  - name: aws_cognito_identity_provider
     type: adapter
     active: true
     status: community
@@ -551,7 +551,7 @@ projects:
     updated: "2024-10-25"
     featured: false
 
-  - name: adapter-aws_directconnect
+  - name: aws_directconnect
     type: adapter
     active: true
     status: community
@@ -570,7 +570,7 @@ projects:
     updated: "2020-09-08"
     featured: false
 
-  - name: adapter-aws_ec2
+  - name: aws_ec2
     type: adapter
     active: true
     status: certified
@@ -589,7 +589,7 @@ projects:
     updated: "2019-08-05"
     featured: false
 
-  - name: adapter-aws_lambda
+  - name: aws_lambda
     type: adapter
     active: true
     status: community
@@ -608,7 +608,7 @@ projects:
     updated: "2025-10-15"
     featured: false
 
-  - name: adapter-aws_nfw
+  - name: aws_nfw
     type: adapter
     active: true
     status: community
@@ -627,7 +627,7 @@ projects:
     updated: "2022-06-24"
     featured: false
 
-  - name: adapter-aws_organizations
+  - name: aws_organizations
     type: adapter
     active: true
     status: community
@@ -646,7 +646,7 @@ projects:
     updated: "2024-08-05"
     featured: false
 
-  - name: adapter-aws_s3
+  - name: aws_s3
     type: adapter
     active: true
     status: community
@@ -665,7 +665,7 @@ projects:
     updated: "2019-08-08"
     featured: false
 
-  - name: adapter-aws_secretsmanager
+  - name: aws_secretsmanager
     type: adapter
     active: true
     status: community
@@ -684,7 +684,7 @@ projects:
     updated: "2023-07-24"
     featured: false
 
-  - name: adapter-azure
+  - name: azure
     type: adapter
     active: true
     status: community
@@ -703,7 +703,7 @@ projects:
     updated: "2020-03-16"
     featured: false
 
-  - name: adapter-azure_aks
+  - name: azure_aks
     type: adapter
     active: true
     status: community
@@ -722,7 +722,7 @@ projects:
     updated: "2021-07-24"
     featured: false
 
-  - name: adapter-azure_blobs
+  - name: azure_blobs
     type: adapter
     active: true
     status: community
@@ -741,7 +741,7 @@ projects:
     updated: "2022-01-05"
     featured: false
 
-  - name: adapter-azure_devops
+  - name: azure_devops
     type: adapter
     active: true
     status: community
@@ -760,7 +760,7 @@ projects:
     updated: "2021-12-13"
     featured: false
 
-  - name: adapter-beyond_trust
+  - name: beyond_trust
     type: adapter
     active: true
     status: community
@@ -779,7 +779,7 @@ projects:
     updated: "2024-03-27"
     featured: false
 
-  - name: adapter-bigpanda
+  - name: bigpanda
     type: adapter
     active: true
     status: community
@@ -798,7 +798,7 @@ projects:
     updated: "2024-01-19"
     featured: false
 
-  - name: adapter-bitbucket
+  - name: bitbucket
     type: adapter
     active: true
     status: community
@@ -817,7 +817,7 @@ projects:
     updated: "2019-08-19"
     featured: false
 
-  - name: adapter-bitbucket_server
+  - name: bitbucket_server
     type: adapter
     active: true
     status: community
@@ -836,7 +836,7 @@ projects:
     updated: "2022-06-10"
     featured: false
 
-  - name: adapter-bluecat
+  - name: bluecat
     type: adapter
     active: true
     status: community
@@ -855,7 +855,7 @@ projects:
     updated: "2021-06-14"
     featured: false
 
-  - name: adapter-bluecat_ipam
+  - name: bluecat_ipam
     type: adapter
     active: true
     status: community
@@ -874,7 +874,7 @@ projects:
     updated: "2026-02-05"
     featured: false
 
-  - name: adapter-bmc_helix_itsm
+  - name: bmc_helix_itsm
     type: adapter
     active: true
     status: community
@@ -893,7 +893,7 @@ projects:
     updated: "2022-10-31"
     featured: false
 
-  - name: adapter-ca_spectrum
+  - name: ca_spectrum
     type: adapter
     active: true
     status: community
@@ -912,7 +912,7 @@ projects:
     updated: "2022-09-21"
     featured: false
 
-  - name: adapter-calix_cloud_devportal
+  - name: calix_cloud_devportal
     type: adapter
     active: true
     status: community
@@ -931,7 +931,7 @@ projects:
     updated: "2023-04-03"
     featured: false
 
-  - name: adapter-calix_cms
+  - name: calix_cms
     type: adapter
     active: true
     status: community
@@ -950,7 +950,7 @@ projects:
     updated: "2021-07-01"
     featured: false
 
-  - name: adapter-calix_smx
+  - name: calix_smx
     type: adapter
     active: true
     status: community
@@ -969,7 +969,7 @@ projects:
     updated: "2025-12-21"
     featured: false
 
-  - name: adapter-calix_support_cloud
+  - name: calix_support_cloud
     type: adapter
     active: true
     status: community
@@ -988,7 +988,7 @@ projects:
     updated: "2023-02-27"
     featured: false
 
-  - name: adapter-centreon
+  - name: centreon
     type: adapter
     active: true
     status: community
@@ -1007,7 +1007,7 @@ projects:
     updated: "2023-06-07"
     featured: false
 
-  - name: adapter-chatgpt
+  - name: chatgpt
     type: adapter
     active: true
     status: community
@@ -1026,7 +1026,7 @@ projects:
     updated: "2024-08-22"
     featured: false
 
-  - name: adapter-checkpoint_gaia
+  - name: checkpoint_gaia
     type: adapter
     active: true
     status: community
@@ -1045,7 +1045,7 @@ projects:
     updated: "2024-03-27"
     featured: false
 
-  - name: adapter-checkpoint_management
+  - name: checkpoint_management
     type: adapter
     active: true
     status: community
@@ -1064,7 +1064,7 @@ projects:
     updated: "2019-07-11"
     featured: false
 
-  - name: adapter-checkpoint_reputation_service
+  - name: checkpoint_reputation_service
     type: adapter
     active: true
     status: community
@@ -1083,7 +1083,7 @@ projects:
     updated: "2024-10-24"
     featured: false
 
-  - name: adapter-ciena_mcp
+  - name: ciena_mcp
     type: adapter
     active: true
     status: community
@@ -1102,7 +1102,7 @@ projects:
     updated: "2022-05-26"
     featured: false
 
-  - name: adapter-cisco_aci
+  - name: cisco_aci
     type: adapter
     active: true
     status: community
@@ -1121,7 +1121,7 @@ projects:
     updated: "2020-08-30"
     featured: false
 
-  - name: adapter-cisco_acs
+  - name: cisco_acs
     type: adapter
     active: true
     status: community
@@ -1140,7 +1140,7 @@ projects:
     updated: "2020-04-17"
     featured: false
 
-  - name: adapter-cisco_callmanager
+  - name: cisco_callmanager
     type: adapter
     active: true
     status: community
@@ -1159,7 +1159,7 @@ projects:
     updated: "2020-08-14"
     featured: false
 
-  - name: adapter-cisco_cml
+  - name: cisco_cml
     type: adapter
     active: true
     status: community
@@ -1178,7 +1178,7 @@ projects:
     updated: "2021-03-23"
     featured: false
 
-  - name: adapter-cisco_dcnm
+  - name: cisco_dcnm
     type: adapter
     active: true
     status: community
@@ -1197,7 +1197,7 @@ projects:
     updated: "2021-02-23"
     featured: false
 
-  - name: adapter-cisco_defense_orchestrator
+  - name: cisco_defense_orchestrator
     type: adapter
     active: true
     status: community
@@ -1216,7 +1216,7 @@ projects:
     updated: "2022-11-10"
     featured: false
 
-  - name: adapter-cisco_firepowermanagementcenter
+  - name: cisco_firepowermanagementcenter
     type: adapter
     active: true
     status: community
@@ -1235,7 +1235,7 @@ projects:
     updated: "2021-02-09"
     featured: false
 
-  - name: adapter-cisco_firepowerthreatdefense
+  - name: cisco_firepowerthreatdefense
     type: adapter
     active: true
     status: community
@@ -1254,7 +1254,7 @@ projects:
     updated: "2021-02-09"
     featured: false
 
-  - name: adapter-cisco_ise
+  - name: cisco_ise
     type: adapter
     active: true
     status: community
@@ -1273,7 +1273,7 @@ projects:
     updated: "2025-03-14"
     featured: false
 
-  - name: adapter-cisco_ise_ers
+  - name: cisco_ise_ers
     type: adapter
     active: true
     status: community
@@ -1292,7 +1292,7 @@ projects:
     updated: "2020-12-07"
     featured: false
 
-  - name: adapter-cisco_ndfc
+  - name: cisco_ndfc
     type: adapter
     active: true
     status: community
@@ -1311,7 +1311,7 @@ projects:
     updated: "2024-07-30"
     featured: false
 
-  - name: adapter-cisco_prime
+  - name: cisco_prime
     type: adapter
     active: true
     status: community
@@ -1330,7 +1330,7 @@ projects:
     updated: "2021-10-27"
     featured: false
 
-  - name: adapter-cisco_software_manager
+  - name: cisco_software_manager
     type: adapter
     active: true
     status: community
@@ -1349,7 +1349,7 @@ projects:
     updated: "2020-05-08"
     featured: false
 
-  - name: adapter-cisco_support
+  - name: cisco_support
     type: adapter
     active: true
     status: community
@@ -1368,7 +1368,7 @@ projects:
     updated: "2022-08-26"
     featured: false
 
-  - name: adapter-cisco_tetration
+  - name: cisco_tetration
     type: adapter
     active: true
     status: community
@@ -1387,7 +1387,7 @@ projects:
     updated: "2021-12-16"
     featured: false
 
-  - name: adapter-clearcable_noms
+  - name: clearcable_noms
     type: adapter
     active: true
     status: community
@@ -1406,7 +1406,7 @@ projects:
     updated: "2021-07-29"
     featured: false
 
-  - name: adapter-cloudgenix
+  - name: cloudgenix
     type: adapter
     active: true
     status: community
@@ -1425,7 +1425,7 @@ projects:
     updated: "2020-04-16"
     featured: false
 
-  - name: adapter-cloudify
+  - name: cloudify
     type: adapter
     active: true
     status: community
@@ -1444,7 +1444,7 @@ projects:
     updated: "2019-11-19"
     featured: false
 
-  - name: adapter-confluence_cloud
+  - name: confluence_cloud
     type: adapter
     active: true
     status: community
@@ -1463,7 +1463,7 @@ projects:
     updated: "2023-05-24"
     featured: false
 
-  - name: adapter-cvp
+  - name: cvp
     type: adapter
     active: true
     status: community
@@ -1482,7 +1482,7 @@ projects:
     updated: "2021-03-24"
     featured: false
 
-  - name: adapter-cyberark
+  - name: cyberark
     type: adapter
     active: true
     status: community
@@ -1501,7 +1501,7 @@ projects:
     updated: "2021-08-02"
     featured: false
 
-  - name: adapter-datadog
+  - name: datadog
     type: adapter
     active: true
     status: community
@@ -1520,7 +1520,7 @@ projects:
     updated: "2019-06-13"
     featured: false
 
-  - name: adapter-db_mongo
+  - name: db_mongo
     type: adapter
     active: true
     status: community
@@ -1539,7 +1539,7 @@ projects:
     updated: "2019-07-30"
     featured: false
 
-  - name: adapter-db_mssql
+  - name: db_mssql
     type: adapter
     active: true
     status: community
@@ -1558,7 +1558,7 @@ projects:
     updated: "2020-04-23"
     featured: false
 
-  - name: adapter-db_mysql
+  - name: db_mysql
     type: adapter
     active: true
     status: community
@@ -1577,7 +1577,7 @@ projects:
     updated: "2019-08-14"
     featured: false
 
-  - name: adapter-db_oracle
+  - name: db_oracle
     type: adapter
     active: true
     status: community
@@ -1596,7 +1596,7 @@ projects:
     updated: "2019-11-21"
     featured: false
 
-  - name: adapter-db_postgresql
+  - name: db_postgresql
     type: adapter
     active: true
     status: community
@@ -1615,7 +1615,7 @@ projects:
     updated: "2019-11-18"
     featured: false
 
-  - name: adapter-db_sybase
+  - name: db_sybase
     type: adapter
     active: true
     status: community
@@ -1634,7 +1634,7 @@ projects:
     updated: "2021-03-17"
     featured: false
 
-  - name: adapter-dbt_cloud
+  - name: dbt_cloud
     type: adapter
     active: true
     status: community
@@ -1653,7 +1653,7 @@ projects:
     updated: "2023-06-26"
     featured: false
 
-  - name: adapter-delinea
+  - name: delinea
     type: adapter
     active: true
     status: community
@@ -1672,7 +1672,7 @@ projects:
     updated: "2023-01-04"
     featured: false
 
-  - name: adapter-device42
+  - name: device42
     type: adapter
     active: true
     status: community
@@ -1691,7 +1691,7 @@ projects:
     updated: "2021-03-19"
     featured: false
 
-  - name: adapter-digicert_pki
+  - name: digicert_pki
     type: adapter
     active: true
     status: community
@@ -1710,7 +1710,7 @@ projects:
     updated: "2023-03-21"
     featured: false
 
-  - name: adapter-dna_center
+  - name: dna_center
     type: adapter
     active: true
     status: community
@@ -1729,7 +1729,7 @@ projects:
     updated: "2019-04-24"
     featured: false
 
-  - name: adapter-docker
+  - name: docker
     type: adapter
     active: true
     status: community
@@ -1748,7 +1748,7 @@ projects:
     updated: "2019-04-22"
     featured: false
 
-  - name: adapter-drivenets_networkcloud
+  - name: drivenets_networkcloud
     type: adapter
     active: true
     status: community
@@ -1767,7 +1767,7 @@ projects:
     updated: "2023-05-08"
     featured: false
 
-  - name: adapter-drivenets_networkorchestrator
+  - name: drivenets_networkorchestrator
     type: adapter
     active: true
     status: community
@@ -1786,7 +1786,7 @@ projects:
     updated: "2023-01-25"
     featured: false
 
-  - name: adapter-eai
+  - name: eai
     type: adapter
     active: true
     status: community
@@ -1805,7 +1805,7 @@ projects:
     updated: "2019-08-12"
     featured: false
 
-  - name: adapter-easypost
+  - name: easypost
     type: adapter
     active: true
     status: community
@@ -1824,7 +1824,7 @@ projects:
     updated: "2023-05-02"
     featured: false
 
-  - name: adapter-efficientip_solidserver
+  - name: efficientip_solidserver
     type: adapter
     active: true
     status: community
@@ -1843,7 +1843,7 @@ projects:
     updated: "2021-08-03"
     featured: false
 
-  - name: adapter-email
+  - name: email
     type: adapter
     active: true
     status: community
@@ -1862,7 +1862,7 @@ projects:
     updated: "2022-09-21"
     featured: false
 
-  - name: adapter-equinix
+  - name: equinix
     type: adapter
     active: true
     status: community
@@ -1881,7 +1881,7 @@ projects:
     updated: "2020-11-09"
     featured: false
 
-  - name: adapter-etsi_sol002
+  - name: etsi_sol002
     type: adapter
     active: true
     status: community
@@ -1900,7 +1900,7 @@ projects:
     updated: "2022-03-02"
     featured: false
 
-  - name: adapter-etsi_sol003
+  - name: etsi_sol003
     type: adapter
     active: true
     status: community
@@ -1919,7 +1919,7 @@ projects:
     updated: "2022-03-02"
     featured: false
 
-  - name: adapter-etsi_sol005
+  - name: etsi_sol005
     type: adapter
     active: true
     status: community
@@ -1938,7 +1938,7 @@ projects:
     updated: "2022-03-02"
     featured: false
 
-  - name: adapter-extrahop
+  - name: extrahop
     type: adapter
     active: true
     status: community
@@ -1957,7 +1957,7 @@ projects:
     updated: "2019-12-04"
     featured: false
 
-  - name: adapter-f5_bigiq
+  - name: f5_bigiq
     type: adapter
     active: true
     status: community
@@ -1976,7 +1976,7 @@ projects:
     updated: "2021-07-20"
     featured: false
 
-  - name: adapter-f5_velos
+  - name: f5_velos
     type: adapter
     active: true
     status: community
@@ -1995,7 +1995,7 @@ projects:
     updated: "2023-08-31"
     featured: false
 
-  - name: adapter-firemon_securitymanager
+  - name: firemon_securitymanager
     type: adapter
     active: true
     status: community
@@ -2014,7 +2014,7 @@ projects:
     updated: "2022-05-05"
     featured: false
 
-  - name: adapter-flexiwan
+  - name: flexiwan
     type: adapter
     active: true
     status: community
@@ -2033,7 +2033,7 @@ projects:
     updated: "2020-05-15"
     featured: false
 
-  - name: adapter-fortimanager
+  - name: fortimanager
     type: adapter
     active: true
     status: community
@@ -2052,7 +2052,7 @@ projects:
     updated: "2020-05-16"
     featured: false
 
-  - name: adapter-forwardnetworks
+  - name: forwardnetworks
     type: adapter
     active: true
     status: community
@@ -2071,7 +2071,7 @@ projects:
     updated: "2020-12-02"
     featured: false
 
-  - name: adapter-gcp_compute
+  - name: gcp_compute
     type: adapter
     active: true
     status: community
@@ -2090,7 +2090,7 @@ projects:
     updated: "2021-01-15"
     featured: false
 
-  - name: adapter-generic
+  - name: generic
     type: adapter
     active: true
     status: community
@@ -2109,7 +2109,7 @@ projects:
     updated: "2023-05-15"
     featured: false
 
-  - name: adapter-git
+  - name: git
     type: adapter
     active: true
     status: community
@@ -2128,7 +2128,7 @@ projects:
     updated: "2023-03-07"
     featured: false
 
-  - name: adapter-github
+  - name: github
     type: adapter
     active: true
     status: certified
@@ -2147,7 +2147,7 @@ projects:
     updated: "2019-08-26"
     featured: false
 
-  - name: adapter-gitlab
+  - name: gitlab
     type: adapter
     active: true
     status: certified
@@ -2166,7 +2166,7 @@ projects:
     updated: "2019-06-07"
     featured: false
 
-  - name: adapter-glds_customerexperiencegateway
+  - name: glds_customerexperiencegateway
     type: adapter
     active: true
     status: community
@@ -2185,7 +2185,7 @@ projects:
     updated: "2021-10-14"
     featured: false
 
-  - name: adapter-godaddy
+  - name: godaddy
     type: adapter
     active: true
     status: community
@@ -2204,7 +2204,7 @@ projects:
     updated: "2022-12-06"
     featured: false
 
-  - name: adapter-gogetssl
+  - name: gogetssl
     type: adapter
     active: true
     status: community
@@ -2223,7 +2223,7 @@ projects:
     updated: "2021-12-13"
     featured: false
 
-  - name: adapter-google_drive
+  - name: google_drive
     type: adapter
     active: true
     status: community
@@ -2242,7 +2242,7 @@ projects:
     updated: "2022-03-07"
     featured: false
 
-  - name: adapter-hashicorp_vault
+  - name: hashicorp_vault
     type: adapter
     active: true
     status: certified
@@ -2261,7 +2261,7 @@ projects:
     updated: "2021-08-09"
     featured: false
 
-  - name: adapter-hyas_protect
+  - name: hyas_protect
     type: adapter
     active: true
     status: community
@@ -2280,7 +2280,7 @@ projects:
     updated: "2023-05-01"
     featured: false
 
-  - name: adapter-iap
+  - name: iap
     type: adapter
     active: true
     status: certified
@@ -2299,7 +2299,7 @@ projects:
     updated: "2020-03-18"
     featured: false
 
-  - name: adapter-imperva
+  - name: imperva
     type: adapter
     active: true
     status: community
@@ -2318,7 +2318,7 @@ projects:
     updated: "2022-06-07"
     featured: false
 
-  - name: adapter-incognito
+  - name: incognito
     type: adapter
     active: true
     status: community
@@ -2337,7 +2337,7 @@ projects:
     updated: "2021-04-30"
     featured: false
 
-  - name: adapter-incognito_soap
+  - name: incognito_soap
     type: adapter
     active: true
     status: community
@@ -2356,7 +2356,7 @@ projects:
     updated: "2022-06-06"
     featured: false
 
-  - name: adapter-infoblox
+  - name: infoblox
     type: adapter
     active: true
     status: certified
@@ -2375,7 +2375,7 @@ projects:
     updated: "2019-05-30"
     featured: true
 
-  - name: adapter-infoblox_netmri
+  - name: infoblox_netmri
     type: adapter
     active: true
     status: community
@@ -2394,7 +2394,7 @@ projects:
     updated: "2021-10-26"
     featured: false
 
-  - name: adapter-infoblox_threat_defense
+  - name: infoblox_threat_defense
     type: adapter
     active: true
     status: community
@@ -2413,7 +2413,7 @@ projects:
     updated: "2025-08-18"
     featured: false
 
-  - name: adapter-infoblox_universal_ddi
+  - name: infoblox_universal_ddi
     type: adapter
     active: true
     status: community
@@ -2432,7 +2432,7 @@ projects:
     updated: "2025-08-18"
     featured: false
 
-  - name: adapter-ipfabric
+  - name: ipfabric
     type: adapter
     active: true
     status: community
@@ -2451,7 +2451,7 @@ projects:
     updated: "2021-06-14"
     featured: false
 
-  - name: adapter-itop
+  - name: itop
     type: adapter
     active: true
     status: community
@@ -2470,7 +2470,7 @@ projects:
     updated: "2022-03-24"
     featured: false
 
-  - name: adapter-jenkins
+  - name: jenkins
     type: adapter
     active: true
     status: community
@@ -2489,7 +2489,7 @@ projects:
     updated: "2019-11-22"
     featured: false
 
-  - name: adapter-jira
+  - name: jira
     type: adapter
     active: true
     status: community
@@ -2508,7 +2508,7 @@ projects:
     updated: "2019-04-09"
     featured: false
 
-  - name: adapter-jira_service_management
+  - name: jira_service_management
     type: adapter
     active: true
     status: community
@@ -2527,7 +2527,7 @@ projects:
     updated: "2024-10-15"
     featured: false
 
-  - name: adapter-juniper_cso
+  - name: juniper_cso
     type: adapter
     active: true
     status: community
@@ -2546,7 +2546,7 @@ projects:
     updated: "2020-07-12"
     featured: false
 
-  - name: adapter-juniper_mist
+  - name: juniper_mist
     type: adapter
     active: true
     status: community
@@ -2565,7 +2565,7 @@ projects:
     updated: "2021-03-08"
     featured: false
 
-  - name: adapter-juniper_northstar
+  - name: juniper_northstar
     type: adapter
     active: true
     status: community
@@ -2584,7 +2584,7 @@ projects:
     updated: "2021-09-20"
     featured: false
 
-  - name: adapter-kafkav2
+  - name: kafkav2
     type: adapter
     active: true
     status: community
@@ -2603,7 +2603,7 @@ projects:
     updated: "2023-02-07"
     featured: false
 
-  - name: adapter-kentik
+  - name: kentik
     type: adapter
     active: true
     status: community
@@ -2622,7 +2622,7 @@ projects:
     updated: "2023-04-25"
     featured: false
 
-  - name: adapter-kentik_v5
+  - name: kentik_v5
     type: adapter
     active: true
     status: community
@@ -2641,7 +2641,7 @@ projects:
     updated: "2023-05-15"
     featured: false
 
-  - name: adapter-keygen
+  - name: keygen
     type: adapter
     active: true
     status: community
@@ -2660,7 +2660,7 @@ projects:
     updated: "2020-09-16"
     featured: false
 
-  - name: adapter-kubernetes
+  - name: kubernetes
     type: adapter
     active: true
     status: community
@@ -2679,7 +2679,7 @@ projects:
     updated: "2019-04-23"
     featured: false
 
-  - name: adapter-logicmonitor
+  - name: logicmonitor
     type: adapter
     active: true
     status: community
@@ -2698,7 +2698,7 @@ projects:
     updated: "2021-12-09"
     featured: false
 
-  - name: adapter-mattermost
+  - name: mattermost
     type: adapter
     active: true
     status: community
@@ -2717,7 +2717,7 @@ projects:
     updated: "2024-11-18"
     featured: false
 
-  - name: adapter-menmice_micetro
+  - name: menmice_micetro
     type: adapter
     active: true
     status: community
@@ -2736,7 +2736,7 @@ projects:
     updated: "2021-07-28"
     featured: false
 
-  - name: adapter-meraki
+  - name: meraki
     type: adapter
     active: true
     status: certified
@@ -2755,7 +2755,7 @@ projects:
     updated: "2019-06-10"
     featured: true
 
-  - name: adapter-metaswitch
+  - name: metaswitch
     type: adapter
     active: true
     status: community
@@ -2774,7 +2774,7 @@ projects:
     updated: "2023-04-13"
     featured: false
 
-  - name: adapter-microsoft_dynamics
+  - name: microsoft_dynamics
     type: adapter
     active: true
     status: community
@@ -2793,7 +2793,7 @@ projects:
     updated: "2022-08-22"
     featured: false
 
-  - name: adapter-microsoft_graph
+  - name: microsoft_graph
     type: adapter
     active: true
     status: community
@@ -2812,7 +2812,7 @@ projects:
     updated: "2022-10-07"
     featured: false
 
-  - name: adapter-microsoft_office365
+  - name: microsoft_office365
     type: adapter
     active: true
     status: community
@@ -2831,7 +2831,7 @@ projects:
     updated: "2021-06-08"
     featured: false
 
-  - name: adapter-mockdevice
+  - name: mockdevice
     type: adapter
     active: true
     status: community
@@ -2850,7 +2850,7 @@ projects:
     updated: "2021-08-04"
     featured: false
 
-  - name: adapter-moogsoft
+  - name: moogsoft
     type: adapter
     active: true
     status: community
@@ -2869,7 +2869,7 @@ projects:
     updated: "2020-02-19"
     featured: false
 
-  - name: adapter-moogsoft_saas
+  - name: moogsoft_saas
     type: adapter
     active: true
     status: community
@@ -2888,7 +2888,7 @@ projects:
     updated: "2021-07-18"
     featured: false
 
-  - name: adapter-morpheus
+  - name: morpheus
     type: adapter
     active: true
     status: community
@@ -2907,7 +2907,7 @@ projects:
     updated: "2021-04-22"
     featured: false
 
-  - name: adapter-msteams
+  - name: msteams
     type: adapter
     active: true
     status: certified
@@ -2926,7 +2926,7 @@ projects:
     updated: "2019-07-19"
     featured: false
 
-  - name: adapter-nautobot
+  - name: nautobot
     type: adapter
     active: true
     status: community
@@ -2945,7 +2945,7 @@ projects:
     updated: "2021-10-28"
     featured: false
 
-  - name: adapter-nautobot_v2
+  - name: nautobot_v2
     type: adapter
     active: true
     status: community
@@ -2964,7 +2964,7 @@ projects:
     updated: "2024-10-07"
     featured: false
 
-  - name: adapter-netadmin_nine
+  - name: netadmin_nine
     type: adapter
     active: true
     status: community
@@ -2983,7 +2983,7 @@ projects:
     updated: "2024-07-12"
     featured: false
 
-  - name: adapter-netbox
+  - name: netbox
     type: adapter
     active: true
     status: certified
@@ -3002,7 +3002,7 @@ projects:
     updated: "2019-04-16"
     featured: true
 
-  - name: adapter-netbox_v210
+  - name: netbox_v210
     type: adapter
     active: true
     status: certified
@@ -3021,7 +3021,7 @@ projects:
     updated: "2021-08-02"
     featured: false
 
-  - name: adapter-netbox_v33
+  - name: netbox_v33
     type: adapter
     active: true
     status: certified
@@ -3040,7 +3040,7 @@ projects:
     updated: "2022-10-20"
     featured: false
 
-  - name: adapter-netbrain
+  - name: netbrain
     type: adapter
     active: true
     status: community
@@ -3059,7 +3059,7 @@ projects:
     updated: "2019-04-23"
     featured: false
 
-  - name: adapter-netterrain
+  - name: netterrain
     type: adapter
     active: true
     status: community
@@ -3078,7 +3078,7 @@ projects:
     updated: "2021-08-30"
     featured: false
 
-  - name: adapter-new_relic
+  - name: new_relic
     type: adapter
     active: true
     status: community
@@ -3097,7 +3097,7 @@ projects:
     updated: "2024-09-09"
     featured: false
 
-  - name: adapter-nexus_repository
+  - name: nexus_repository
     type: adapter
     active: true
     status: community
@@ -3116,7 +3116,7 @@ projects:
     updated: "2021-07-12"
     featured: false
 
-  - name: adapter-nokia_altiplano
+  - name: nokia_altiplano
     type: adapter
     active: true
     status: community
@@ -3135,7 +3135,7 @@ projects:
     updated: "2021-07-29"
     featured: false
 
-  - name: adapter-nokia_netact
+  - name: nokia_netact
     type: adapter
     active: true
     status: community
@@ -3154,7 +3154,7 @@ projects:
     updated: "2024-12-03"
     featured: false
 
-  - name: adapter-nokia_nsp_assurance
+  - name: nokia_nsp_assurance
     type: adapter
     active: true
     status: community
@@ -3173,7 +3173,7 @@ projects:
     updated: "2024-06-10"
     featured: false
 
-  - name: adapter-nokia_nsp_device_administrator
+  - name: nokia_nsp_device_administrator
     type: adapter
     active: true
     status: community
@@ -3192,7 +3192,7 @@ projects:
     updated: "2023-04-14"
     featured: false
 
-  - name: adapter-nokia_nsp_device_configurator
+  - name: nokia_nsp_device_configurator
     type: adapter
     active: true
     status: community
@@ -3211,7 +3211,7 @@ projects:
     updated: "2023-04-17"
     featured: false
 
-  - name: adapter-nokia_nsp_network
+  - name: nokia_nsp_network
     type: adapter
     active: true
     status: community
@@ -3230,7 +3230,7 @@ projects:
     updated: "2022-11-29"
     featured: false
 
-  - name: adapter-nokia_nsp_network_management
+  - name: nokia_nsp_network_management
     type: adapter
     active: true
     status: community
@@ -3249,7 +3249,7 @@ projects:
     updated: "2024-06-17"
     featured: false
 
-  - name: adapter-nokia_nsp_nfm_p
+  - name: nokia_nsp_nfm_p
     type: adapter
     active: true
     status: community
@@ -3268,7 +3268,7 @@ projects:
     updated: "2023-03-13"
     featured: false
 
-  - name: adapter-nokia_nsp_nfv
+  - name: nokia_nsp_nfv
     type: adapter
     active: true
     status: community
@@ -3287,7 +3287,7 @@ projects:
     updated: "2024-06-03"
     featured: false
 
-  - name: adapter-nokia_nsp_sdn
+  - name: nokia_nsp_sdn
     type: adapter
     active: true
     status: community
@@ -3306,7 +3306,7 @@ projects:
     updated: "2021-08-31"
     featured: false
 
-  - name: adapter-nokia_vitalqip
+  - name: nokia_vitalqip
     type: adapter
     active: true
     status: community
@@ -3325,7 +3325,7 @@ projects:
     updated: "2021-10-26"
     featured: false
 
-  - name: adapter-ns1_cloud
+  - name: ns1_cloud
     type: adapter
     active: true
     status: community
@@ -3344,7 +3344,7 @@ projects:
     updated: "2020-07-02"
     featured: false
 
-  - name: adapter-ns1_enterprise
+  - name: ns1_enterprise
     type: adapter
     active: true
     status: community
@@ -3363,7 +3363,7 @@ projects:
     updated: "2020-07-01"
     featured: false
 
-  - name: adapter-nutanix_intentful
+  - name: nutanix_intentful
     type: adapter
     active: true
     status: community
@@ -3382,7 +3382,7 @@ projects:
     updated: "2024-11-25"
     featured: false
 
-  - name: adapter-nvd
+  - name: nvd
     type: adapter
     active: true
     status: community
@@ -3401,7 +3401,7 @@ projects:
     updated: "2021-11-05"
     featured: false
 
-  - name: adapter-okta
+  - name: okta
     type: adapter
     active: true
     status: community
@@ -3420,7 +3420,7 @@ projects:
     updated: "2021-06-01"
     featured: false
 
-  - name: adapter-onap_aai
+  - name: onap_aai
     type: adapter
     active: true
     status: community
@@ -3439,7 +3439,7 @@ projects:
     updated: "2019-08-16"
     featured: false
 
-  - name: adapter-onap_appc
+  - name: onap_appc
     type: adapter
     active: true
     status: community
@@ -3458,7 +3458,7 @@ projects:
     updated: "2019-08-16"
     featured: false
 
-  - name: adapter-onap_blueprint_processor
+  - name: onap_blueprint_processor
     type: adapter
     active: true
     status: community
@@ -3477,7 +3477,7 @@ projects:
     updated: "2023-09-11"
     featured: false
 
-  - name: adapter-onap_dcae
+  - name: onap_dcae
     type: adapter
     active: true
     status: community
@@ -3496,7 +3496,7 @@ projects:
     updated: "2019-08-16"
     featured: false
 
-  - name: adapter-onap_sdc
+  - name: onap_sdc
     type: adapter
     active: true
     status: community
@@ -3515,7 +3515,7 @@ projects:
     updated: "2019-08-16"
     featured: false
 
-  - name: adapter-onap_so
+  - name: onap_so
     type: adapter
     active: true
     status: community
@@ -3534,7 +3534,7 @@ projects:
     updated: "2019-08-16"
     featured: false
 
-  - name: adapter-onepassword_connect
+  - name: onepassword_connect
     type: adapter
     active: true
     status: community
@@ -3553,7 +3553,7 @@ projects:
     updated: "2024-08-16"
     featured: false
 
-  - name: adapter-op5
+  - name: op5
     type: adapter
     active: true
     status: community
@@ -3572,7 +3572,7 @@ projects:
     updated: "2022-09-26"
     featured: false
 
-  - name: adapter-opengear_lighthouse
+  - name: opengear_lighthouse
     type: adapter
     active: true
     status: community
@@ -3591,7 +3591,7 @@ projects:
     updated: "2024-01-02"
     featured: false
 
-  - name: adapter-openstack_cinder
+  - name: openstack_cinder
     type: adapter
     active: true
     status: community
@@ -3610,7 +3610,7 @@ projects:
     updated: "2022-09-05"
     featured: false
 
-  - name: adapter-openstack_glance
+  - name: openstack_glance
     type: adapter
     active: true
     status: community
@@ -3629,7 +3629,7 @@ projects:
     updated: "2022-09-05"
     featured: false
 
-  - name: adapter-openstack_keystone
+  - name: openstack_keystone
     type: adapter
     active: true
     status: community
@@ -3648,7 +3648,7 @@ projects:
     updated: "2022-08-31"
     featured: false
 
-  - name: adapter-openstack_neutron
+  - name: openstack_neutron
     type: adapter
     active: true
     status: community
@@ -3667,7 +3667,7 @@ projects:
     updated: "2022-09-05"
     featured: false
 
-  - name: adapter-openstack_nova
+  - name: openstack_nova
     type: adapter
     active: true
     status: community
@@ -3686,7 +3686,7 @@ projects:
     updated: "2022-08-31"
     featured: false
 
-  - name: adapter-opsgenie
+  - name: opsgenie
     type: adapter
     active: true
     status: community
@@ -3705,7 +3705,7 @@ projects:
     updated: "2022-06-06"
     featured: false
 
-  - name: adapter-opsramp
+  - name: opsramp
     type: adapter
     active: true
     status: community
@@ -3724,7 +3724,7 @@ projects:
     updated: "2024-10-23"
     featured: false
 
-  - name: adapter-oracle_assure1
+  - name: oracle_assure1
     type: adapter
     active: true
     status: community
@@ -3743,7 +3743,7 @@ projects:
     updated: "2024-11-23"
     featured: false
 
-  - name: adapter-oracle_cloud
+  - name: oracle_cloud
     type: adapter
     active: true
     status: community
@@ -3762,7 +3762,7 @@ projects:
     updated: "2021-12-14"
     featured: false
 
-  - name: adapter-owasp_zap
+  - name: owasp_zap
     type: adapter
     active: true
     status: community
@@ -3781,7 +3781,7 @@ projects:
     updated: "2020-08-06"
     featured: false
 
-  - name: adapter-pagerduty
+  - name: pagerduty
     type: adapter
     active: true
     status: community
@@ -3800,7 +3800,7 @@ projects:
     updated: "2019-12-02"
     featured: false
 
-  - name: adapter-paloalto_prismacloud
+  - name: paloalto_prismacloud
     type: adapter
     active: true
     status: community
@@ -3819,7 +3819,7 @@ projects:
     updated: "2022-01-17"
     featured: false
 
-  - name: adapter-panorama
+  - name: panorama
     type: adapter
     active: true
     status: certified
@@ -3838,7 +3838,7 @@ projects:
     updated: "2020-09-02"
     featured: false
 
-  - name: adapter-paragon_active_assurance
+  - name: paragon_active_assurance
     type: adapter
     active: true
     status: community
@@ -3857,7 +3857,7 @@ projects:
     updated: "2023-03-13"
     featured: false
 
-  - name: adapter-paragon_dcs
+  - name: paragon_dcs
     type: adapter
     active: true
     status: community
@@ -3876,7 +3876,7 @@ projects:
     updated: "2023-10-03"
     featured: false
 
-  - name: adapter-paragon_dpm
+  - name: paragon_dpm
     type: adapter
     active: true
     status: community
@@ -3895,7 +3895,7 @@ projects:
     updated: "2023-10-03"
     featured: false
 
-  - name: adapter-paragon_ems_device_manager
+  - name: paragon_ems_device_manager
     type: adapter
     active: true
     status: community
@@ -3914,7 +3914,7 @@ projects:
     updated: "2023-06-23"
     featured: false
 
-  - name: adapter-paragon_ems_device_model
+  - name: paragon_ems_device_model
     type: adapter
     active: true
     status: community
@@ -3933,7 +3933,7 @@ projects:
     updated: "2023-06-23"
     featured: false
 
-  - name: adapter-paragon_iam
+  - name: paragon_iam
     type: adapter
     active: true
     status: community
@@ -3952,7 +3952,7 @@ projects:
     updated: "2023-04-20"
     featured: false
 
-  - name: adapter-paragon_insights
+  - name: paragon_insights
     type: adapter
     active: true
     status: community
@@ -3971,7 +3971,7 @@ projects:
     updated: "2023-03-13"
     featured: false
 
-  - name: adapter-paragon_job_store
+  - name: paragon_job_store
     type: adapter
     active: true
     status: community
@@ -3990,7 +3990,7 @@ projects:
     updated: "2023-10-03"
     featured: false
 
-  - name: adapter-paragon_pathfinder
+  - name: paragon_pathfinder
     type: adapter
     active: true
     status: community
@@ -4009,7 +4009,7 @@ projects:
     updated: "2023-03-13"
     featured: false
 
-  - name: adapter-phpipam
+  - name: phpipam
     type: adapter
     active: true
     status: community
@@ -4028,7 +4028,7 @@ projects:
     updated: "2019-07-18"
     featured: false
 
-  - name: adapter-pitney_bowes
+  - name: pitney_bowes
     type: adapter
     active: true
     status: community
@@ -4047,7 +4047,7 @@ projects:
     updated: "2023-02-17"
     featured: false
 
-  - name: adapter-prtg
+  - name: prtg
     type: adapter
     active: true
     status: community
@@ -4066,7 +4066,7 @@ projects:
     updated: "2023-06-15"
     featured: false
 
-  - name: adapter-psirt
+  - name: psirt
     type: adapter
     active: true
     status: community
@@ -4085,7 +4085,7 @@ projects:
     updated: "2019-08-27"
     featured: false
 
-  - name: adapter-psxapiservice
+  - name: psxapiservice
     type: adapter
     active: true
     status: community
@@ -4104,7 +4104,7 @@ projects:
     updated: "2022-10-05"
     featured: false
 
-  - name: adapter-puppet
+  - name: puppet
     type: adapter
     active: true
     status: community
@@ -4123,7 +4123,7 @@ projects:
     updated: "2019-08-30"
     featured: false
 
-  - name: adapter-qualys
+  - name: qualys
     type: adapter
     active: true
     status: community
@@ -4142,7 +4142,7 @@ projects:
     updated: "2022-09-27"
     featured: false
 
-  - name: adapter-rackn_digital_rebar
+  - name: rackn_digital_rebar
     type: adapter
     active: true
     status: community
@@ -4161,7 +4161,7 @@ projects:
     updated: "2023-02-17"
     featured: false
 
-  - name: adapter-rancher
+  - name: rancher
     type: adapter
     active: true
     status: community
@@ -4180,7 +4180,7 @@ projects:
     updated: "2023-06-21"
     featured: false
 
-  - name: adapter-redis_cloud
+  - name: redis_cloud
     type: adapter
     active: true
     status: community
@@ -4199,7 +4199,7 @@ projects:
     updated: "2023-08-14"
     featured: false
 
-  - name: adapter-remedy_actionrequest
+  - name: remedy_actionrequest
     type: adapter
     active: true
     status: community
@@ -4218,7 +4218,7 @@ projects:
     updated: "2021-10-24"
     featured: false
 
-  - name: adapter-ringcentral
+  - name: ringcentral
     type: adapter
     active: true
     status: community
@@ -4237,7 +4237,7 @@ projects:
     updated: "2022-06-09"
     featured: false
 
-  - name: adapter-robustel
+  - name: robustel
     type: adapter
     active: true
     status: community
@@ -4256,7 +4256,7 @@ projects:
     updated: "2022-03-16"
     featured: false
 
-  - name: adapter-rubrik
+  - name: rubrik
     type: adapter
     active: true
     status: community
@@ -4275,7 +4275,7 @@ projects:
     updated: "2024-11-26"
     featured: false
 
-  - name: adapter-rundeck
+  - name: rundeck
     type: adapter
     active: true
     status: community
@@ -4294,7 +4294,7 @@ projects:
     updated: "2024-03-11"
     featured: false
 
-  - name: adapter-salesforce
+  - name: salesforce
     type: adapter
     active: true
     status: community
@@ -4313,7 +4313,7 @@ projects:
     updated: "2019-05-02"
     featured: false
 
-  - name: adapter-salesforce_apex
+  - name: salesforce_apex
     type: adapter
     active: true
     status: community
@@ -4332,7 +4332,7 @@ projects:
     updated: "2020-04-08"
     featured: false
 
-  - name: adapter-salesforce_cases
+  - name: salesforce_cases
     type: adapter
     active: true
     status: community
@@ -4351,7 +4351,7 @@ projects:
     updated: "2021-07-19"
     featured: false
 
-  - name: adapter-salesforce_metadata
+  - name: salesforce_metadata
     type: adapter
     active: true
     status: community
@@ -4370,7 +4370,7 @@ projects:
     updated: "2020-04-08"
     featured: false
 
-  - name: adapter-salesforce_partner
+  - name: salesforce_partner
     type: adapter
     active: true
     status: community
@@ -4389,7 +4389,7 @@ projects:
     updated: "2020-04-07"
     featured: false
 
-  - name: adapter-salesforce_rest
+  - name: salesforce_rest
     type: adapter
     active: true
     status: community
@@ -4408,7 +4408,7 @@ projects:
     updated: "2024-10-09"
     featured: false
 
-  - name: adapter-salesforce_tooling
+  - name: salesforce_tooling
     type: adapter
     active: true
     status: community
@@ -4427,7 +4427,7 @@ projects:
     updated: "2020-04-07"
     featured: false
 
-  - name: adapter-salt
+  - name: salt
     type: adapter
     active: true
     status: community
@@ -4446,7 +4446,7 @@ projects:
     updated: "2020-12-03"
     featured: false
 
-  - name: adapter-scansource
+  - name: scansource
     type: adapter
     active: true
     status: community
@@ -4465,7 +4465,7 @@ projects:
     updated: "2020-08-05"
     featured: false
 
-  - name: adapter-sciencelogic_sl1
+  - name: sciencelogic_sl1
     type: adapter
     active: true
     status: community
@@ -4484,7 +4484,7 @@ projects:
     updated: "2021-10-04"
     featured: false
 
-  - name: adapter-sectigo_certification_manager
+  - name: sectigo_certification_manager
     type: adapter
     active: true
     status: community
@@ -4503,7 +4503,7 @@ projects:
     updated: "2024-11-22"
     featured: false
 
-  - name: adapter-selector_ai
+  - name: selector_ai
     type: adapter
     active: true
     status: community
@@ -4522,7 +4522,7 @@ projects:
     updated: "2025-06-06"
     featured: true
 
-  - name: adapter-sendgrid
+  - name: sendgrid
     type: adapter
     active: true
     status: community
@@ -4541,7 +4541,7 @@ projects:
     updated: "2025-01-23"
     featured: false
 
-  - name: adapter-service_desk_plus
+  - name: service_desk_plus
     type: adapter
     active: true
     status: community
@@ -4560,7 +4560,7 @@ projects:
     updated: "2019-11-01"
     featured: false
 
-  - name: adapter-servicenow
+  - name: servicenow
     type: adapter
     active: true
     status: certified
@@ -4579,7 +4579,7 @@ projects:
     updated: "2019-05-28"
     featured: false
 
-  - name: adapter-sevone
+  - name: sevone
     type: adapter
     active: true
     status: community
@@ -4598,7 +4598,7 @@ projects:
     updated: "2019-04-04"
     featured: false
 
-  - name: adapter-sevone_v2
+  - name: sevone_v2
     type: adapter
     active: true
     status: community
@@ -4617,7 +4617,7 @@ projects:
     updated: "2021-03-29"
     featured: false
 
-  - name: adapter-sharepoint
+  - name: sharepoint
     type: adapter
     active: true
     status: community
@@ -4636,7 +4636,7 @@ projects:
     updated: "2023-06-28"
     featured: false
 
-  - name: adapter-silverpeak
+  - name: silverpeak
     type: adapter
     active: true
     status: community
@@ -4655,7 +4655,7 @@ projects:
     updated: "2019-09-20"
     featured: false
 
-  - name: adapter-six_connect
+  - name: six_connect
     type: adapter
     active: true
     status: community
@@ -4674,7 +4674,7 @@ projects:
     updated: "2019-04-23"
     featured: false
 
-  - name: adapter-skybox
+  - name: skybox
     type: adapter
     active: true
     status: community
@@ -4693,7 +4693,7 @@ projects:
     updated: "2019-10-29"
     featured: false
 
-  - name: adapter-slack
+  - name: slack
     type: adapter
     active: true
     status: community
@@ -4712,7 +4712,7 @@ projects:
     updated: "2019-04-11"
     featured: true
 
-  - name: adapter-snowflake_sql
+  - name: snowflake_sql
     type: adapter
     active: true
     status: community
@@ -4731,7 +4731,7 @@ projects:
     updated: "2023-04-03"
     featured: false
 
-  - name: adapter-solarwinds
+  - name: solarwinds
     type: adapter
     active: true
     status: community
@@ -4750,7 +4750,7 @@ projects:
     updated: "2019-05-20"
     featured: false
 
-  - name: adapter-solarwinds_servicedesk
+  - name: solarwinds_servicedesk
     type: adapter
     active: true
     status: community
@@ -4769,7 +4769,7 @@ projects:
     updated: "2021-07-12"
     featured: false
 
-  - name: adapter-spirent_testcenter
+  - name: spirent_testcenter
     type: adapter
     active: true
     status: community
@@ -4788,7 +4788,7 @@ projects:
     updated: "2023-06-28"
     featured: false
 
-  - name: adapter-splunk
+  - name: splunk
     type: adapter
     active: true
     status: community
@@ -4807,7 +4807,7 @@ projects:
     updated: "2022-09-30"
     featured: false
 
-  - name: adapter-starburst
+  - name: starburst
     type: adapter
     active: true
     status: community
@@ -4826,7 +4826,7 @@ projects:
     updated: "2024-05-01"
     featured: false
 
-  - name: adapter-steel_connect
+  - name: steel_connect
     type: adapter
     active: true
     status: community
@@ -4845,7 +4845,7 @@ projects:
     updated: "2019-04-26"
     featured: false
 
-  - name: adapter-surreal_db
+  - name: surreal_db
     type: adapter
     active: true
     status: community
@@ -4864,7 +4864,7 @@ projects:
     updated: "2024-08-06"
     featured: false
 
-  - name: adapter-symantec_mgmtcenter
+  - name: symantec_mgmtcenter
     type: adapter
     active: true
     status: community
@@ -4883,7 +4883,7 @@ projects:
     updated: "2021-07-12"
     featured: false
 
-  - name: adapter-tapi
+  - name: tapi
     type: adapter
     active: true
     status: community
@@ -4902,7 +4902,7 @@ projects:
     updated: "2022-06-10"
     featured: false
 
-  - name: adapter-tcpwave
+  - name: tcpwave
     type: adapter
     active: true
     status: community
@@ -4921,7 +4921,7 @@ projects:
     updated: "2019-08-13"
     featured: false
 
-  - name: adapter-terraform_enterprise
+  - name: terraform_enterprise
     type: adapter
     active: true
     status: community
@@ -4940,7 +4940,7 @@ projects:
     updated: "2020-03-11"
     featured: true
 
-  - name: adapter-thales_cipher_trust_manager
+  - name: thales_cipher_trust_manager
     type: adapter
     active: true
     status: community
@@ -4959,7 +4959,7 @@ projects:
     updated: "2024-05-22"
     featured: false
 
-  - name: adapter-thingspace
+  - name: thingspace
     type: adapter
     active: true
     status: community
@@ -4978,7 +4978,7 @@ projects:
     updated: "2023-01-03"
     featured: false
 
-  - name: adapter-thousand_eyes
+  - name: thousand_eyes
     type: adapter
     active: true
     status: community
@@ -4997,7 +4997,7 @@ projects:
     updated: "2023-06-12"
     featured: false
 
-  - name: adapter-thruk_monitoring
+  - name: thruk_monitoring
     type: adapter
     active: true
     status: community
@@ -5016,7 +5016,7 @@ projects:
     updated: "2021-07-29"
     featured: false
 
-  - name: adapter-tiger_connect
+  - name: tiger_connect
     type: adapter
     active: true
     status: community
@@ -5035,7 +5035,7 @@ projects:
     updated: "2022-10-19"
     featured: false
 
-  - name: adapter-tmf638_service_inventory_management
+  - name: tmf638_service_inventory_management
     type: adapter
     active: true
     status: community
@@ -5054,7 +5054,7 @@ projects:
     updated: "2023-03-09"
     featured: false
 
-  - name: adapter-tmf639_resource_inventory_management
+  - name: tmf639_resource_inventory_management
     type: adapter
     active: true
     status: community
@@ -5073,7 +5073,7 @@ projects:
     updated: "2023-03-09"
     featured: false
 
-  - name: adapter-tmf641_service_ordering_management
+  - name: tmf641_service_ordering_management
     type: adapter
     active: true
     status: community
@@ -5092,7 +5092,7 @@ projects:
     updated: "2023-03-09"
     featured: false
 
-  - name: adapter-tmf642_alarm_management
+  - name: tmf642_alarm_management
     type: adapter
     active: true
     status: community
@@ -5111,7 +5111,7 @@ projects:
     updated: "2023-03-09"
     featured: false
 
-  - name: adapter-tufin_secureapp
+  - name: tufin_secureapp
     type: adapter
     active: true
     status: community
@@ -5130,7 +5130,7 @@ projects:
     updated: "2019-07-12"
     featured: false
 
-  - name: adapter-tufin_securechange
+  - name: tufin_securechange
     type: adapter
     active: true
     status: community
@@ -5149,7 +5149,7 @@ projects:
     updated: "2020-03-24"
     featured: false
 
-  - name: adapter-tufin_securetrack
+  - name: tufin_securetrack
     type: adapter
     active: true
     status: community
@@ -5168,7 +5168,7 @@ projects:
     updated: "2019-07-12"
     featured: false
 
-  - name: adapter-velocloud_orchestrator
+  - name: velocloud_orchestrator
     type: adapter
     active: true
     status: community
@@ -5187,7 +5187,7 @@ projects:
     updated: "2020-10-19"
     featured: false
 
-  - name: adapter-venafi
+  - name: venafi
     type: adapter
     active: true
     status: community
@@ -5206,7 +5206,7 @@ projects:
     updated: "2022-06-06"
     featured: false
 
-  - name: adapter-venafi_trust_protection_platform
+  - name: venafi_trust_protection_platform
     type: adapter
     active: true
     status: community
@@ -5225,7 +5225,7 @@ projects:
     updated: "2022-07-25"
     featured: false
 
-  - name: adapter-versa_director
+  - name: versa_director
     type: adapter
     active: true
     status: community
@@ -5244,7 +5244,7 @@ projects:
     updated: "2020-10-08"
     featured: false
 
-  - name: adapter-viavi_xpertrak
+  - name: viavi_xpertrak
     type: adapter
     active: true
     status: community
@@ -5263,7 +5263,7 @@ projects:
     updated: "2023-11-16"
     featured: false
 
-  - name: adapter-viptela
+  - name: viptela
     type: adapter
     active: true
     status: community
@@ -5282,7 +5282,7 @@ projects:
     updated: "2019-04-25"
     featured: false
 
-  - name: adapter-vmware_cloud
+  - name: vmware_cloud
     type: adapter
     active: true
     status: community
@@ -5301,7 +5301,7 @@ projects:
     updated: "2021-03-16"
     featured: false
 
-  - name: adapter-vmware_horizon_server
+  - name: vmware_horizon_server
     type: adapter
     active: true
     status: community
@@ -5320,7 +5320,7 @@ projects:
     updated: "2024-11-26"
     featured: false
 
-  - name: adapter-vmware_nsx_t
+  - name: vmware_nsx_t
     type: adapter
     active: true
     status: community
@@ -5339,7 +5339,7 @@ projects:
     updated: "2019-04-23"
     featured: false
 
-  - name: adapter-vmware_vcenter
+  - name: vmware_vcenter
     type: adapter
     active: true
     status: community
@@ -5358,7 +5358,7 @@ projects:
     updated: "2019-04-23"
     featured: false
 
-  - name: adapter-vmware_virtual_infrastructure
+  - name: vmware_virtual_infrastructure
     type: adapter
     active: true
     status: community
@@ -5377,7 +5377,7 @@ projects:
     updated: "2024-08-19"
     featured: false
 
-  - name: adapter-vmware_vrealize_orchestrator
+  - name: vmware_vrealize_orchestrator
     type: adapter
     active: true
     status: community
@@ -5396,7 +5396,7 @@ projects:
     updated: "2021-09-22"
     featured: false
 
-  - name: adapter-vmware_vsphere
+  - name: vmware_vsphere
     type: adapter
     active: true
     status: community
@@ -5415,7 +5415,7 @@ projects:
     updated: "2020-12-29"
     featured: false
 
-  - name: adapter-watchguard_firebox_mgmt
+  - name: watchguard_firebox_mgmt
     type: adapter
     active: true
     status: community
@@ -5434,7 +5434,7 @@ projects:
     updated: "2020-10-12"
     featured: false
 
-  - name: adapter-webex_teams
+  - name: webex_teams
     type: adapter
     active: true
     status: community
@@ -5453,7 +5453,7 @@ projects:
     updated: "2020-01-30"
     featured: false
 
-  - name: adapter-whatsup_gold
+  - name: whatsup_gold
     type: adapter
     active: true
     status: community
@@ -5472,7 +5472,7 @@ projects:
     updated: "2022-07-12"
     featured: false
 
-  - name: adapter-winston_syslog
+  - name: winston_syslog
     type: adapter
     active: true
     status: community
@@ -5491,7 +5491,7 @@ projects:
     updated: "2022-12-15"
     featured: false
 
-  - name: adapter-zabbix
+  - name: zabbix
     type: adapter
     active: true
     status: community
@@ -5510,7 +5510,7 @@ projects:
     updated: "2020-08-17"
     featured: false
 
-  - name: adapter-zero_networks
+  - name: zero_networks
     type: adapter
     active: true
     status: community
@@ -5529,7 +5529,7 @@ projects:
     updated: "2023-11-16"
     featured: false
 
-  - name: adapter-zoom
+  - name: zoom
     type: adapter
     active: true
     status: community
@@ -5548,7 +5548,7 @@ projects:
     updated: "2020-09-09"
     featured: false
 
-  - name: adapter-zscaler
+  - name: zscaler
     type: adapter
     active: true
     status: community
@@ -5567,7 +5567,7 @@ projects:
     updated: "2019-04-25"
     featured: false
 
-  - name: adapter-zscaler_zpa
+  - name: zscaler_zpa
     type: adapter
     active: true
     status: community
