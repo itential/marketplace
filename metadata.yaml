@@ -1,41 +1,121 @@
 projects:
 
   - name: builder-skills
-    type: skills
+    type: assets
     active: true
     status: community
-    source: github
     compatibility:
       - platform
-    description: A collection of pre-built skills for the Itential Automation Platform builder
+    description: A collection of pre-built skills for the Itential Platform builder
     tags:
-      - automation
-      - builder
+      - workflow
+      - development
     maintainer:
       - "@itential"
-    license: Apache-2.0
     repo: https://github.com/itential/builder-skills
     docs: https://github.com/itential/builder-skills/blob/main/README.md
     icon: assets/generic/mcp.png
     updated: "2026-04-08"
     featured: true
+    source: github
+    license: Apache-2.0
 
   - name: ipctl
-    type: tool
+    type: cli-tool
     active: true
     status: community
-    source: github
     compatibility:
       - platform
-    description: A CLI tool for managing and interacting with the Itential Automation Platform
+    description: A CLI tool for managing and interacting with the Itential Platform
     tags:
-      - cli
-      - tool
+      - operations
+      - development
     maintainer:
       - "@itential"
-    license: Apache-2.0
     repo: https://github.com/itential/ipctl
     docs: https://github.com/itential/ipctl/blob/main/README.md
     icon: assets/generic/cli.png
     updated: "2026-04-08"
     featured: true
+    source: github
+    license: Apache-2.0
+
+  - name: itential-mcp
+    type: mcp-server
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: MCP server for the Itential Platform, exposing platform capabilities to AI/LLM agents
+    tags:
+      - ai
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/itential-mcp
+    docs: https://github.com/itential/itential-mcp/blob/devel/README.md
+    icon: assets/generic/mcp.png
+    updated: "2026-05-21"
+    featured: true
+    source: github
+    license: GPL-3.0
+
+  - name: ipsdk
+    type: sdk-library
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Python SDK for building integrations against the Itential Platform
+    tags:
+      - development
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/ipsdk
+    docs: https://github.com/itential/ipsdk/blob/main/README.md
+    icon: assets/generic/sdk-library.png
+    updated: "2026-05-21"
+    featured: true
+    source: github
+    license: GPL-3.0
+
+  - name: itential-dev-stack
+    type: installer
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Local development stack for spinning up an Itential environment with Docker, Ansible, and OpenTofu
+    tags:
+      - development
+      - deployment
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/itential-dev-stack
+    docs: https://github.com/itential/itential-dev-stack/blob/main/README.md
+    icon: assets/generic/installer.png
+    updated: "2026-05-21"
+    featured: true
+    source: github
+    license: GPL-3.0
+
+  - name: asyncplatform
+    type: sdk-library
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Async Python client for the Itential Platform
+    tags:
+      - development
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/asyncplatform
+    docs: https://github.com/itential/asyncplatform/blob/devel/README.md
+    icon: assets/generic/sdk-library.png
+    updated: "2026-05-21"
+    featured: true
+    source: github
+    license: GPL-3.0
