@@ -6,7 +6,7 @@ projects:
     status: community
     compatibility:
       - platform
-    description: A collection of pre-built skills for the Itential Platform builder
+    description: Open source plugin for Claude Code with built-in domain knowledge and 22 pre-built use case specs
     tags:
       - workflow
       - development
