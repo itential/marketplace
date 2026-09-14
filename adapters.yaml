@@ -1,7 +1,7 @@
 projects:
 
   - name: 128technology
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -20,7 +20,7 @@ projects:
     featured: false
 
   - name: accedian_skylight
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -39,7 +39,7 @@ projects:
     featured: false
 
   - name: accedian_skylight_vision
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -58,7 +58,7 @@ projects:
     featured: false
 
   - name: adtran_mosaic_cloud_platform
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -77,7 +77,7 @@ projects:
     featured: false
 
   - name: adtran_mosaic_devicemanager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -96,7 +96,7 @@ projects:
     featured: false
 
   - name: akamai_gtm
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -115,7 +115,7 @@ projects:
     featured: false
 
   - name: akamai_property_manager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -134,7 +134,7 @@ projects:
     featured: false
 
   - name: algosec_appviz
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -153,7 +153,7 @@ projects:
     featured: false
 
   - name: algosec_fireflow
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -172,7 +172,7 @@ projects:
     featured: false
 
   - name: algosec_firewall
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -191,7 +191,7 @@ projects:
     featured: false
 
   - name: alkira
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -210,7 +210,7 @@ projects:
     featured: false
 
   - name: amazon_api_gateway
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -229,7 +229,7 @@ projects:
     featured: false
 
   - name: amazon_connectservice
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -248,7 +248,7 @@ projects:
     featured: false
 
   - name: amazon_eks
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -267,7 +267,7 @@ projects:
     featured: false
 
   - name: amazon_route53
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -286,7 +286,7 @@ projects:
     featured: false
 
   - name: ansible_tower
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -305,7 +305,7 @@ projects:
     featured: false
 
   - name: apache_airflow
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -324,7 +324,7 @@ projects:
     featured: false
 
   - name: apic
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -343,7 +343,7 @@ projects:
     featured: false
 
   - name: artifactory
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -362,7 +362,7 @@ projects:
     featured: false
 
   - name: aruba_airwave
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -381,7 +381,7 @@ projects:
     featured: false
 
   - name: aruba_central
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -400,7 +400,7 @@ projects:
     featured: false
 
   - name: aruba_central_enhanced
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -419,7 +419,7 @@ projects:
     featured: false
 
   - name: aruba_clearpass
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -438,7 +438,7 @@ projects:
     featured: false
 
   - name: att_mobility
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -457,7 +457,7 @@ projects:
     featured: false
 
   - name: automox
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -476,7 +476,7 @@ projects:
     featured: false
 
   - name: avi_controller
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -495,7 +495,7 @@ projects:
     featured: false
 
   - name: aviatrix
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -514,7 +514,7 @@ projects:
     featured: false
 
   - name: aws_cloudformation
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -533,7 +533,7 @@ projects:
     featured: false
 
   - name: aws_cognito_identity_provider
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -552,7 +552,7 @@ projects:
     featured: false
 
   - name: aws_directconnect
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -571,7 +571,7 @@ projects:
     featured: false
 
   - name: aws_ec2
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -590,7 +590,7 @@ projects:
     featured: false
 
   - name: aws_lambda
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -609,7 +609,7 @@ projects:
     featured: false
 
   - name: aws_nfw
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -628,7 +628,7 @@ projects:
     featured: false
 
   - name: aws_organizations
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -647,7 +647,7 @@ projects:
     featured: false
 
   - name: aws_s3
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -666,7 +666,7 @@ projects:
     featured: false
 
   - name: aws_secretsmanager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -685,7 +685,7 @@ projects:
     featured: false
 
   - name: azure
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -704,7 +704,7 @@ projects:
     featured: false
 
   - name: azure_aks
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -723,7 +723,7 @@ projects:
     featured: false
 
   - name: azure_blobs
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -742,7 +742,7 @@ projects:
     featured: false
 
   - name: azure_devops
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -761,7 +761,7 @@ projects:
     featured: false
 
   - name: beyond_trust
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -780,7 +780,7 @@ projects:
     featured: false
 
   - name: bigpanda
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -799,7 +799,7 @@ projects:
     featured: false
 
   - name: bitbucket
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -818,7 +818,7 @@ projects:
     featured: false
 
   - name: bitbucket_server
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -837,7 +837,7 @@ projects:
     featured: false
 
   - name: bluecat
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -856,7 +856,7 @@ projects:
     featured: false
 
   - name: bluecat_ipam
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -875,7 +875,7 @@ projects:
     featured: false
 
   - name: bmc_helix_itsm
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -894,7 +894,7 @@ projects:
     featured: false
 
   - name: ca_spectrum
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -913,7 +913,7 @@ projects:
     featured: false
 
   - name: calix_cloud_devportal
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -932,7 +932,7 @@ projects:
     featured: false
 
   - name: calix_cms
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -951,7 +951,7 @@ projects:
     featured: false
 
   - name: calix_smx
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -970,7 +970,7 @@ projects:
     featured: false
 
   - name: calix_support_cloud
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -989,7 +989,7 @@ projects:
     featured: false
 
   - name: centreon
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1008,7 +1008,7 @@ projects:
     featured: false
 
   - name: chatgpt
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1027,7 +1027,7 @@ projects:
     featured: false
 
   - name: checkpoint_gaia
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1046,7 +1046,7 @@ projects:
     featured: false
 
   - name: checkpoint_management
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1065,7 +1065,7 @@ projects:
     featured: false
 
   - name: checkpoint_reputation_service
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1084,7 +1084,7 @@ projects:
     featured: false
 
   - name: ciena_mcp
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1103,7 +1103,7 @@ projects:
     featured: false
 
   - name: cisco_aci
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1122,7 +1122,7 @@ projects:
     featured: false
 
   - name: cisco_acs
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1141,7 +1141,7 @@ projects:
     featured: false
 
   - name: cisco_callmanager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1160,7 +1160,7 @@ projects:
     featured: false
 
   - name: cisco_cml
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1179,7 +1179,7 @@ projects:
     featured: false
 
   - name: cisco_dcnm
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1198,7 +1198,7 @@ projects:
     featured: false
 
   - name: cisco_defense_orchestrator
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1217,7 +1217,7 @@ projects:
     featured: false
 
   - name: cisco_firepowermanagementcenter
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1236,7 +1236,7 @@ projects:
     featured: false
 
   - name: cisco_firepowerthreatdefense
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1255,7 +1255,7 @@ projects:
     featured: false
 
   - name: cisco_ise
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1274,7 +1274,7 @@ projects:
     featured: false
 
   - name: cisco_ise_ers
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1293,7 +1293,7 @@ projects:
     featured: false
 
   - name: cisco_ndfc
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1312,7 +1312,7 @@ projects:
     featured: false
 
   - name: cisco_prime
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1331,7 +1331,7 @@ projects:
     featured: false
 
   - name: cisco_software_manager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1350,7 +1350,7 @@ projects:
     featured: false
 
   - name: cisco_support
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1369,7 +1369,7 @@ projects:
     featured: false
 
   - name: cisco_tetration
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1388,7 +1388,7 @@ projects:
     featured: false
 
   - name: clearcable_noms
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1407,7 +1407,7 @@ projects:
     featured: false
 
   - name: cloudgenix
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1426,7 +1426,7 @@ projects:
     featured: false
 
   - name: cloudify
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1445,7 +1445,7 @@ projects:
     featured: false
 
   - name: confluence_cloud
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1464,7 +1464,7 @@ projects:
     featured: false
 
   - name: cvp
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1483,7 +1483,7 @@ projects:
     featured: false
 
   - name: cyberark
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1502,7 +1502,7 @@ projects:
     featured: false
 
   - name: datadog
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1521,7 +1521,7 @@ projects:
     featured: false
 
   - name: db_mongo
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1540,7 +1540,7 @@ projects:
     featured: false
 
   - name: db_mssql
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1559,7 +1559,7 @@ projects:
     featured: false
 
   - name: db_mysql
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1578,7 +1578,7 @@ projects:
     featured: false
 
   - name: db_oracle
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1597,7 +1597,7 @@ projects:
     featured: false
 
   - name: db_postgresql
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1616,7 +1616,7 @@ projects:
     featured: false
 
   - name: db_sybase
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1635,7 +1635,7 @@ projects:
     featured: false
 
   - name: dbt_cloud
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1654,7 +1654,7 @@ projects:
     featured: false
 
   - name: delinea
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1673,7 +1673,7 @@ projects:
     featured: false
 
   - name: device42
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1692,7 +1692,7 @@ projects:
     featured: false
 
   - name: digicert_pki
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1711,7 +1711,7 @@ projects:
     featured: false
 
   - name: dna_center
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1730,7 +1730,7 @@ projects:
     featured: false
 
   - name: docker
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1749,7 +1749,7 @@ projects:
     featured: false
 
   - name: drivenets_networkcloud
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1768,7 +1768,7 @@ projects:
     featured: false
 
   - name: drivenets_networkorchestrator
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1787,7 +1787,7 @@ projects:
     featured: false
 
   - name: eai
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1806,7 +1806,7 @@ projects:
     featured: false
 
   - name: easypost
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1825,7 +1825,7 @@ projects:
     featured: false
 
   - name: efficientip_solidserver
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1844,7 +1844,7 @@ projects:
     featured: false
 
   - name: email
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1863,7 +1863,7 @@ projects:
     featured: false
 
   - name: equinix
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1882,7 +1882,7 @@ projects:
     featured: false
 
   - name: etsi_sol002
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1901,7 +1901,7 @@ projects:
     featured: false
 
   - name: etsi_sol003
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1920,7 +1920,7 @@ projects:
     featured: false
 
   - name: etsi_sol005
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1939,7 +1939,7 @@ projects:
     featured: false
 
   - name: extrahop
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1958,7 +1958,7 @@ projects:
     featured: false
 
   - name: f5_bigiq
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1977,7 +1977,7 @@ projects:
     featured: false
 
   - name: f5_velos
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -1996,7 +1996,7 @@ projects:
     featured: false
 
   - name: firemon_securitymanager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2015,7 +2015,7 @@ projects:
     featured: false
 
   - name: flexiwan
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2034,7 +2034,7 @@ projects:
     featured: false
 
   - name: fortimanager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2053,7 +2053,7 @@ projects:
     featured: false
 
   - name: forwardnetworks
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2072,7 +2072,7 @@ projects:
     featured: false
 
   - name: gcp_compute
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2091,7 +2091,7 @@ projects:
     featured: false
 
   - name: generic
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2110,7 +2110,7 @@ projects:
     featured: false
 
   - name: git
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2129,7 +2129,7 @@ projects:
     featured: false
 
   - name: github
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -2148,7 +2148,7 @@ projects:
     featured: false
 
   - name: gitlab
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -2167,7 +2167,7 @@ projects:
     featured: false
 
   - name: glds_customerexperiencegateway
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2186,7 +2186,7 @@ projects:
     featured: false
 
   - name: godaddy
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2205,7 +2205,7 @@ projects:
     featured: false
 
   - name: gogetssl
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2224,7 +2224,7 @@ projects:
     featured: false
 
   - name: google_drive
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2243,7 +2243,7 @@ projects:
     featured: false
 
   - name: hashicorp_vault
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -2262,7 +2262,7 @@ projects:
     featured: false
 
   - name: hyas_protect
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2281,7 +2281,7 @@ projects:
     featured: false
 
   - name: iap
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -2300,7 +2300,7 @@ projects:
     featured: false
 
   - name: imperva
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2319,7 +2319,7 @@ projects:
     featured: false
 
   - name: incognito
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2338,7 +2338,7 @@ projects:
     featured: false
 
   - name: incognito_soap
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2357,7 +2357,7 @@ projects:
     featured: false
 
   - name: infoblox
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -2376,7 +2376,7 @@ projects:
     featured: true
 
   - name: infoblox_netmri
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2395,7 +2395,7 @@ projects:
     featured: false
 
   - name: infoblox_threat_defense
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2414,7 +2414,7 @@ projects:
     featured: false
 
   - name: infoblox_universal_ddi
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2433,7 +2433,7 @@ projects:
     featured: false
 
   - name: ipfabric
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2452,7 +2452,7 @@ projects:
     featured: false
 
   - name: itop
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2471,7 +2471,7 @@ projects:
     featured: false
 
   - name: jenkins
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2490,7 +2490,7 @@ projects:
     featured: false
 
   - name: jira
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2509,7 +2509,7 @@ projects:
     featured: false
 
   - name: jira_service_management
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2528,7 +2528,7 @@ projects:
     featured: false
 
   - name: juniper_cso
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2547,7 +2547,7 @@ projects:
     featured: false
 
   - name: juniper_mist
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2566,7 +2566,7 @@ projects:
     featured: false
 
   - name: juniper_northstar
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2585,7 +2585,7 @@ projects:
     featured: false
 
   - name: kafkav2
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2604,7 +2604,7 @@ projects:
     featured: false
 
   - name: kentik
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2623,7 +2623,7 @@ projects:
     featured: false
 
   - name: kentik_v5
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2642,7 +2642,7 @@ projects:
     featured: false
 
   - name: keygen
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2661,7 +2661,7 @@ projects:
     featured: false
 
   - name: kubernetes
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2680,7 +2680,7 @@ projects:
     featured: false
 
   - name: logicmonitor
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2699,7 +2699,7 @@ projects:
     featured: false
 
   - name: mattermost
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2718,7 +2718,7 @@ projects:
     featured: false
 
   - name: menmice_micetro
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2737,7 +2737,7 @@ projects:
     featured: false
 
   - name: meraki
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -2756,7 +2756,7 @@ projects:
     featured: true
 
   - name: metaswitch
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2775,7 +2775,7 @@ projects:
     featured: false
 
   - name: microsoft_dynamics
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2794,7 +2794,7 @@ projects:
     featured: false
 
   - name: microsoft_graph
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2813,7 +2813,7 @@ projects:
     featured: false
 
   - name: microsoft_office365
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2832,7 +2832,7 @@ projects:
     featured: false
 
   - name: mockdevice
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2851,7 +2851,7 @@ projects:
     featured: false
 
   - name: moogsoft
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2870,7 +2870,7 @@ projects:
     featured: false
 
   - name: moogsoft_saas
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2889,7 +2889,7 @@ projects:
     featured: false
 
   - name: morpheus
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2908,7 +2908,7 @@ projects:
     featured: false
 
   - name: msteams
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -2927,7 +2927,7 @@ projects:
     featured: false
 
   - name: nautobot
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2946,7 +2946,7 @@ projects:
     featured: false
 
   - name: nautobot_v2
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2965,7 +2965,7 @@ projects:
     featured: false
 
   - name: netadmin_nine
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -2984,7 +2984,7 @@ projects:
     featured: false
 
   - name: netbox
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -3003,7 +3003,7 @@ projects:
     featured: true
 
   - name: netbox_v210
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -3022,7 +3022,7 @@ projects:
     featured: false
 
   - name: netbox_v33
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -3041,7 +3041,7 @@ projects:
     featured: false
 
   - name: netbrain
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3060,7 +3060,7 @@ projects:
     featured: false
 
   - name: netterrain
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3079,7 +3079,7 @@ projects:
     featured: false
 
   - name: new_relic
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3098,7 +3098,7 @@ projects:
     featured: false
 
   - name: nexus_repository
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3117,7 +3117,7 @@ projects:
     featured: false
 
   - name: nokia_altiplano
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3136,7 +3136,7 @@ projects:
     featured: false
 
   - name: nokia_netact
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3155,7 +3155,7 @@ projects:
     featured: false
 
   - name: nokia_nsp_assurance
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3174,7 +3174,7 @@ projects:
     featured: false
 
   - name: nokia_nsp_device_administrator
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3193,7 +3193,7 @@ projects:
     featured: false
 
   - name: nokia_nsp_device_configurator
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3212,7 +3212,7 @@ projects:
     featured: false
 
   - name: nokia_nsp_network
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3231,7 +3231,7 @@ projects:
     featured: false
 
   - name: nokia_nsp_network_management
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3250,7 +3250,7 @@ projects:
     featured: false
 
   - name: nokia_nsp_nfm_p
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3269,7 +3269,7 @@ projects:
     featured: false
 
   - name: nokia_nsp_nfv
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3288,7 +3288,7 @@ projects:
     featured: false
 
   - name: nokia_nsp_sdn
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3307,7 +3307,7 @@ projects:
     featured: false
 
   - name: nokia_vitalqip
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3326,7 +3326,7 @@ projects:
     featured: false
 
   - name: ns1_cloud
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3345,7 +3345,7 @@ projects:
     featured: false
 
   - name: ns1_enterprise
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3364,7 +3364,7 @@ projects:
     featured: false
 
   - name: nutanix_intentful
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3383,7 +3383,7 @@ projects:
     featured: false
 
   - name: nvd
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3402,7 +3402,7 @@ projects:
     featured: false
 
   - name: okta
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3421,7 +3421,7 @@ projects:
     featured: false
 
   - name: onap_aai
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3440,7 +3440,7 @@ projects:
     featured: false
 
   - name: onap_appc
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3459,7 +3459,7 @@ projects:
     featured: false
 
   - name: onap_blueprint_processor
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3478,7 +3478,7 @@ projects:
     featured: false
 
   - name: onap_dcae
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3497,7 +3497,7 @@ projects:
     featured: false
 
   - name: onap_sdc
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3516,7 +3516,7 @@ projects:
     featured: false
 
   - name: onap_so
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3535,7 +3535,7 @@ projects:
     featured: false
 
   - name: onepassword_connect
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3554,7 +3554,7 @@ projects:
     featured: false
 
   - name: op5
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3573,7 +3573,7 @@ projects:
     featured: false
 
   - name: opengear_lighthouse
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3592,7 +3592,7 @@ projects:
     featured: false
 
   - name: openstack_cinder
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3611,7 +3611,7 @@ projects:
     featured: false
 
   - name: openstack_glance
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3630,7 +3630,7 @@ projects:
     featured: false
 
   - name: openstack_keystone
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3649,7 +3649,7 @@ projects:
     featured: false
 
   - name: openstack_neutron
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3668,7 +3668,7 @@ projects:
     featured: false
 
   - name: openstack_nova
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3687,7 +3687,7 @@ projects:
     featured: false
 
   - name: opsgenie
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3706,7 +3706,7 @@ projects:
     featured: false
 
   - name: opsramp
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3725,7 +3725,7 @@ projects:
     featured: false
 
   - name: oracle_assure1
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3744,7 +3744,7 @@ projects:
     featured: false
 
   - name: oracle_cloud
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3763,7 +3763,7 @@ projects:
     featured: false
 
   - name: owasp_zap
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3782,7 +3782,7 @@ projects:
     featured: false
 
   - name: pagerduty
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3801,7 +3801,7 @@ projects:
     featured: false
 
   - name: paloalto_prismacloud
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3820,7 +3820,7 @@ projects:
     featured: false
 
   - name: panorama
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -3839,7 +3839,7 @@ projects:
     featured: false
 
   - name: paragon_active_assurance
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3858,7 +3858,7 @@ projects:
     featured: false
 
   - name: paragon_dcs
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3877,7 +3877,7 @@ projects:
     featured: false
 
   - name: paragon_dpm
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3896,7 +3896,7 @@ projects:
     featured: false
 
   - name: paragon_ems_device_manager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3915,7 +3915,7 @@ projects:
     featured: false
 
   - name: paragon_ems_device_model
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3934,7 +3934,7 @@ projects:
     featured: false
 
   - name: paragon_iam
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3953,7 +3953,7 @@ projects:
     featured: false
 
   - name: paragon_insights
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3972,7 +3972,7 @@ projects:
     featured: false
 
   - name: paragon_job_store
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -3991,7 +3991,7 @@ projects:
     featured: false
 
   - name: paragon_pathfinder
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4010,7 +4010,7 @@ projects:
     featured: false
 
   - name: phpipam
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4029,7 +4029,7 @@ projects:
     featured: false
 
   - name: pitney_bowes
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4048,7 +4048,7 @@ projects:
     featured: false
 
   - name: prtg
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4067,7 +4067,7 @@ projects:
     featured: false
 
   - name: psirt
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4086,7 +4086,7 @@ projects:
     featured: false
 
   - name: psxapiservice
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4105,7 +4105,7 @@ projects:
     featured: false
 
   - name: puppet
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4124,7 +4124,7 @@ projects:
     featured: false
 
   - name: qualys
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4143,7 +4143,7 @@ projects:
     featured: false
 
   - name: rackn_digital_rebar
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4162,7 +4162,7 @@ projects:
     featured: false
 
   - name: rancher
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4181,7 +4181,7 @@ projects:
     featured: false
 
   - name: redis_cloud
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4200,7 +4200,7 @@ projects:
     featured: false
 
   - name: remedy_actionrequest
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4219,7 +4219,7 @@ projects:
     featured: false
 
   - name: ringcentral
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4238,7 +4238,7 @@ projects:
     featured: false
 
   - name: robustel
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4257,7 +4257,7 @@ projects:
     featured: false
 
   - name: rubrik
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4276,7 +4276,7 @@ projects:
     featured: false
 
   - name: rundeck
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4295,7 +4295,7 @@ projects:
     featured: false
 
   - name: salesforce
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4314,7 +4314,7 @@ projects:
     featured: false
 
   - name: salesforce_apex
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4333,7 +4333,7 @@ projects:
     featured: false
 
   - name: salesforce_cases
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4352,7 +4352,7 @@ projects:
     featured: false
 
   - name: salesforce_metadata
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4371,7 +4371,7 @@ projects:
     featured: false
 
   - name: salesforce_partner
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4390,7 +4390,7 @@ projects:
     featured: false
 
   - name: salesforce_rest
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4409,7 +4409,7 @@ projects:
     featured: false
 
   - name: salesforce_tooling
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4428,7 +4428,7 @@ projects:
     featured: false
 
   - name: salt
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4447,7 +4447,7 @@ projects:
     featured: false
 
   - name: scansource
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4466,7 +4466,7 @@ projects:
     featured: false
 
   - name: sciencelogic_sl1
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4485,7 +4485,7 @@ projects:
     featured: false
 
   - name: sectigo_certification_manager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4504,7 +4504,7 @@ projects:
     featured: false
 
   - name: selector_ai
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4523,7 +4523,7 @@ projects:
     featured: true
 
   - name: sendgrid
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4542,7 +4542,7 @@ projects:
     featured: false
 
   - name: service_desk_plus
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4561,7 +4561,7 @@ projects:
     featured: false
 
   - name: servicenow
-    type: adapter
+    type: integration
     active: true
     status: certified
     source: gitlab
@@ -4580,7 +4580,7 @@ projects:
     featured: false
 
   - name: sevone
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4599,7 +4599,7 @@ projects:
     featured: false
 
   - name: sevone_v2
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4618,7 +4618,7 @@ projects:
     featured: false
 
   - name: sharepoint
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4637,7 +4637,7 @@ projects:
     featured: false
 
   - name: silverpeak
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4656,7 +4656,7 @@ projects:
     featured: false
 
   - name: six_connect
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4675,7 +4675,7 @@ projects:
     featured: false
 
   - name: skybox
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4694,7 +4694,7 @@ projects:
     featured: false
 
   - name: slack
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4713,7 +4713,7 @@ projects:
     featured: true
 
   - name: snowflake_sql
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4732,7 +4732,7 @@ projects:
     featured: false
 
   - name: solarwinds
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4751,7 +4751,7 @@ projects:
     featured: false
 
   - name: solarwinds_servicedesk
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4770,7 +4770,7 @@ projects:
     featured: false
 
   - name: spirent_testcenter
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4789,7 +4789,7 @@ projects:
     featured: false
 
   - name: splunk
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4808,7 +4808,7 @@ projects:
     featured: false
 
   - name: starburst
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4827,7 +4827,7 @@ projects:
     featured: false
 
   - name: steel_connect
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4846,7 +4846,7 @@ projects:
     featured: false
 
   - name: surreal_db
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4865,7 +4865,7 @@ projects:
     featured: false
 
   - name: symantec_mgmtcenter
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4884,7 +4884,7 @@ projects:
     featured: false
 
   - name: tapi
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4903,7 +4903,7 @@ projects:
     featured: false
 
   - name: tcpwave
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4922,7 +4922,7 @@ projects:
     featured: false
 
   - name: terraform_enterprise
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4941,7 +4941,7 @@ projects:
     featured: true
 
   - name: thales_cipher_trust_manager
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4960,7 +4960,7 @@ projects:
     featured: false
 
   - name: thingspace
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4979,7 +4979,7 @@ projects:
     featured: false
 
   - name: thousand_eyes
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -4998,7 +4998,7 @@ projects:
     featured: false
 
   - name: thruk_monitoring
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5017,7 +5017,7 @@ projects:
     featured: false
 
   - name: tiger_connect
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5036,7 +5036,7 @@ projects:
     featured: false
 
   - name: tmf638_service_inventory_management
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5055,7 +5055,7 @@ projects:
     featured: false
 
   - name: tmf639_resource_inventory_management
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5074,7 +5074,7 @@ projects:
     featured: false
 
   - name: tmf641_service_ordering_management
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5093,7 +5093,7 @@ projects:
     featured: false
 
   - name: tmf642_alarm_management
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5112,7 +5112,7 @@ projects:
     featured: false
 
   - name: tufin_secureapp
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5131,7 +5131,7 @@ projects:
     featured: false
 
   - name: tufin_securechange
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5150,7 +5150,7 @@ projects:
     featured: false
 
   - name: tufin_securetrack
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5169,7 +5169,7 @@ projects:
     featured: false
 
   - name: velocloud_orchestrator
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5188,7 +5188,7 @@ projects:
     featured: false
 
   - name: venafi
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5207,7 +5207,7 @@ projects:
     featured: false
 
   - name: venafi_trust_protection_platform
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5226,7 +5226,7 @@ projects:
     featured: false
 
   - name: versa_director
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5245,7 +5245,7 @@ projects:
     featured: false
 
   - name: viavi_xpertrak
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5264,7 +5264,7 @@ projects:
     featured: false
 
   - name: viptela
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5283,7 +5283,7 @@ projects:
     featured: false
 
   - name: vmware_cloud
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5302,7 +5302,7 @@ projects:
     featured: false
 
   - name: vmware_horizon_server
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5321,7 +5321,7 @@ projects:
     featured: false
 
   - name: vmware_nsx_t
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5340,7 +5340,7 @@ projects:
     featured: false
 
   - name: vmware_vcenter
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5359,7 +5359,7 @@ projects:
     featured: false
 
   - name: vmware_virtual_infrastructure
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5378,7 +5378,7 @@ projects:
     featured: false
 
   - name: vmware_vrealize_orchestrator
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5397,7 +5397,7 @@ projects:
     featured: false
 
   - name: vmware_vsphere
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5416,7 +5416,7 @@ projects:
     featured: false
 
   - name: watchguard_firebox_mgmt
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5435,7 +5435,7 @@ projects:
     featured: false
 
   - name: webex_teams
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5454,7 +5454,7 @@ projects:
     featured: false
 
   - name: whatsup_gold
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5473,7 +5473,7 @@ projects:
     featured: false
 
   - name: winston_syslog
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5492,7 +5492,7 @@ projects:
     featured: false
 
   - name: zabbix
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5511,7 +5511,7 @@ projects:
     featured: false
 
   - name: zero_networks
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5530,7 +5530,7 @@ projects:
     featured: false
 
   - name: zoom
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5549,7 +5549,7 @@ projects:
     featured: false
 
   - name: zscaler
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
@@ -5568,7 +5568,7 @@ projects:
     featured: false
 
   - name: zscaler_zpa
-    type: adapter
+    type: integration
     active: true
     status: community
     source: gitlab
