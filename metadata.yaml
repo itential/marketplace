@@ -119,3 +119,41 @@ projects:
     featured: true
     source: github
     license: GPL-3.0
+
+  - name: forescout
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for ForeScout host visibility, classification, and policy automation via Integration Model
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/ForeScout/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/ForeScout/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-13"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: ForeScout Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for ForeScout host lookup, host field definitions, and policy listing
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/ForeScout/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/ForeScout/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-13"
+    featured: false
+    source: github
+    license: Apache-2.0
