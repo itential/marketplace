@@ -157,3 +157,1219 @@ projects:
     featured: false
     source: github
     license: Apache-2.0
+
+  - name: ARIN
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for ARIN RDAP and Whois-RWS network, ASN, and organization lookups via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/ARIN/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/ARIN/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-08-07"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: ARIN Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for ARIN RDAP and Whois-RWS network, ASN, and entity lookups
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/ARIN/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/ARIN/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-08-07"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: BigPanda
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for BigPanda alert correlation and incident automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/BigPanda/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/BigPanda/README.md
+    icon: assets/vendors/bigpanda.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: BigPanda Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for BigPanda environments, incidents, alerts, integrations, and tags
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/BigPanda/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/BigPanda/README.md
+    icon: assets/vendors/bigpanda.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Cloudflare
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Cloudflare DNS, firewall, load balancing, and Zero Trust automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Cloudflare/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Cloudflare/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-10"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Cloudflare Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Cloudflare DNS records, zones, firewall rules, and load balancers
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Cloudflare/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Cloudflare/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-10"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Datadog
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Datadog observability, monitors, and incident automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Datadog/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Datadog/README.md
+    icon: assets/vendors/datadog.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Datadog Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Datadog incidents, downtimes, maintenance windows, and roles
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Datadog/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Datadog/README.md
+    icon: assets/vendors/datadog.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: DigiCert
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for DigiCert Trust Lifecycle Manager certificate enrollment and lifecycle automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/DigiCert/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/DigiCert/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: DigiCert Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for DigiCert certificate lifecycle, enrollments, and business units
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/DigiCert/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/DigiCert/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: EasyPost
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for EasyPost multi-carrier shipping, tracking, and label automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/EasyPost/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/EasyPost/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: EasyPost Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for EasyPost shipments, addresses, parcels, and trackers
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/EasyPost/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/EasyPost/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: GitHub
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for GitHub repository, issue, and CI/CD automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/GitHub/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/GitHub/README.md
+    icon: assets/vendors/github.png
+    updated: "2026-08-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: GitHub Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for GitHub organizations, repositories, issues, and pull requests
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/GitHub/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/GitHub/README.md
+    icon: assets/vendors/github.png
+    updated: "2026-08-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: GitLab
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for GitLab repository, pipeline, and merge request automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/GitLab/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/GitLab/README.md
+    icon: assets/vendors/gitlab.png
+    updated: "2026-08-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: GitLab Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for GitLab groups, projects, pipelines, and merge requests
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/GitLab/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/GitLab/README.md
+    icon: assets/vendors/gitlab.png
+    updated: "2026-08-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: GoDaddy
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for GoDaddy domain registration, DNS, and lifecycle automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/GoDaddy/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/GoDaddy/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: GoDaddy Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for GoDaddy domains, DNS records, and availability lookups
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/GoDaddy/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/GoDaddy/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: IP Fabric
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for IP Fabric network discovery, inventory, and verification automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/IP%20Fabric/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/IP%20Fabric/README.md
+    icon: assets/vendors/ip-fabric.png
+    updated: "2026-08-13"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: IP Fabric Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for IP Fabric tables, snapshots, path lookup, and jobs
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/IP%20Fabric/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/IP%20Fabric/README.md
+    icon: assets/vendors/ip-fabric.png
+    updated: "2026-08-13"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Kentik
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Kentik device and site observability automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Kentik/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Kentik/README.md
+    icon: assets/vendors/kentik.png
+    updated: "2026-08-13"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Kentik Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Kentik devices, sites, and site markets
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Kentik/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Kentik/README.md
+    icon: assets/vendors/kentik.png
+    updated: "2026-08-13"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Kubernetes
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Kubernetes cluster resource automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Kubernetes/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Kubernetes/README.md
+    icon: assets/vendors/kubernetes.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Kubernetes Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Kubernetes pods, deployments, services, and namespaces
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Kubernetes/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Kubernetes/README.md
+    icon: assets/vendors/kubernetes.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: LogicMonitor
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for LogicMonitor infrastructure monitoring automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/LogicMonitor/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/LogicMonitor/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: LogicMonitor Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for LogicMonitor devices, device groups, alerts, and websites
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/LogicMonitor/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/LogicMonitor/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Mattermost
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Mattermost team messaging and channel automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Mattermost/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Mattermost/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Mattermost Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Mattermost channels, posts, users, and teams
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Mattermost/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Mattermost/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: NVD
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for NVD CVE and CPE vulnerability data lookups via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/NVD/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/NVD/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-13"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: NVD Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for NVD CVEs, CVE change history, CPEs, and CPE match criteria
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/NVD/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/NVD/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-13"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Nautobot
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Nautobot network source of truth automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Nautobot/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Nautobot/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Nautobot Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Nautobot devices, locations, IP addresses, and prefixes
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Nautobot/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Nautobot/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: NetBox
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for NetBox IPAM and DCIM automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/NetBox/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/NetBox/README.md
+    icon: assets/vendors/netbox.png
+    updated: "2026-07-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: NetBox Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for NetBox devices, IP addresses, prefixes, and VLANs, plus an Inventory Manager sync project
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/NetBox/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/NetBox/README.md
+    icon: assets/vendors/netbox.png
+    updated: "2026-07-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Netskope
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Netskope security policy, events, and CASB automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Netskope/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Netskope/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-10"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Netskope Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Netskope real-time policy, SCIM users and groups, and URL lists
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Netskope/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Netskope/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-10"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: New Relic
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for New Relic application performance monitoring automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/New%20Relic/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/New%20Relic/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: New Relic Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for New Relic applications, deployments, and alert policies and conditions
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/New%20Relic/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/New%20Relic/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Okta
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Okta Identity Governance entitlements and access certification automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Okta/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Okta/README.md
+    icon: assets/vendors/okta.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Okta Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Okta entitlements, entitlement bundles, grants, and access certification campaigns
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Okta/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Okta/README.md
+    icon: assets/vendors/okta.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: OpenAI
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for OpenAI model, chat completion, and fine-tuning automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/OpenAI/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/OpenAI/README.md
+    icon: assets/vendors/openai.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: OpenAI Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for OpenAI models, chat completions, files, and fine-tuning jobs
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/OpenAI/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/OpenAI/README.md
+    icon: assets/vendors/openai.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Paessler
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Paessler PRTG infrastructure monitoring automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Paessler/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Paessler/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Paessler Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Paessler PRTG devices, groups, probes, and sensors
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Paessler/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Paessler/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: PagerDuty
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for PagerDuty incident and on-call management automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/PagerDuty/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/PagerDuty/README.md
+    icon: assets/vendors/pagerduty.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: PagerDuty Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for PagerDuty incidents, services, escalation policies, and schedules
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/PagerDuty/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/PagerDuty/README.md
+    icon: assets/vendors/pagerduty.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: RingCentral
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for RingCentral business communications automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/RingCentral/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/RingCentral/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: RingCentral Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for RingCentral calls, messages, extensions, and meetings
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/RingCentral/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/RingCentral/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Rundeck
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Rundeck job automation and orchestration via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Rundeck/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Rundeck/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-22"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Rundeck Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Rundeck jobs, projects, executions, and nodes
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Rundeck/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Rundeck/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-22"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Selector
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Selector AI network observability automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Selector/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Selector/README.md
+    icon: assets/vendors/selector.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Selector Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Selector AI inventory names, inventory items, and inventory schema queries
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Selector/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Selector/README.md
+    icon: assets/vendors/selector.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: SendGrid
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for SendGrid transactional email sending automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/SendGrid/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/SendGrid/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: SendGrid Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for SendGrid mail sending, templates, contacts, and lists
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/SendGrid/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/SendGrid/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: ServiceNow
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for ServiceNow Change Management and Table API automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/ServiceNow/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/ServiceNow/README.md
+    icon: assets/vendors/servicenow.png
+    updated: "2026-08-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: ServiceNow Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for ServiceNow change requests, emergency and normal changes, and change tasks
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/ServiceNow/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/ServiceNow/README.md
+    icon: assets/vendors/servicenow.png
+    updated: "2026-08-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Slack
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Slack Web API messaging and channel automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Slack/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Slack/README.md
+    icon: assets/vendors/slack.png
+    updated: "2026-09-17"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Slack Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Slack messaging, conversations, users, and files
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Slack/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Slack/README.md
+    icon: assets/vendors/slack.png
+    updated: "2026-09-17"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Twilio
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Twilio voice, SMS, and phone number automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Twilio/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Twilio/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Twilio Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Twilio messages, calls, phone numbers, and conferences
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Twilio/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Twilio/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Zoom
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Zoom meeting and webinar automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Zoom/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Zoom/README.md
+    icon: assets/vendors/zoom.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Zoom Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Zoom meetings, users, webinars, and cloud recordings
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Zoom/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Zoom/README.md
+    icon: assets/vendors/zoom.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: dbt Cloud
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for dbt Cloud job and pipeline orchestration automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/dbt%20Cloud/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/dbt%20Cloud/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: dbt Cloud Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for dbt Cloud jobs, runs, projects, and environments
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/dbt%20Cloud/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/dbt%20Cloud/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
