@@ -1373,3 +1373,535 @@ projects:
     featured: false
     source: github
     license: Apache-2.0
+
+  - name: 1Password Connect
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for 1Password Connect secrets management automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/1Password/Connect/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/1Password/Connect/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-10"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: 6connect Provision
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for 6connect Provision IPAM and network provisioning automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/6connect/Provision/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/6connect/Provision/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: 6connect Provision Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for 6connect Provision IP address management and provisioning
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/6connect/Provision/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/6connect/Provision/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Ansible AWX (AAP)
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Ansible AWX job template, inventory, and execution automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Ansible/AWX%20%28AAP%29/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Ansible/AWX%20%28AAP%29/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Ansible AWX (AAP) Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Ansible AWX job templates, inventories, credentials, and projects
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Ansible/AWX%20%28AAP%29/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Ansible/AWX%20%28AAP%29/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Arista EOS Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Arista EOS software upgrade, port turn-up, golden config compliance, and inventory management
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Arista/EOS/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Arista/EOS/README.md
+    icon: assets/vendors/arista.png
+    updated: "2026-09-09"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Delinea Secret Server Secret Providers
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Secret provider plugin for Itential Gateway to resolve credentials from Delinea Secret Server at runtime
+    tags:
+      - secret-provider
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Delinea/Secret%20Server/secret-providers
+    docs: https://github.com/itential/assets/blob/main/Delinea/Secret%20Server/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-08-28"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: EfficientIP SOLIDserver
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for EfficientIP SOLIDserver DNS, DHCP, and IPAM automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/EfficientIP/SOLIDserver/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/EfficientIP/SOLIDserver/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-08-25"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: EfficientIP SOLIDserver Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for EfficientIP SOLIDserver DNS zones, DHCP scopes, and IP address management
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/EfficientIP/SOLIDserver/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/EfficientIP/SOLIDserver/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-08-25"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Fortinet FortiGate Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for FortiGate golden config compliance, interface configuration, and backup/config snapshot
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Fortinet/FortiGate/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Fortinet/FortiGate/README.md
+    icon: assets/vendors/fortinet.png
+    updated: "2026-08-13"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Fortinet FortiGate Golden Configurations
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Golden configuration templates for FortiGate admin access, password policy, NTP, syslog, and interface hardening
+    tags:
+      - golden-config
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Fortinet/FortiGate/Golden%20Configurations
+    docs: https://github.com/itential/assets/blob/main/Fortinet/FortiGate/README.md
+    icon: assets/vendors/fortinet.png
+    updated: "2026-08-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Fortinet FortiGate Device Drivers
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: IG5 device driver for FortiGate FortiOS REST API automation — is-alive, get-config, and generic REST passthrough
+    tags:
+      - device-driver
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Fortinet/FortiGate/device-drivers
+    docs: https://github.com/itential/assets/blob/main/Fortinet/FortiGate/README.md
+    icon: assets/vendors/fortinet.png
+    updated: "2026-08-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Fortinet FortiGate Configuration Parsers
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Config Manager parser definition for the FortiGate fortios device type
+    tags:
+      - config-parser
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Fortinet/FortiGate/Configuration%20Parsers
+    docs: https://github.com/itential/assets/blob/main/Fortinet/FortiGate/README.md
+    icon: assets/vendors/fortinet.png
+    updated: "2026-08-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: HashiCorp Vault
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for HashiCorp Vault secrets management and encryption-as-a-service automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/HashiCorp/Vault/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/HashiCorp/Vault/README.md
+    icon: assets/vendors/hashicorp.png
+    updated: "2026-09-10"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Itential Platform
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Itential Platform's own Automation Studio, Workflow Engine, and Integration Model automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Itential/Platform/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Itential/Platform/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-09"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Itential Platform Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Itential Platform Configuration Manager, Lifecycle Manager, Inventory Manager, Operations Manager, and FlowAI
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Itential/Platform/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Itential/Platform/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-09"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: JFrog Artifactory
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for JFrog Artifactory package repository and artifact automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/JFrog/Artifactory/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/JFrog/Artifactory/README.md
+    icon: assets/vendors/jfrog.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: JFrog Artifactory Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for JFrog Artifactory repository and artifact CRUD automation
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/JFrog/Artifactory/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/JFrog/Artifactory/README.md
+    icon: assets/vendors/jfrog.png
+    updated: "2026-09-12"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: NetScaler ADC
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for NetScaler ADC NITRO API load balancing and traffic management automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/NetScaler/ADC/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/NetScaler/ADC/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-08-07"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: NetScaler ADC Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for NetScaler ADC NITRO API load balancing and application delivery operations
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/NetScaler/ADC/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/NetScaler/ADC/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-08-07"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Ruckus Fastiron Device Drivers
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: IG5 device driver for Ruckus Fastiron SSH/CLI automation via netmiko
+    tags:
+      - device-driver
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Ruckus/Fastiron/device-drivers
+    docs: https://github.com/itential/assets/blob/main/Ruckus/Fastiron/device-drivers/netmiko-python/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-07-16"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: SolarWinds Orion NPM
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for SolarWinds Orion NPM SWIS query and CRUD automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/SolarWinds/Orion%20NPM/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/SolarWinds/Orion%20NPM/README.md
+    icon: assets/vendors/solarwinds.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: SolarWinds Orion NPM Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for SolarWinds Orion NPM SWQL queries, node and interface lifecycle, and pollers
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/SolarWinds/Orion%20NPM/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/SolarWinds/Orion%20NPM/README.md
+    icon: assets/vendors/solarwinds.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Sonatype Nexus
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Sonatype Nexus Repository Manager artifact automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Sonatype/Nexus/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Sonatype/Nexus/README.md
+    icon: assets/generic/adapter.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Sonatype Nexus Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Sonatype Nexus Repository CRUD automation
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Sonatype/Nexus/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Sonatype/Nexus/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-09-11"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Versa Director Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Versa Director version checks, organization and device group management, and device deployment
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Versa/Director/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Versa/Director/README.md
+    icon: assets/vendors/versa.png
+    updated: "2026-07-10"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Zscaler ZIA
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: OpenAPI spec for Zscaler Internet Access firewall, URL filtering, and DLP automation via API
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Zscaler/ZIA/OpenAPIs
+    docs: https://github.com/itential/assets/blob/main/Zscaler/ZIA/README.md
+    icon: assets/vendors/zscaler.png
+    updated: "2026-08-17"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Zscaler ZIA Studio Projects
+    type: asset
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Studio Project workflows for Zscaler Internet Access firewall, URL filtering, and cloud app control
+    tags:
+      - workflow
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/assets/tree/main/Zscaler/ZIA/Studio%20Projects
+    docs: https://github.com/itential/assets/blob/main/Zscaler/ZIA/README.md
+    icon: assets/vendors/zscaler.png
+    updated: "2026-08-17"
+    featured: false
+    source: github
+    license: Apache-2.0
