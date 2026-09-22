@@ -126,7 +126,7 @@ projects:
     status: community
     compatibility:
       - platform
-    description: OpenAPI spec for Forescout host visibility, classification, and policy automation via Integration Model
+    description: OpenAPI spec for Forescout host visibility, classification, and policy automation via API
     tags:
       - integration
     maintainer:
