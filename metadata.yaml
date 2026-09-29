@@ -139,7 +139,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Forescout Studio Projects
+  - name: Forescout – Studio Project
     type: asset
     active: true
     status: community
@@ -177,7 +177,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: ARIN Studio Projects
+  - name: ARIN – Studio Project
     type: asset
     active: true
     status: community
@@ -196,7 +196,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: BigPanda Studio Projects
+  - name: BigPanda – Studio Project
     type: asset
     active: true
     status: community
@@ -234,7 +234,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cloudflare Studio Projects
+  - name: Cloudflare – Studio Project
     type: asset
     active: true
     status: community
@@ -253,7 +253,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Datadog Studio Projects
+  - name: Datadog – Studio Project
     type: asset
     active: true
     status: community
@@ -272,7 +272,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: DigiCert Studio Projects
+  - name: DigiCert – Studio Project
     type: asset
     active: true
     status: community
@@ -291,7 +291,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: EasyPost Studio Projects
+  - name: EasyPost – Studio Project
     type: asset
     active: true
     status: community
@@ -310,7 +310,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: GitHub Studio Projects
+  - name: GitHub – Studio Project
     type: asset
     active: true
     status: community
@@ -329,7 +329,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: GitLab Studio Projects
+  - name: GitLab – Studio Project
     type: asset
     active: true
     status: community
@@ -348,7 +348,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: GoDaddy Studio Projects
+  - name: GoDaddy – Studio Project
     type: asset
     active: true
     status: community
@@ -367,7 +367,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: IP Fabric Studio Projects
+  - name: IP Fabric – Studio Project
     type: asset
     active: true
     status: community
@@ -386,7 +386,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Kentik Studio Projects
+  - name: Kentik – Studio Project
     type: asset
     active: true
     status: community
@@ -405,7 +405,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Kubernetes Studio Projects
+  - name: Kubernetes – Studio Project
     type: asset
     active: true
     status: community
@@ -424,7 +424,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: LogicMonitor Studio Projects
+  - name: LogicMonitor – Studio Project
     type: asset
     active: true
     status: community
@@ -443,7 +443,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Mattermost Studio Projects
+  - name: Mattermost – Studio Project
     type: asset
     active: true
     status: community
@@ -462,7 +462,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: NVD Studio Projects
+  - name: NVD – Studio Project
     type: asset
     active: true
     status: community
@@ -481,7 +481,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Nautobot Studio Projects
+  - name: Nautobot – Studio Project
     type: asset
     active: true
     status: community
@@ -500,7 +500,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: NetBox Studio Projects
+  - name: NetBox – Studio Project
     type: asset
     active: true
     status: community
@@ -538,7 +538,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Netskope Studio Projects
+  - name: Netskope – Studio Project
     type: asset
     active: true
     status: community
@@ -557,7 +557,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: New Relic Studio Projects
+  - name: New Relic – Studio Project
     type: asset
     active: true
     status: community
@@ -595,7 +595,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Okta Studio Projects
+  - name: Okta – Studio Project
     type: asset
     active: true
     status: community
@@ -633,7 +633,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: OpenAI Studio Projects
+  - name: OpenAI – Studio Project
     type: asset
     active: true
     status: community
@@ -652,7 +652,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Paessler Studio Projects
+  - name: Paessler – Studio Project
     type: asset
     active: true
     status: community
@@ -671,7 +671,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: PagerDuty Studio Projects
+  - name: PagerDuty – Studio Project
     type: asset
     active: true
     status: community
@@ -690,7 +690,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: RingCentral Studio Projects
+  - name: RingCentral – Studio Project
     type: asset
     active: true
     status: community
@@ -709,7 +709,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Rundeck Studio Projects
+  - name: Rundeck – Studio Project
     type: asset
     active: true
     status: community
@@ -728,7 +728,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Selector Studio Projects
+  - name: Selector – Studio Project
     type: asset
     active: true
     status: community
@@ -747,7 +747,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: SendGrid Studio Projects
+  - name: SendGrid – Studio Project
     type: asset
     active: true
     status: community
@@ -785,7 +785,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: ServiceNow Studio Projects
+  - name: ServiceNow – Studio Project
     type: asset
     active: true
     status: community
@@ -804,7 +804,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Slack Studio Projects
+  - name: Slack – Studio Project
     type: asset
     active: true
     status: community
@@ -842,7 +842,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Twilio Studio Projects
+  - name: Twilio – Studio Project
     type: asset
     active: true
     status: community
@@ -861,7 +861,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Zoom Studio Projects
+  - name: Zoom – Studio Project
     type: asset
     active: true
     status: community
@@ -880,7 +880,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: dbt Cloud Studio Projects
+  - name: dbt Cloud – Studio Project
     type: asset
     active: true
     status: community
@@ -899,7 +899,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: 6connect Provision Studio Projects
+  - name: 6connect Provision – Studio Project
     type: asset
     active: true
     status: community
@@ -918,7 +918,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Ansible AWX (AAP) Studio Projects
+  - name: Ansible AWX (AAP) – Studio Project
     type: asset
     active: true
     status: community
@@ -937,7 +937,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Arista EOS Studio Projects
+  - name: Arista EOS – Studio Project
     type: asset
     active: true
     status: community
@@ -975,7 +975,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: EfficientIP SOLIDserver Studio Projects
+  - name: EfficientIP SOLIDserver – Studio Project
     type: asset
     active: true
     status: community
@@ -994,7 +994,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Fortinet FortiGate Studio Projects
+  - name: Fortinet FortiGate – Studio Project
     type: asset
     active: true
     status: community
@@ -1070,7 +1070,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Itential Platform Studio Projects
+  - name: Itential Platform – Studio Project
     type: asset
     active: true
     status: community
@@ -1089,7 +1089,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: JFrog Artifactory Studio Projects
+  - name: JFrog Artifactory – Studio Project
     type: asset
     active: true
     status: community
@@ -1127,7 +1127,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: NetScaler ADC Studio Projects
+  - name: NetScaler ADC – Studio Project
     type: asset
     active: true
     status: community
@@ -1165,7 +1165,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: SolarWinds Orion NPM Studio Projects
+  - name: SolarWinds Orion NPM – Studio Project
     type: asset
     active: true
     status: community
@@ -1184,7 +1184,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Sonatype Nexus Studio Projects
+  - name: Sonatype Nexus – Studio Project
     type: asset
     active: true
     status: community
@@ -1203,7 +1203,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Versa Director Studio Projects
+  - name: Versa Director – Studio Project
     type: asset
     active: true
     status: community
@@ -1241,7 +1241,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Zscaler ZIA Studio Projects
+  - name: Zscaler ZIA – Studio Project
     type: asset
     active: true
     status: community
@@ -1260,7 +1260,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon API Gateway Studio Projects
+  - name: Amazon API Gateway – Studio Project
     type: asset
     active: true
     status: community
@@ -1279,7 +1279,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS CloudFormation Studio Projects
+  - name: AWS CloudFormation – Studio Project
     type: asset
     active: true
     status: community
@@ -1298,7 +1298,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon Cognito Studio Projects
+  - name: Amazon Cognito – Studio Project
     type: asset
     active: true
     status: community
@@ -1317,7 +1317,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon Connect Studio Projects
+  - name: Amazon Connect – Studio Project
     type: asset
     active: true
     status: community
@@ -1336,7 +1336,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Direct Connect Studio Projects
+  - name: AWS Direct Connect – Studio Project
     type: asset
     active: true
     status: community
@@ -1355,7 +1355,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon EC2 Studio Projects
+  - name: Amazon EC2 – Studio Project
     type: asset
     active: true
     status: community
@@ -1393,7 +1393,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon EKS Studio Projects
+  - name: Amazon EKS – Studio Project
     type: asset
     active: true
     status: community
@@ -1412,7 +1412,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Lambda Studio Projects
+  - name: AWS Lambda – Studio Project
     type: asset
     active: true
     status: community
@@ -1431,7 +1431,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Network Firewall Studio Projects
+  - name: AWS Network Firewall – Studio Project
     type: asset
     active: true
     status: community
@@ -1450,7 +1450,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Organizations Studio Projects
+  - name: AWS Organizations – Studio Project
     type: asset
     active: true
     status: community
@@ -1469,7 +1469,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon Route 53 Studio Projects
+  - name: Amazon Route 53 – Studio Project
     type: asset
     active: true
     status: community
@@ -1488,7 +1488,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon S3 Studio Projects
+  - name: Amazon S3 – Studio Project
     type: asset
     active: true
     status: community
@@ -1526,7 +1526,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco ASA Studio Projects
+  - name: Cisco ASA – Studio Project
     type: asset
     active: true
     status: community
@@ -1564,7 +1564,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Catalyst Center Studio Projects
+  - name: Cisco Catalyst Center – Studio Project
     type: asset
     active: true
     status: community
@@ -1602,7 +1602,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Crosswork Assurance Studio Projects
+  - name: Cisco Crosswork Assurance – Studio Project
     type: asset
     active: true
     status: community
@@ -1640,7 +1640,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Crosswork Network Controller Studio Projects
+  - name: Cisco Crosswork Network Controller – Studio Project
     type: asset
     active: true
     status: community
@@ -1659,7 +1659,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco DCNM Studio Projects
+  - name: Cisco DCNM – Studio Project
     type: asset
     active: true
     status: community
@@ -1678,7 +1678,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco IOS Studio Projects
+  - name: Cisco IOS – Studio Project
     type: asset
     active: true
     status: community
@@ -1716,7 +1716,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco ISE Studio Projects
+  - name: Cisco ISE – Studio Project
     type: asset
     active: true
     status: community
@@ -1735,7 +1735,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Meraki Studio Projects
+  - name: Cisco Meraki – Studio Project
     type: asset
     active: true
     status: community
@@ -1754,7 +1754,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco NDFC Studio Projects
+  - name: Cisco NDFC – Studio Project
     type: asset
     active: true
     status: community
@@ -1773,7 +1773,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco NSO Studio Projects
+  - name: Cisco NSO – Studio Project
     type: asset
     active: true
     status: community
@@ -1792,7 +1792,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco NX-OS Studio Projects
+  - name: Cisco NX-OS – Studio Project
     type: asset
     active: true
     status: community
@@ -1811,7 +1811,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Support Studio Projects
+  - name: Cisco Support – Studio Project
     type: asset
     active: true
     status: community
@@ -1830,7 +1830,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco ThousandEyes Studio Projects
+  - name: Cisco ThousandEyes – Studio Project
     type: asset
     active: true
     status: community
@@ -1868,7 +1868,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Umbrella Studio Projects
+  - name: Cisco Umbrella – Studio Project
     type: asset
     active: true
     status: community
@@ -1887,7 +1887,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Webex Studio Projects
+  - name: Cisco Webex – Studio Project
     type: asset
     active: true
     status: community
@@ -1906,7 +1906,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Bitbucket Cloud Studio Projects
+  - name: Atlassian Bitbucket Cloud – Studio Project
     type: asset
     active: true
     status: community
@@ -1925,7 +1925,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Confluence Cloud Studio Projects
+  - name: Atlassian Confluence Cloud – Studio Project
     type: asset
     active: true
     status: community
@@ -1963,7 +1963,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Confluence Server & Data Center Studio Projects
+  - name: Atlassian Confluence Server & Data Center – Studio Project
     type: asset
     active: true
     status: community
@@ -2001,7 +2001,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Jira Cloud Studio Projects
+  - name: Atlassian Jira Cloud – Studio Project
     type: asset
     active: true
     status: community
@@ -2039,7 +2039,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Jira Server & Data Center Studio Projects
+  - name: Atlassian Jira Server & Data Center – Studio Project
     type: asset
     active: true
     status: community
@@ -2058,7 +2058,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Opsgenie Studio Projects
+  - name: Atlassian Opsgenie – Studio Project
     type: asset
     active: true
     status: community
@@ -2096,7 +2096,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft 365 IP and URL Web Service Studio Projects
+  - name: Microsoft 365 IP and URL Web Service – Studio Project
     type: asset
     active: true
     status: community
@@ -2115,7 +2115,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft Azure DevOps Studio Projects
+  - name: Microsoft Azure DevOps – Studio Project
     type: asset
     active: true
     status: community
@@ -2153,7 +2153,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft Graph Studio Projects
+  - name: Microsoft Graph – Studio Project
     type: asset
     active: true
     status: community
@@ -2172,7 +2172,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft Teams Studio Projects
+  - name: Microsoft Teams – Studio Project
     type: asset
     active: true
     status: community
@@ -2191,7 +2191,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Palo Alto CloudGenix Studio Projects
+  - name: Palo Alto CloudGenix – Studio Project
     type: asset
     active: true
     status: community
@@ -2210,7 +2210,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Palo Alto Panorama Studio Projects
+  - name: Palo Alto Panorama – Studio Project
     type: asset
     active: true
     status: community
@@ -2248,7 +2248,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Palo Alto Prisma Access Studio Projects
+  - name: Palo Alto Prisma Access – Studio Project
     type: asset
     active: true
     status: community
@@ -2267,7 +2267,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Palo Alto Prisma Cloud CSPM Studio Projects
+  - name: Palo Alto Prisma Cloud CSPM – Studio Project
     type: asset
     active: true
     status: community
@@ -2286,7 +2286,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Infoblox NIOS WAPI Studio Projects
+  - name: Infoblox NIOS WAPI – Studio Project
     type: asset
     active: true
     status: community
@@ -2305,7 +2305,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Infoblox Threat Defense BloxOne Studio Projects
+  - name: Infoblox Threat Defense BloxOne – Studio Project
     type: asset
     active: true
     status: community
@@ -2324,7 +2324,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Infoblox Universal DDI BloxOne Studio Projects
+  - name: Infoblox Universal DDI BloxOne – Studio Project
     type: asset
     active: true
     status: community
@@ -2362,7 +2362,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: F5 BIG-IQ Studio Projects
+  - name: F5 BIG-IQ – Studio Project
     type: asset
     active: true
     status: community
@@ -2400,7 +2400,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: F5 Insight Studio Projects
+  - name: F5 Insight – Studio Project
     type: asset
     active: true
     status: community
@@ -2438,7 +2438,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Akamai Edge DNS Studio Projects
+  - name: Akamai Edge DNS – Studio Project
     type: asset
     active: true
     status: community
@@ -2476,7 +2476,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Akamai Guardicore Segmentation Studio Projects
+  - name: Akamai Guardicore Segmentation – Studio Project
     type: asset
     active: true
     status: community
@@ -2495,7 +2495,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Apache Airflow Studio Projects
+  - name: Apache Airflow – Studio Project
     type: asset
     active: true
     status: community
@@ -2514,7 +2514,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Apache Kafka Studio Projects
+  - name: Apache Kafka – Studio Project
     type: asset
     active: true
     status: community
@@ -2571,7 +2571,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: CyberArk Privilege Cloud Studio Projects
+  - name: CyberArk Privilege Cloud – Studio Project
     type: asset
     active: true
     status: community
@@ -2590,7 +2590,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Docker Engine Studio Projects
+  - name: Docker Engine – Studio Project
     type: asset
     active: true
     status: community
@@ -2628,7 +2628,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Docker Hub Studio Projects
+  - name: Docker Hub – Studio Project
     type: asset
     active: true
     status: community
@@ -2647,7 +2647,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Google Cloud Compute Engine Studio Projects
+  - name: Google Cloud Compute Engine – Studio Project
     type: asset
     active: true
     status: community
@@ -2666,7 +2666,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Google Drive Studio Projects
+  - name: Google Drive – Studio Project
     type: asset
     active: true
     status: community
@@ -2685,7 +2685,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Juniper JUNOS Studio Projects
+  - name: Juniper JUNOS – Studio Project
     type: asset
     active: true
     status: community
@@ -2761,7 +2761,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: VMware NSX Studio Projects
+  - name: VMware NSX – Studio Project
     type: asset
     active: true
     status: community
@@ -2780,7 +2780,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: VMware vSphere Studio Projects
+  - name: VMware vSphere – Studio Project
     type: asset
     active: true
     status: community
