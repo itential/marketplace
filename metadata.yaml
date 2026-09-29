@@ -127,7 +127,7 @@ projects:
       - platform
     description: OpenAPI spec for Forescout host visibility, classification, and policy automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/ForeScout/OpenAPIs
@@ -165,7 +165,7 @@ projects:
       - platform
     description: OpenAPI spec for ARIN RDAP and Whois-RWS network, ASN, and organization lookups via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/ARIN/OpenAPIs
@@ -222,7 +222,7 @@ projects:
       - platform
     description: OpenAPI spec for Cloudflare DNS, firewall, load balancing, and Zero Trust automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cloudflare/OpenAPIs
@@ -526,7 +526,7 @@ projects:
       - platform
     description: OpenAPI spec for Netskope security policy, events, and CASB automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Netskope/OpenAPIs
@@ -583,7 +583,7 @@ projects:
       - platform
     description: OpenAPI spec for Okta Identity Governance entitlements and access certification automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Okta/OpenAPIs
@@ -621,7 +621,7 @@ projects:
       - platform
     description: OpenAPI spec for OpenAI model, chat completion, and fine-tuning automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/OpenAI/OpenAPIs
@@ -773,7 +773,7 @@ projects:
       - platform
     description: OpenAPI spec for ServiceNow Change Management and Table API automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/ServiceNow/OpenAPIs
@@ -830,7 +830,7 @@ projects:
       - platform
     description: OpenAPI spec for Twilio voice, SMS, and phone number automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Twilio/OpenAPIs
@@ -1115,7 +1115,7 @@ projects:
       - platform
     description: OpenAPI spec for NetScaler ADC NITRO API load balancing and traffic management automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/NetScaler/ADC/OpenAPIs
@@ -1229,7 +1229,7 @@ projects:
       - platform
     description: OpenAPI spec for Zscaler Internet Access firewall, URL filtering, and DLP automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Zscaler/ZIA/OpenAPIs
@@ -1552,7 +1552,7 @@ projects:
       - platform
     description: OpenAPI spec for Cisco Catalyst Center campus and branch network automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cisco/Catalyst%20Center/OpenAPIs
@@ -1590,7 +1590,7 @@ projects:
       - platform
     description: OpenAPI spec for Cisco Crosswork Assurance network performance and service assurance automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cisco/Crosswork%20Assurance/OpenAPIs
@@ -1628,7 +1628,7 @@ projects:
       - platform
     description: OpenAPI spec for Cisco Crosswork Network Controller device and L3VPN service automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cisco/Crosswork%20Network%20Controller/OpenAPIs
@@ -1856,7 +1856,7 @@ projects:
       - platform
     description: OpenAPI spec for Cisco Umbrella DNS security and secure web gateway automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cisco/Umbrella/OpenAPIs
@@ -1951,7 +1951,7 @@ projects:
       - platform
     description: OpenAPI spec for Atlassian Confluence Server & Data Center page and space automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Atlassian/Confluence%20Server%20%26%20Data%20Center/OpenAPIs
@@ -1989,7 +1989,7 @@ projects:
       - platform
     description: OpenAPI spec for Atlassian Jira Cloud issue tracking automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Atlassian/Jira%20Cloud/OpenAPIs
@@ -2027,7 +2027,7 @@ projects:
       - platform
     description: OpenAPI spec for Atlassian Jira Server & Data Center issue tracking automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Atlassian/Jira%20Server%20%26%20Data%20Center/OpenAPIs
@@ -2084,7 +2084,7 @@ projects:
       - platform
     description: OpenAPI spec for Microsoft 365 IP address and URL range lookups via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Microsoft/365%20IP%20and%20URL%20Web%20Service/OpenAPIs
@@ -2236,7 +2236,7 @@ projects:
       - platform
     description: OpenAPI spec for Palo Alto Prisma Access SASE configuration automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Palo%20Alto/Prisma%20Access/OpenAPIs
@@ -2388,7 +2388,7 @@ projects:
       - platform
     description: OpenAPI spec for F5 Insight device fleet monitoring and analytics automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/F5/Insight/OpenAPIs
@@ -2426,7 +2426,7 @@ projects:
       - platform
     description: OpenAPI spec for Akamai Edge DNS zone and record automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Akamai/Edge%20DNS/OpenAPIs
@@ -2464,7 +2464,7 @@ projects:
       - platform
     description: OpenAPI spec for Akamai Guardicore Segmentation microsegmentation policy automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Akamai/Guardicore%20Segmentation/OpenAPIs
@@ -2540,7 +2540,7 @@ projects:
       - platform
     description: OpenAPI spec for CyberArk Conjur secrets management and policy-based authorization automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/CyberArk/Conjur/OpenAPIs
@@ -2559,7 +2559,7 @@ projects:
       - platform
     description: OpenAPI spec for CyberArk Privilege Cloud privileged access management automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/CyberArk/Privilege%20Cloud/OpenAPIs
@@ -2616,7 +2616,7 @@ projects:
       - platform
     description: OpenAPI spec for Docker Hub container image registry automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Docker/Docker%20Hub/OpenAPIs
