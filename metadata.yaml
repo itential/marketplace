@@ -61,7 +61,7 @@ projects:
     license: GPL-3.0
 
   - name: ipsdk
-    type: sdk-library
+    type: asset-promotion
     active: true
     status: community
     compatibility:
@@ -101,7 +101,7 @@ projects:
     license: GPL-3.0
 
   - name: asyncplatform
-    type: sdk-library
+    type: asset-promotion
     active: true
     status: community
     compatibility:
