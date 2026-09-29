@@ -120,13 +120,13 @@ projects:
     source: github
     license: GPL-3.0
 
-  - name: forescout
+  - name: Forescout
     type: integration
     active: true
     status: community
     compatibility:
       - platform
-    description: OpenAPI spec for ForeScout host visibility, classification, and policy automation via Integration Model
+    description: OpenAPI spec for Forescout host visibility, classification, and policy automation via API
     tags:
       - integration
     maintainer:
@@ -139,13 +139,13 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: ForeScout Studio Projects
+  - name: Forescout Studio Projects
     type: asset
     active: true
     status: community
     compatibility:
       - platform
-    description: Studio Project workflows for ForeScout host lookup, host field definitions, and policy listing
+    description: Studio Project workflows for Forescout host lookup, host field definitions, and policy listing
     tags:
       - workflow
     maintainer:
