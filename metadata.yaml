@@ -1,7 +1,7 @@
 projects:
 
   - name: builder-skills
-    type: assets
+    type: builder-skill
     active: true
     status: community
     compatibility:
@@ -61,7 +61,7 @@ projects:
     license: GPL-3.0
 
   - name: ipsdk
-    type: sdk-library
+    type: asset-promotion
     active: true
     status: community
     compatibility:
@@ -89,7 +89,6 @@ projects:
     description: Local development stack for spinning up an Itential environment with Docker, Ansible, and OpenTofu
     tags:
       - development
-      - deployment
     maintainer:
       - "@itential"
     repo: https://github.com/itential/itential-dev-stack
@@ -101,7 +100,7 @@ projects:
     license: GPL-3.0
 
   - name: asyncplatform
-    type: sdk-library
+    type: asset-promotion
     active: true
     status: community
     compatibility:
@@ -128,7 +127,7 @@ projects:
       - platform
     description: OpenAPI spec for Forescout host visibility, classification, and policy automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/ForeScout/OpenAPIs
@@ -139,8 +138,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Forescout Studio Projects
-    type: asset
+  - name: Forescout – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -166,7 +165,7 @@ projects:
       - platform
     description: OpenAPI spec for ARIN RDAP and Whois-RWS network, ASN, and organization lookups via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/ARIN/OpenAPIs
@@ -177,8 +176,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: ARIN Studio Projects
-    type: asset
+  - name: ARIN – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -196,8 +195,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: BigPanda Studio Projects
-    type: asset
+  - name: BigPanda – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -223,7 +222,7 @@ projects:
       - platform
     description: OpenAPI spec for Cloudflare DNS, firewall, load balancing, and Zero Trust automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cloudflare/OpenAPIs
@@ -234,8 +233,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cloudflare Studio Projects
-    type: asset
+  - name: Cloudflare – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -253,8 +252,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Datadog Studio Projects
-    type: asset
+  - name: Datadog – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -272,8 +271,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: DigiCert Studio Projects
-    type: asset
+  - name: DigiCert – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -291,8 +290,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: EasyPost Studio Projects
-    type: asset
+  - name: EasyPost – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -310,8 +309,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: GitHub Studio Projects
-    type: asset
+  - name: GitHub – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -329,8 +328,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: GitLab Studio Projects
-    type: asset
+  - name: GitLab – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -348,8 +347,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: GoDaddy Studio Projects
-    type: asset
+  - name: GoDaddy – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -367,8 +366,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: IP Fabric Studio Projects
-    type: asset
+  - name: IP Fabric – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -386,8 +385,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Kentik Studio Projects
-    type: asset
+  - name: Kentik – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -405,8 +404,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Kubernetes Studio Projects
-    type: asset
+  - name: Kubernetes – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -424,8 +423,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: LogicMonitor Studio Projects
-    type: asset
+  - name: LogicMonitor – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -443,8 +442,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Mattermost Studio Projects
-    type: asset
+  - name: Mattermost – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -462,8 +461,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: NVD Studio Projects
-    type: asset
+  - name: NVD – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -481,8 +480,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Nautobot Studio Projects
-    type: asset
+  - name: Nautobot – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -500,8 +499,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: NetBox Studio Projects
-    type: asset
+  - name: NetBox – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -527,7 +526,7 @@ projects:
       - platform
     description: OpenAPI spec for Netskope security policy, events, and CASB automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Netskope/OpenAPIs
@@ -538,8 +537,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Netskope Studio Projects
-    type: asset
+  - name: Netskope – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -557,8 +556,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: New Relic Studio Projects
-    type: asset
+  - name: New Relic – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -584,7 +583,7 @@ projects:
       - platform
     description: OpenAPI spec for Okta Identity Governance entitlements and access certification automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Okta/OpenAPIs
@@ -595,8 +594,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Okta Studio Projects
-    type: asset
+  - name: Okta – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -622,7 +621,7 @@ projects:
       - platform
     description: OpenAPI spec for OpenAI model, chat completion, and fine-tuning automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/OpenAI/OpenAPIs
@@ -633,8 +632,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: OpenAI Studio Projects
-    type: asset
+  - name: OpenAI – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -652,8 +651,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Paessler Studio Projects
-    type: asset
+  - name: Paessler – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -671,8 +670,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: PagerDuty Studio Projects
-    type: asset
+  - name: PagerDuty – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -690,8 +689,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: RingCentral Studio Projects
-    type: asset
+  - name: RingCentral – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -709,8 +708,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Rundeck Studio Projects
-    type: asset
+  - name: Rundeck – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -728,8 +727,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Selector Studio Projects
-    type: asset
+  - name: Selector – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -747,8 +746,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: SendGrid Studio Projects
-    type: asset
+  - name: SendGrid – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -774,7 +773,7 @@ projects:
       - platform
     description: OpenAPI spec for ServiceNow Change Management and Table API automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/ServiceNow/OpenAPIs
@@ -785,8 +784,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: ServiceNow Studio Projects
-    type: asset
+  - name: ServiceNow – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -804,8 +803,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Slack Studio Projects
-    type: asset
+  - name: Slack – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -831,7 +830,7 @@ projects:
       - platform
     description: OpenAPI spec for Twilio voice, SMS, and phone number automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Twilio/OpenAPIs
@@ -842,8 +841,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Twilio Studio Projects
-    type: asset
+  - name: Twilio – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -861,8 +860,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Zoom Studio Projects
-    type: asset
+  - name: Zoom – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -880,8 +879,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: dbt Cloud Studio Projects
-    type: asset
+  - name: dbt Cloud – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -899,8 +898,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: 6connect Provision Studio Projects
-    type: asset
+  - name: 6connect Provision – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -918,8 +917,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Ansible AWX (AAP) Studio Projects
-    type: asset
+  - name: Ansible AWX (AAP) – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -937,8 +936,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Arista EOS Studio Projects
-    type: asset
+  - name: Arista EOS – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -957,7 +956,7 @@ projects:
     license: Apache-2.0
 
   - name: Delinea Secret Server Secret Providers
-    type: asset
+    type: gateway-asset
     active: true
     status: community
     compatibility:
@@ -975,8 +974,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: EfficientIP SOLIDserver Studio Projects
-    type: asset
+  - name: EfficientIP SOLIDserver – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -994,8 +993,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Fortinet FortiGate Studio Projects
-    type: asset
+  - name: Fortinet FortiGate – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1014,7 +1013,7 @@ projects:
     license: Apache-2.0
 
   - name: Fortinet FortiGate Golden Configurations
-    type: asset
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1033,7 +1032,7 @@ projects:
     license: Apache-2.0
 
   - name: Fortinet FortiGate Device Drivers
-    type: asset
+    type: gateway-asset
     active: true
     status: community
     compatibility:
@@ -1052,7 +1051,7 @@ projects:
     license: Apache-2.0
 
   - name: Fortinet FortiGate Configuration Parsers
-    type: asset
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1070,8 +1069,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Itential Platform Studio Projects
-    type: asset
+  - name: Itential Platform – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1089,8 +1088,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: JFrog Artifactory Studio Projects
-    type: asset
+  - name: JFrog Artifactory – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1116,7 +1115,7 @@ projects:
       - platform
     description: OpenAPI spec for NetScaler ADC NITRO API load balancing and traffic management automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/NetScaler/ADC/OpenAPIs
@@ -1127,8 +1126,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: NetScaler ADC Studio Projects
-    type: asset
+  - name: NetScaler ADC – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1147,7 +1146,7 @@ projects:
     license: Apache-2.0
 
   - name: Ruckus Fastiron Device Drivers
-    type: asset
+    type: gateway-asset
     active: true
     status: community
     compatibility:
@@ -1165,8 +1164,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: SolarWinds Orion NPM Studio Projects
-    type: asset
+  - name: SolarWinds Orion NPM – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1184,8 +1183,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Sonatype Nexus Studio Projects
-    type: asset
+  - name: Sonatype Nexus – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1203,8 +1202,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Versa Director Studio Projects
-    type: asset
+  - name: Versa Director – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1230,7 +1229,7 @@ projects:
       - platform
     description: OpenAPI spec for Zscaler Internet Access firewall, URL filtering, and DLP automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Zscaler/ZIA/OpenAPIs
@@ -1241,8 +1240,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Zscaler ZIA Studio Projects
-    type: asset
+  - name: Zscaler ZIA – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1260,8 +1259,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon API Gateway Studio Projects
-    type: asset
+  - name: Amazon API Gateway – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1279,8 +1278,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS CloudFormation Studio Projects
-    type: asset
+  - name: AWS CloudFormation – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1298,8 +1297,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon Cognito Studio Projects
-    type: asset
+  - name: Amazon Cognito – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1317,8 +1316,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon Connect Studio Projects
-    type: asset
+  - name: Amazon Connect – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1336,8 +1335,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Direct Connect Studio Projects
-    type: asset
+  - name: AWS Direct Connect – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1355,8 +1354,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon EC2 Studio Projects
-    type: asset
+  - name: Amazon EC2 – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1375,7 +1374,7 @@ projects:
     license: Apache-2.0
 
   - name: Amazon EC2 Golden Configurations
-    type: asset
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1393,8 +1392,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon EKS Studio Projects
-    type: asset
+  - name: Amazon EKS – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1412,8 +1411,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Lambda Studio Projects
-    type: asset
+  - name: AWS Lambda – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1431,8 +1430,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Network Firewall Studio Projects
-    type: asset
+  - name: AWS Network Firewall – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1450,8 +1449,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Organizations Studio Projects
-    type: asset
+  - name: AWS Organizations – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1469,8 +1468,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon Route 53 Studio Projects
-    type: asset
+  - name: Amazon Route 53 – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1488,8 +1487,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Amazon S3 Studio Projects
-    type: asset
+  - name: Amazon S3 – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1508,7 +1507,7 @@ projects:
     license: Apache-2.0
 
   - name: AWS Secrets Manager Secret Providers
-    type: asset
+    type: gateway-asset
     active: true
     status: community
     compatibility:
@@ -1526,8 +1525,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco ASA Studio Projects
-    type: asset
+  - name: Cisco ASA – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1553,7 +1552,7 @@ projects:
       - platform
     description: OpenAPI spec for Cisco Catalyst Center campus and branch network automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cisco/Catalyst%20Center/OpenAPIs
@@ -1564,8 +1563,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Catalyst Center Studio Projects
-    type: asset
+  - name: Cisco Catalyst Center – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1591,7 +1590,7 @@ projects:
       - platform
     description: OpenAPI spec for Cisco Crosswork Assurance network performance and service assurance automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cisco/Crosswork%20Assurance/OpenAPIs
@@ -1602,8 +1601,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Crosswork Assurance Studio Projects
-    type: asset
+  - name: Cisco Crosswork Assurance – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1629,7 +1628,7 @@ projects:
       - platform
     description: OpenAPI spec for Cisco Crosswork Network Controller device and L3VPN service automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cisco/Crosswork%20Network%20Controller/OpenAPIs
@@ -1640,8 +1639,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Crosswork Network Controller Studio Projects
-    type: asset
+  - name: Cisco Crosswork Network Controller – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1659,8 +1658,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco DCNM Studio Projects
-    type: asset
+  - name: Cisco DCNM – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1678,8 +1677,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco IOS Studio Projects
-    type: asset
+  - name: Cisco IOS – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1698,7 +1697,7 @@ projects:
     license: Apache-2.0
 
   - name: Cisco IOS Golden Configurations
-    type: asset
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1716,8 +1715,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco ISE Studio Projects
-    type: asset
+  - name: Cisco ISE – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1735,8 +1734,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Meraki Studio Projects
-    type: asset
+  - name: Cisco Meraki – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1754,8 +1753,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco NDFC Studio Projects
-    type: asset
+  - name: Cisco NDFC – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1773,8 +1772,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco NSO Studio Projects
-    type: asset
+  - name: Cisco NSO – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1792,8 +1791,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco NX-OS Studio Projects
-    type: asset
+  - name: Cisco NX-OS – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1811,8 +1810,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Support Studio Projects
-    type: asset
+  - name: Cisco Support – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1830,8 +1829,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco ThousandEyes Studio Projects
-    type: asset
+  - name: Cisco ThousandEyes – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1857,7 +1856,7 @@ projects:
       - platform
     description: OpenAPI spec for Cisco Umbrella DNS security and secure web gateway automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Cisco/Umbrella/OpenAPIs
@@ -1868,8 +1867,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Umbrella Studio Projects
-    type: asset
+  - name: Cisco Umbrella – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1887,8 +1886,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Cisco Webex Studio Projects
-    type: asset
+  - name: Cisco Webex – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1906,8 +1905,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Bitbucket Cloud Studio Projects
-    type: asset
+  - name: Atlassian Bitbucket Cloud – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1925,8 +1924,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Confluence Cloud Studio Projects
-    type: asset
+  - name: Atlassian Confluence Cloud – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1952,7 +1951,7 @@ projects:
       - platform
     description: OpenAPI spec for Atlassian Confluence Server & Data Center page and space automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Atlassian/Confluence%20Server%20%26%20Data%20Center/OpenAPIs
@@ -1963,8 +1962,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Confluence Server & Data Center Studio Projects
-    type: asset
+  - name: Atlassian Confluence Server & Data Center – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -1990,7 +1989,7 @@ projects:
       - platform
     description: OpenAPI spec for Atlassian Jira Cloud issue tracking automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Atlassian/Jira%20Cloud/OpenAPIs
@@ -2001,8 +2000,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Jira Cloud Studio Projects
-    type: asset
+  - name: Atlassian Jira Cloud – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2028,7 +2027,7 @@ projects:
       - platform
     description: OpenAPI spec for Atlassian Jira Server & Data Center issue tracking automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Atlassian/Jira%20Server%20%26%20Data%20Center/OpenAPIs
@@ -2039,8 +2038,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Jira Server & Data Center Studio Projects
-    type: asset
+  - name: Atlassian Jira Server & Data Center – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2058,8 +2057,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Atlassian Opsgenie Studio Projects
-    type: asset
+  - name: Atlassian Opsgenie – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2085,7 +2084,7 @@ projects:
       - platform
     description: OpenAPI spec for Microsoft 365 IP address and URL range lookups via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Microsoft/365%20IP%20and%20URL%20Web%20Service/OpenAPIs
@@ -2096,8 +2095,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft 365 IP and URL Web Service Studio Projects
-    type: asset
+  - name: Microsoft 365 IP and URL Web Service – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2115,8 +2114,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft Azure DevOps Studio Projects
-    type: asset
+  - name: Microsoft Azure DevOps – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2135,7 +2134,7 @@ projects:
     license: Apache-2.0
 
   - name: Microsoft Azure Key Vault Secret Providers
-    type: asset
+    type: gateway-asset
     active: true
     status: community
     compatibility:
@@ -2153,8 +2152,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft Graph Studio Projects
-    type: asset
+  - name: Microsoft Graph – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2172,8 +2171,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft Teams Studio Projects
-    type: asset
+  - name: Microsoft Teams – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2191,8 +2190,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Palo Alto CloudGenix Studio Projects
-    type: asset
+  - name: Palo Alto CloudGenix – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2210,8 +2209,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Palo Alto Panorama Studio Projects
-    type: asset
+  - name: Palo Alto Panorama – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2237,7 +2236,7 @@ projects:
       - platform
     description: OpenAPI spec for Palo Alto Prisma Access SASE configuration automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Palo%20Alto/Prisma%20Access/OpenAPIs
@@ -2248,8 +2247,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Palo Alto Prisma Access Studio Projects
-    type: asset
+  - name: Palo Alto Prisma Access – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2267,8 +2266,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Palo Alto Prisma Cloud CSPM Studio Projects
-    type: asset
+  - name: Palo Alto Prisma Cloud CSPM – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2286,8 +2285,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Infoblox NIOS WAPI Studio Projects
-    type: asset
+  - name: Infoblox NIOS WAPI – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2305,8 +2304,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Infoblox Threat Defense BloxOne Studio Projects
-    type: asset
+  - name: Infoblox Threat Defense BloxOne – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2324,8 +2323,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Infoblox Universal DDI BloxOne Studio Projects
-    type: asset
+  - name: Infoblox Universal DDI BloxOne – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2344,7 +2343,7 @@ projects:
     license: Apache-2.0
 
   - name: F5 BIG-IP Device Drivers
-    type: asset
+    type: gateway-asset
     active: true
     status: community
     compatibility:
@@ -2362,8 +2361,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: F5 BIG-IQ Studio Projects
-    type: asset
+  - name: F5 BIG-IQ – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2389,7 +2388,7 @@ projects:
       - platform
     description: OpenAPI spec for F5 Insight device fleet monitoring and analytics automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/F5/Insight/OpenAPIs
@@ -2400,8 +2399,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: F5 Insight Studio Projects
-    type: asset
+  - name: F5 Insight – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2427,7 +2426,7 @@ projects:
       - platform
     description: OpenAPI spec for Akamai Edge DNS zone and record automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Akamai/Edge%20DNS/OpenAPIs
@@ -2438,8 +2437,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Akamai Edge DNS Studio Projects
-    type: asset
+  - name: Akamai Edge DNS – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2465,7 +2464,7 @@ projects:
       - platform
     description: OpenAPI spec for Akamai Guardicore Segmentation microsegmentation policy automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Akamai/Guardicore%20Segmentation/OpenAPIs
@@ -2476,8 +2475,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Akamai Guardicore Segmentation Studio Projects
-    type: asset
+  - name: Akamai Guardicore Segmentation – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2495,8 +2494,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Apache Airflow Studio Projects
-    type: asset
+  - name: Apache Airflow – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2514,8 +2513,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Apache Kafka Studio Projects
-    type: asset
+  - name: Apache Kafka – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2541,7 +2540,7 @@ projects:
       - platform
     description: OpenAPI spec for CyberArk Conjur secrets management and policy-based authorization automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/CyberArk/Conjur/OpenAPIs
@@ -2560,7 +2559,7 @@ projects:
       - platform
     description: OpenAPI spec for CyberArk Privilege Cloud privileged access management automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/CyberArk/Privilege%20Cloud/OpenAPIs
@@ -2571,8 +2570,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: CyberArk Privilege Cloud Studio Projects
-    type: asset
+  - name: CyberArk Privilege Cloud – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2590,8 +2589,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Docker Engine Studio Projects
-    type: asset
+  - name: Docker Engine – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2617,7 +2616,7 @@ projects:
       - platform
     description: OpenAPI spec for Docker Hub container image registry automation via API
     tags:
-      - integration
+      - integration model
     maintainer:
       - "@itential"
     repo: https://github.com/itential/assets/tree/main/Docker/Docker%20Hub/OpenAPIs
@@ -2628,8 +2627,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Docker Hub Studio Projects
-    type: asset
+  - name: Docker Hub – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2647,8 +2646,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Google Cloud Compute Engine Studio Projects
-    type: asset
+  - name: Google Cloud Compute Engine – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2666,8 +2665,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Google Drive Studio Projects
-    type: asset
+  - name: Google Drive – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2685,8 +2684,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Juniper JUNOS Studio Projects
-    type: asset
+  - name: Juniper JUNOS – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2705,7 +2704,7 @@ projects:
     license: Apache-2.0
 
   - name: Juniper JUNOS Golden Configurations
-    type: asset
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2724,7 +2723,7 @@ projects:
     license: Apache-2.0
 
   - name: Juniper JUNOS Device Drivers
-    type: asset
+    type: gateway-asset
     active: true
     status: community
     compatibility:
@@ -2743,7 +2742,7 @@ projects:
     license: Apache-2.0
 
   - name: Juniper JUNOS Configuration Parsers
-    type: asset
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2761,8 +2760,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: VMware NSX Studio Projects
-    type: asset
+  - name: VMware NSX – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:
@@ -2780,8 +2779,8 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: VMware vSphere Studio Projects
-    type: asset
+  - name: VMware vSphere – Studio Project
+    type: platform-asset
     active: true
     status: community
     compatibility:

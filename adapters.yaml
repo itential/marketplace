@@ -9,7 +9,7 @@ projects:
       - platform
     description: Adapter for Integration to 128 Technology
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -28,7 +28,7 @@ projects:
       - platform
     description: Adapter for Integration to Accedian Skylight
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -47,7 +47,7 @@ projects:
       - platform
     description: Adapter for Integration to Accedian Skylight Vision
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -66,7 +66,7 @@ projects:
       - platform
     description: Adapter for Integration to Adtran Mosaic Cloud Platform
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -85,7 +85,7 @@ projects:
       - platform
     description: Adapter for Integration to Adtran Mosaic Device Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -104,7 +104,7 @@ projects:
       - platform
     description: Adapter for Integration to Akamai Global Traffic Management
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -123,7 +123,7 @@ projects:
       - platform
     description: Adapter for Integration to Akamai Property Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -142,7 +142,7 @@ projects:
       - platform
     description: Adapter for Integration to Algosec AppViz
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -161,7 +161,7 @@ projects:
       - platform
     description: Adapter for Integration to Algosec FireFlow
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -180,7 +180,7 @@ projects:
       - platform
     description: Adapter for Integration to Algosec Firewall
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -199,7 +199,7 @@ projects:
       - platform
     description: Adapter for Integration to Alkira Cloud Management
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -218,7 +218,7 @@ projects:
       - platform
     description: Itential integration to Amazon API Gateway
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -237,7 +237,7 @@ projects:
       - platform
     description: Adapter for integration to Amazon Web Services Connect Service
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -256,7 +256,7 @@ projects:
       - platform
     description: Adapter for integration to Amazon Web Services Elastic Kubernetes Service (EKS)
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -275,7 +275,7 @@ projects:
       - platform
     description: Adapter for Integration to Amazon Web Services Route 53
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -294,7 +294,7 @@ projects:
       - platform
     description: Adapter for Integration to Red Hat Ansible Tower
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -313,7 +313,7 @@ projects:
       - platform
     description: Adapter for Integration to Apache Airflow
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -332,7 +332,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco APIC
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -351,7 +351,7 @@ projects:
       - platform
     description: Adapter for Integration to Jfrog Artifactory
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -370,7 +370,7 @@ projects:
       - platform
     description: Adapter for Integration to Aruba AirWave
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -389,7 +389,7 @@ projects:
       - platform
     description: Adapter for Integration to Aruba Central
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -408,7 +408,7 @@ projects:
       - platform
     description: Adapter for Integration to Aruba Central
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -427,7 +427,7 @@ projects:
       - platform
     description: Adapter for Integration to Aruba Clearpass
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -446,7 +446,7 @@ projects:
       - platform
     description: "Adapter for Integration to AT&T Mobility"
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -465,7 +465,7 @@ projects:
       - platform
     description: Adapter for Integration to Automox
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -484,7 +484,7 @@ projects:
       - platform
     description: Adapter for Integration to AVI Controller
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -503,7 +503,7 @@ projects:
       - platform
     description: Adapter for Integration to Aviatrix
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -522,7 +522,7 @@ projects:
       - platform
     description: Adapter for integration to Amazon Web Services CloudFormation
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -541,7 +541,7 @@ projects:
       - platform
     description: Adapter for Integration to Amazon Web Services Cognito Identity Provider
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -560,7 +560,7 @@ projects:
       - platform
     description: Itential integration to Amazon Web Services Direct Connect
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -579,7 +579,7 @@ projects:
       - platform
     description: Adapter for Integration to Amazon Web Services Elastic Compute Cloud (EC2)
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -598,7 +598,7 @@ projects:
       - platform
     description: Adapter for Integration to Aws Lambda
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -617,7 +617,7 @@ projects:
       - platform
     description: Adapter for Integration to AWS Network Firewall
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -636,7 +636,7 @@ projects:
       - platform
     description: Adapter for Integration to AWS Organizations
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -655,7 +655,7 @@ projects:
       - platform
     description: Adapter for Integration to Amazon Web Services S3
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -674,7 +674,7 @@ projects:
       - platform
     description: Itential integration to Amazon Web Services Secrets Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -693,7 +693,7 @@ projects:
       - platform
     description: Adapter for Integration to Microsoft Azure
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -712,7 +712,7 @@ projects:
       - platform
     description: Adapter for Integration to Azure AKS
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -731,7 +731,7 @@ projects:
       - platform
     description: Adapter for Integration to Microsoft Azure Blobs
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -750,7 +750,7 @@ projects:
       - platform
     description: Adapter for Integration to Microsoft Azure DevOps
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -769,7 +769,7 @@ projects:
       - platform
     description: Adapter for Integration to Beyond Trust
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -788,7 +788,7 @@ projects:
       - platform
     description: Adapter for Integration to BigPanda
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -807,7 +807,7 @@ projects:
       - platform
     description: Adapter for Integration to Atlassian Bitbucket Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -826,7 +826,7 @@ projects:
       - platform
     description: Adapter for Integration to Bitbucket Server
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -845,7 +845,7 @@ projects:
       - platform
     description: Adapter for Integration to BlueCat
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -864,7 +864,7 @@ projects:
       - platform
     description: Adapter for Integration to BlueCat IPAM
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -883,7 +883,7 @@ projects:
       - platform
     description: Adapter for Integration to BMC Helix
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -902,7 +902,7 @@ projects:
       - platform
     description: Adapter for Integration to CA Spectrum
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -921,7 +921,7 @@ projects:
       - platform
     description: Adapter for Integration to Calix Developer Portal
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -940,7 +940,7 @@ projects:
       - platform
     description: Adapter for Integration to Calix CMS
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -959,7 +959,7 @@ projects:
       - platform
     description: Adapter for Integration to Calix SMX
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -978,7 +978,7 @@ projects:
       - platform
     description: Adapter for Integration to Calix Support Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -997,7 +997,7 @@ projects:
       - platform
     description: Adapter for Integration to Centreon
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1016,7 +1016,7 @@ projects:
       - platform
     description: Adapter for Integration to ChatGPT
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1035,7 +1035,7 @@ projects:
       - platform
     description: Adapter for Integration to Checkpoint Gaia
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1054,7 +1054,7 @@ projects:
       - platform
     description: Adapter for Integration to Check Point Firewall Management
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1073,7 +1073,7 @@ projects:
       - platform
     description: Adapter for Integration to Checkpoint Reputation Service
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1092,7 +1092,7 @@ projects:
       - platform
     description: Adapter for Integration to Ciena Manage, Control and Plan
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1111,7 +1111,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco ACI
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1130,7 +1130,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Access Control System
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1149,7 +1149,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Call Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1168,7 +1168,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Modeling Labs
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1187,7 +1187,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Data Center Network Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1206,7 +1206,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Defense Orchestrator
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1225,7 +1225,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Firepower Management Center (FMC)
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1244,7 +1244,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Firepower Threat Defense
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1263,7 +1263,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco ISE
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1282,7 +1282,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco ISE
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1301,7 +1301,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Nexus Dashboard Fabric Controller
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1320,7 +1320,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Prime
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1339,7 +1339,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Software Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1358,7 +1358,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Support
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1377,7 +1377,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Tetration
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1396,7 +1396,7 @@ projects:
       - platform
     description: Adapter for Integration to Clearcable Noms
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1415,7 +1415,7 @@ projects:
       - platform
     description: Adapter for Integration to Palo Alto Networks CloudGenix
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1434,7 +1434,7 @@ projects:
       - platform
     description: Adapter for Integration to Cloudify
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1453,7 +1453,7 @@ projects:
       - platform
     description: Adapter for Integration to Confluence Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1472,7 +1472,7 @@ projects:
       - platform
     description: Adapter for Integration to Arista Networks Cloud Vision Portal
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1491,7 +1491,7 @@ projects:
       - platform
     description: Adapter for Integration to CyberArk
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1510,7 +1510,7 @@ projects:
       - platform
     description: Adapter for Integration to Datadog
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1529,7 +1529,7 @@ projects:
       - platform
     description: Adapter for Integration to Mongo
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1548,7 +1548,7 @@ projects:
       - platform
     description: Adapter for Integration to Microsoft SQL Database
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1567,7 +1567,7 @@ projects:
       - platform
     description: Adapter for Integration to Oracle MySQL Database
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1586,7 +1586,7 @@ projects:
       - platform
     description: Adapter for Integration to Oracle Database
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1605,7 +1605,7 @@ projects:
       - platform
     description: Adapter for Integration to PostgreSQL Database
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1624,7 +1624,7 @@ projects:
       - platform
     description: Adapter for Integration to Sybase Database
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1643,7 +1643,7 @@ projects:
       - platform
     description: Adapter for Integration to dbt Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1662,7 +1662,7 @@ projects:
       - platform
     description: Adapter for Integration to Delinea Secret Server
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1681,7 +1681,7 @@ projects:
       - platform
     description: Adapter for Integration to Device42
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1700,7 +1700,7 @@ projects:
       - platform
     description: Adapter for Integration to DigiCert PKI
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1719,7 +1719,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco DNA Center
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1738,7 +1738,7 @@ projects:
       - platform
     description: Adapter for Integration to Docker Engine
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1757,7 +1757,7 @@ projects:
       - platform
     description: Adapter for Integration to DriveNets Network Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1776,7 +1776,7 @@ projects:
       - platform
     description: Adapter for Integration to DriveNets Network Orchestrator
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1795,7 +1795,7 @@ projects:
       - platform
     description: Adapter for Integration to Ericsson Adaptive Inventory
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1814,7 +1814,7 @@ projects:
       - platform
     description: Adapter for Integration to EasyPost
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1833,7 +1833,7 @@ projects:
       - platform
     description: Adapter for Integration to EfficientIP SOLIDserver
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1852,7 +1852,7 @@ projects:
       - platform
     description: Adapter for Integration to Email Server
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1871,7 +1871,7 @@ projects:
       - platform
     description: Adapter for Integration to Equinix
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1890,7 +1890,7 @@ projects:
       - platform
     description: "Adapter for Integration to ETSI NFV-SOL 002"
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1909,7 +1909,7 @@ projects:
       - platform
     description: "Adapter for Integration to ETSI NFV-SOL 003"
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1928,7 +1928,7 @@ projects:
       - platform
     description: "Adapter for Integration to ETSI NFV-SOL 005"
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1947,7 +1947,7 @@ projects:
       - platform
     description: Adapter for Integration to ExtraHop
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1966,7 +1966,7 @@ projects:
       - platform
     description: "Adapter for Integration to F5 BIG-IQ"
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -1985,7 +1985,7 @@ projects:
       - platform
     description: Adapter for Integration to F5 Velos
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2004,7 +2004,7 @@ projects:
       - platform
     description: Adapter for Integration to FireMon Security Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2023,7 +2023,7 @@ projects:
       - platform
     description: Adapter for Integration to flexiWAN
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2042,7 +2042,7 @@ projects:
       - platform
     description: Adapter for Integration to FortiManager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2061,7 +2061,7 @@ projects:
       - platform
     description: Adapter for Integration to Forward Networks
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2080,7 +2080,7 @@ projects:
       - platform
     description: Adapter for Integration to Google Cloud Platform Compute
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2099,7 +2099,7 @@ projects:
       - platform
     description: Generic adapter for integration with any system with a REST API
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2118,7 +2118,7 @@ projects:
       - platform
     description: Adapter for Integration to Git
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2137,7 +2137,7 @@ projects:
       - platform
     description: Adapter for Integration to GitHub
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2156,7 +2156,7 @@ projects:
       - platform
     description: Adapter for Integration to GitLab
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2175,7 +2175,7 @@ projects:
       - platform
     description: Adapter for Integration to GLDS Customer Experience Gateway
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2194,7 +2194,7 @@ projects:
       - platform
     description: Adapter for Integration to GoDaddy
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2213,7 +2213,7 @@ projects:
       - platform
     description: Adapter for Integration to GoGetSSL
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2232,7 +2232,7 @@ projects:
       - platform
     description: Adapter for Integration to Google Drive
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2251,7 +2251,7 @@ projects:
       - platform
     description: Adapter for Integration to HashiCorp Vault
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2270,7 +2270,7 @@ projects:
       - platform
     description: Adapter for Integration to Hyas Protect
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2289,7 +2289,7 @@ projects:
       - platform
     description: Adapter for Integration to Itential Automation Platform
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2308,7 +2308,7 @@ projects:
       - platform
     description: Adapter for Integration to Imperva
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2327,7 +2327,7 @@ projects:
       - platform
     description: Adapter for Integration to Incognito
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2346,7 +2346,7 @@ projects:
       - platform
     description: Adapter for Integration to Incognito
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2365,7 +2365,7 @@ projects:
       - platform
     description: Adapter for Integration to Infoblox DDI
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2384,7 +2384,7 @@ projects:
       - platform
     description: Adapter for Integration to Infoblox NetMRI
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2403,7 +2403,7 @@ projects:
       - platform
     description: Adapter for Integration to Infoblox Threat Defense
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2422,7 +2422,7 @@ projects:
       - platform
     description: Adapter for Integration to Infoblox Universal DDI
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2441,7 +2441,7 @@ projects:
       - platform
     description: Adapter for Integration to IP Fabric Platform
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2460,7 +2460,7 @@ projects:
       - platform
     description: Adapter for Integration to iTop
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2479,7 +2479,7 @@ projects:
       - platform
     description: Adapter for Integration to Jenkins
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2498,7 +2498,7 @@ projects:
       - platform
     description: Adapter for Integration to Jira
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2517,7 +2517,7 @@ projects:
       - platform
     description: Adapter for Integration to Jira Service Management Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2536,7 +2536,7 @@ projects:
       - platform
     description: Adapter for Integration to Juniper Contrail Services Orchestrator
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2555,7 +2555,7 @@ projects:
       - platform
     description: Adapter for Integration to Juniper Networks Mist
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2574,7 +2574,7 @@ projects:
       - platform
     description: Adapter for Integration to Juniper Northstar
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2593,7 +2593,7 @@ projects:
       - platform
     description: Adapter for Integration to Kafka using kafkajs
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2612,7 +2612,7 @@ projects:
       - platform
     description: Adapter for Integration to Kentik
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2631,7 +2631,7 @@ projects:
       - platform
     description: Adapter for Integration to Kentik API v5
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2650,7 +2650,7 @@ projects:
       - platform
     description: Adapter for Integration to Keygen
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2669,7 +2669,7 @@ projects:
       - platform
     description: Adapter for Integration to Kubernetes
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2688,7 +2688,7 @@ projects:
       - platform
     description: Adapter for Integration to LogicMonitor
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2707,7 +2707,7 @@ projects:
       - platform
     description: Mattermost
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2726,7 +2726,7 @@ projects:
       - platform
     description: Adapter for Integration to Men and Mice Micetro
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2745,7 +2745,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Meraki
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2764,7 +2764,7 @@ projects:
       - platform
     description: Adapter for Integration to Metaswitch
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2783,7 +2783,7 @@ projects:
       - platform
     description: Adapter for Integration to Microsoft Dynamics
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2802,7 +2802,7 @@ projects:
       - platform
     description: Adapter for Integration to Microsoft Graph
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2821,7 +2821,7 @@ projects:
       - platform
     description: Adapter for Integration to Microsoft Office 365
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2840,7 +2840,7 @@ projects:
       - platform
     description: Adapter for Integration to any Mock Device
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2859,7 +2859,7 @@ projects:
       - platform
     description: Adapter for Integration to Moogsoft
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2878,7 +2878,7 @@ projects:
       - platform
     description: Adapter for Integration to Moogsoft Saas
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2897,7 +2897,7 @@ projects:
       - platform
     description: Adapter for Integration to Morpheus
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2916,7 +2916,7 @@ projects:
       - platform
     description: Adapter for Integration to Microsoft Teams
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2935,7 +2935,7 @@ projects:
       - platform
     description: Adapter for Integration to Network to Code Nautobot
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2954,7 +2954,7 @@ projects:
       - platform
     description: Adapter for Integration to Network to Code Nautobot
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2973,7 +2973,7 @@ projects:
       - platform
     description: Adapter for Netadmin Nine
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -2992,7 +2992,7 @@ projects:
       - platform
     description: Adapter for Integration to NetBox Labs NetBox v2.5
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3011,7 +3011,7 @@ projects:
       - platform
     description: Adapter for Integration to NetBox Labs NetBox v2.1.0
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3030,7 +3030,7 @@ projects:
       - platform
     description: Adapter for Integration to NetBox Labs NetBox v3.3
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3049,7 +3049,7 @@ projects:
       - platform
     description: Adapter for Integration to NetBrain
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3068,7 +3068,7 @@ projects:
       - platform
     description: Adapter for Integration to Graphical Networks netTerrain
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3087,7 +3087,7 @@ projects:
       - platform
     description: Adapter for Integration to New Relic
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3106,7 +3106,7 @@ projects:
       - platform
     description: Adapter for Integration to Sonatype Nexus Repository
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3125,7 +3125,7 @@ projects:
       - platform
     description: Adapter for Integration to  Nokia Altiplano
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3144,7 +3144,7 @@ projects:
       - platform
     description: Adapter for Integration to Nokia NetAct
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3163,7 +3163,7 @@ projects:
       - platform
     description: Adapter for Integration to Nokia NSP Network and Service Assurance
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3182,7 +3182,7 @@ projects:
       - platform
     description: Adapter for Integration to Nokia NSP Device Administrator
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3201,7 +3201,7 @@ projects:
       - platform
     description: Adapter for Integration to Nokia NSP Device Configurator
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3220,7 +3220,7 @@ projects:
       - platform
     description: Adapter for Integration to Nokia NSP Network
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3239,7 +3239,7 @@ projects:
       - platform
     description: nokia_nsp_network_management
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3258,7 +3258,7 @@ projects:
       - platform
     description: Adapter for Integration to Nokia NSP NFM P
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3277,7 +3277,7 @@ projects:
       - platform
     description: Adapter for Integration to Nokia NSP NFV
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3296,7 +3296,7 @@ projects:
       - platform
     description: Adapter for Integration to Nokia NSP SDN
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3315,7 +3315,7 @@ projects:
       - platform
     description: Adapter for Integration to Nokia VitalQIP
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3334,7 +3334,7 @@ projects:
       - platform
     description: Adapter for Integration to NS1 Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3353,7 +3353,7 @@ projects:
       - platform
     description: Adapter for Integration to NS1 Enterprise
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3372,7 +3372,7 @@ projects:
       - platform
     description: Adapter for Integration to Nutanix Intentful
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3391,7 +3391,7 @@ projects:
       - platform
     description: Adapter for Integration to National Vulnerability Database
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3410,7 +3410,7 @@ projects:
       - platform
     description: Adapter for Integration to Okta
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3429,7 +3429,7 @@ projects:
       - platform
     description: Adapter for Integration to ONAP Active and Available Inventory
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3448,7 +3448,7 @@ projects:
       - platform
     description: Adapter for Integration to ONAP Application Controller (APPC)
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3467,7 +3467,7 @@ projects:
       - platform
     description: Adapter for Integration to Blueprint Processor
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3486,7 +3486,7 @@ projects:
       - platform
     description: "Adapter for Integration to ONAP DCAE - Data Collection Analytics and Events"
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3505,7 +3505,7 @@ projects:
       - platform
     description: Adapter for Integration to ONAP Service Design Creation
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3524,7 +3524,7 @@ projects:
       - platform
     description: Adapter for Integration to ONAP Service Orchestrator
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3543,7 +3543,7 @@ projects:
       - platform
     description: Adapter for Integration to 1Password Connect
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3562,7 +3562,7 @@ projects:
       - platform
     description: Adapter for Integration to ITRS OP5
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3581,7 +3581,7 @@ projects:
       - platform
     description: Adapter for Integration to Opengear Lighthouse
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3600,7 +3600,7 @@ projects:
       - platform
     description: Adapter for Integration to OpenStack Block Storage (Cinder)
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3619,7 +3619,7 @@ projects:
       - platform
     description: Adapter for Integration to OpenStack Glance
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3638,7 +3638,7 @@ projects:
       - platform
     description: Adapter for Integration to OpenStack Keystone identity service
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3657,7 +3657,7 @@ projects:
       - platform
     description: Adapter for Integration to OpenStack Neutron
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3676,7 +3676,7 @@ projects:
       - platform
     description: Adapter for Integration to OpenStack Compute Service (Nova)
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3695,7 +3695,7 @@ projects:
       - platform
     description: Adapter for Integration to Atlassian Opsgenie
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3714,7 +3714,7 @@ projects:
       - platform
     description: Adapter for Integration to Opsramp
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3733,7 +3733,7 @@ projects:
       - platform
     description: Adapter for Integration to Oracle Assure1
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3752,7 +3752,7 @@ projects:
       - platform
     description: Adapter for Integration to Oracle Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3771,7 +3771,7 @@ projects:
       - platform
     description: Adapter for Integration to Owasp Zap
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3790,7 +3790,7 @@ projects:
       - platform
     description: Adapter for Integration to PagerDuty
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3809,7 +3809,7 @@ projects:
       - platform
     description: Adapter for Integration to Pal Alto Networks Prisma Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3828,7 +3828,7 @@ projects:
       - platform
     description: Adapter for Integration to PaloAlto Panorama
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3847,7 +3847,7 @@ projects:
       - platform
     description: Adapter for Integration to Juniper Paragon Active Assurance
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3866,7 +3866,7 @@ projects:
       - platform
     description: Adapter for Integration to Paragon DCS
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3885,7 +3885,7 @@ projects:
       - platform
     description: Adapter for Integration to Paragon DPM
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3904,7 +3904,7 @@ projects:
       - platform
     description: Adapter for Integration to Paragon EMS Device Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3923,7 +3923,7 @@ projects:
       - platform
     description: Adapter for Integration to Paragon EMS Device Model
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3942,7 +3942,7 @@ projects:
       - platform
     description: Adapter for Integration to Paragon IAM
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3961,7 +3961,7 @@ projects:
       - platform
     description: Adapter for Integration to Juniper Paragon Insights
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3980,7 +3980,7 @@ projects:
       - platform
     description: Adapter for Integration to Paragon Job Store
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -3999,7 +3999,7 @@ projects:
       - platform
     description: Adapter for Integration to Paragon Pathfinder
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4018,7 +4018,7 @@ projects:
       - platform
     description: Adapter for Integration to phpIPAM
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4037,7 +4037,7 @@ projects:
       - platform
     description: Adapter for Integration to Pitney Bowes
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4056,7 +4056,7 @@ projects:
       - platform
     description: Adapter for Integration to Paessler PRTG
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4075,7 +4075,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco PSIRT
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4094,7 +4094,7 @@ projects:
       - platform
     description: Adapter for Integration to PSX API Service
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4113,7 +4113,7 @@ projects:
       - platform
     description: Adapter for Integration to Puppet
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4132,7 +4132,7 @@ projects:
       - platform
     description: Adapter for Integration to Qualys
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4151,7 +4151,7 @@ projects:
       - platform
     description: Adapter for Integration to RackN Digital Rebar
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4170,7 +4170,7 @@ projects:
       - platform
     description: Adapter for Integration to Rancher
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4189,7 +4189,7 @@ projects:
       - platform
     description: Adapter for Integration to Redis Cloud
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4208,7 +4208,7 @@ projects:
       - platform
     description: Adapter for Integration to BMC Remedy Action Request
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4227,7 +4227,7 @@ projects:
       - platform
     description: Adapter for Integration to RingCentral
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4246,7 +4246,7 @@ projects:
       - platform
     description: Adapter for Integration to Robustel
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4265,7 +4265,7 @@ projects:
       - platform
     description: Adapter for Integration to Rubrik
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4284,7 +4284,7 @@ projects:
       - platform
     description: Adapter for Integration to PagerDuty Rundeck
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4303,7 +4303,7 @@ projects:
       - platform
     description: Adapter for Integration to Salesforce
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4322,7 +4322,7 @@ projects:
       - platform
     description: Adapter for Integration to Salesforce Apex
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4341,7 +4341,7 @@ projects:
       - platform
     description: Adapter for Integration to Salesforce Cases
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4360,7 +4360,7 @@ projects:
       - platform
     description: Adapter for Integration to Salesforce Metadata
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4379,7 +4379,7 @@ projects:
       - platform
     description: Adapter for Integration to Salesforce Partner
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4398,7 +4398,7 @@ projects:
       - platform
     description: Adapter for Integration to Salesforce REST API
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4417,7 +4417,7 @@ projects:
       - platform
     description: Adapter for Integration to Salesforce Tooling
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4436,7 +4436,7 @@ projects:
       - platform
     description: Adapter for Integration to SaltStack
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4455,7 +4455,7 @@ projects:
       - platform
     description: Adapter for Integration to Scansource
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4474,7 +4474,7 @@ projects:
       - platform
     description: Adapter for Integration to ScienceLogic SL1
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4493,7 +4493,7 @@ projects:
       - platform
     description: Adapter for Integration to Sectigo Certification Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4512,7 +4512,7 @@ projects:
       - platform
     description: Adapter for Integration to Selector AI
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4531,7 +4531,7 @@ projects:
       - platform
     description: Adapter for Integration to SendGrid
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4550,7 +4550,7 @@ projects:
       - platform
     description: Adapter for Integration to ManageEngine ServiceDesk Plus
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4569,7 +4569,7 @@ projects:
       - platform
     description: Adapter for Integration to ServiceNow
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4588,7 +4588,7 @@ projects:
       - platform
     description: Adapter for Integration to IBM SevOne
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4607,7 +4607,7 @@ projects:
       - platform
     description: Adapter for Integration to IBM SevOne v2
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4626,7 +4626,7 @@ projects:
       - platform
     description: Adapter for Integration to Microsoft Sharepoint
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4645,7 +4645,7 @@ projects:
       - platform
     description: "Adapter for Integration to Silver Peak SD-WAN controller"
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4664,7 +4664,7 @@ projects:
       - platform
     description: Adapter for Integration to 6connect ProVision
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4683,7 +4683,7 @@ projects:
       - platform
     description: Adapter for Integration to Skybox
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4702,7 +4702,7 @@ projects:
       - platform
     description: Adapter for Integration to Slack
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4721,7 +4721,7 @@ projects:
       - platform
     description: Adapter for Integration to Snowflake SQL
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4740,7 +4740,7 @@ projects:
       - platform
     description: Adapter for Integration to SolarWinds Orion
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4759,7 +4759,7 @@ projects:
       - platform
     description: Adapter for Integration to SolarWinds Service Desk
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4778,7 +4778,7 @@ projects:
       - platform
     description: Adapter for Integration to Spirent TestCenter
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4797,7 +4797,7 @@ projects:
       - platform
     description: Adapter for Integration to Splunk
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4816,7 +4816,7 @@ projects:
       - platform
     description: Starburst
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4835,7 +4835,7 @@ projects:
       - platform
     description: Adapter for Integration to Riverbed SteelConnect
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4854,7 +4854,7 @@ projects:
       - platform
     description: Adapter for Integration to Surreal DB
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4873,7 +4873,7 @@ projects:
       - platform
     description: Adapter for Integration to Symantec Management Center
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4892,7 +4892,7 @@ projects:
       - platform
     description: Adapter for Integration to ONF TAPI
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4911,7 +4911,7 @@ projects:
       - platform
     description: Adapter for Integration to TCPWave
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4930,7 +4930,7 @@ projects:
       - platform
     description: Adapter for Integration to HashiCorp Terraform Enterprise
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4949,7 +4949,7 @@ projects:
       - platform
     description: Adapter for Integration to Thales Ciphertrust Manager
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4968,7 +4968,7 @@ projects:
       - platform
     description: Adapter for Integration to Verizon Thingspace
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -4987,7 +4987,7 @@ projects:
       - platform
     description: Adapter for Integration to ThousandEyes
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5006,7 +5006,7 @@ projects:
       - platform
     description: Adapter for Integration to Thruk Monitoring
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5025,7 +5025,7 @@ projects:
       - platform
     description: Adapter for Integration to Tiger Connect
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5044,7 +5044,7 @@ projects:
       - platform
     description: Adapter for Integration to TMF 638 Service Inventory Management
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5063,7 +5063,7 @@ projects:
       - platform
     description: Adapter for Integration to TMF 639 Resource Inventory Management
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5082,7 +5082,7 @@ projects:
       - platform
     description: Adapter for Integration to TMF Service Ordering Management
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5101,7 +5101,7 @@ projects:
       - platform
     description: Adapter for Integration to TMF642 Alarm Management
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5120,7 +5120,7 @@ projects:
       - platform
     description: Adapter for Integration to Tufin SecureApp
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5139,7 +5139,7 @@ projects:
       - platform
     description: Adapter for Integration to Tufin SecureChange
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5158,7 +5158,7 @@ projects:
       - platform
     description: Adapter for Integration to Tufin SecureTrack
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5177,7 +5177,7 @@ projects:
       - platform
     description: Adapter for Integration to VMware VeloCloud Orchestrator
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5196,7 +5196,7 @@ projects:
       - platform
     description: Adapter for Integration to Venafi
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5215,7 +5215,7 @@ projects:
       - platform
     description: Adapter for Integration to Venafi Trust Protection Platform
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5234,7 +5234,7 @@ projects:
       - platform
     description: Adapter for Integration to Versa Director
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5253,7 +5253,7 @@ projects:
       - platform
     description: Adapter for Integration to Viavi Xpertrak
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5272,7 +5272,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Viptela
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5291,7 +5291,7 @@ projects:
       - platform
     description: Adapter for Integration to VMware Cloud on AWS
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5310,7 +5310,7 @@ projects:
       - platform
     description: Adapter for Integration to Vmware Horizon Server
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5329,7 +5329,7 @@ projects:
       - platform
     description: Adapter for Integration to VMware NSX T
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5348,7 +5348,7 @@ projects:
       - platform
     description: Adapter for Integration to VMware vCenter
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5367,7 +5367,7 @@ projects:
       - platform
     description: Adapter for Integration to Vmware Virtual Infrastructure
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5386,7 +5386,7 @@ projects:
       - platform
     description: Adapter for Integration to VMware vRealize Orchestrator
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5405,7 +5405,7 @@ projects:
       - platform
     description: Adapter for Integration to VMware vSphere
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5424,7 +5424,7 @@ projects:
       - platform
     description: Adapter for Integration to Watchguard Firebox Management
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5443,7 +5443,7 @@ projects:
       - platform
     description: Adapter for Integration to Cisco Webex Teams
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5462,7 +5462,7 @@ projects:
       - platform
     description: Adapter for Integration to Progress WhatsUp Gold
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5481,7 +5481,7 @@ projects:
       - platform
     description: Adapter for Integration to Winston Syslog
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5500,7 +5500,7 @@ projects:
       - platform
     description: Adapter for Integration to Zabbix
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5519,7 +5519,7 @@ projects:
       - platform
     description: Adapter for Integration to Zero Networks
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5538,7 +5538,7 @@ projects:
       - platform
     description: Adapter for Integration to Zoom
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5557,7 +5557,7 @@ projects:
       - platform
     description: Adapter for Integration to Zscaler
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
@@ -5576,7 +5576,7 @@ projects:
       - platform
     description: Adapter for Integration to Zscaler ZPA
     tags:
-      - integration
+      - adapter
     maintainer:
       - "@itentialopensource"
     license: Apache-2.0
