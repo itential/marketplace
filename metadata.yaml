@@ -89,7 +89,6 @@ projects:
     description: Local development stack for spinning up an Itential environment with Docker, Ansible, and OpenTofu
     tags:
       - development
-      - deployment
     maintainer:
       - "@itential"
     repo: https://github.com/itential/itential-dev-stack
