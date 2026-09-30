@@ -1050,7 +1050,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Fortinet FortiGate Configuration Parsers
+  - name: Fortinet FortiGate - Config Parsers
     type: platform-asset
     active: true
     status: community
@@ -2741,7 +2741,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Juniper JUNOS Configuration Parsers
+  - name: Juniper JUNOS - Config Parsers
     type: platform-asset
     active: true
     status: community
