@@ -61,7 +61,7 @@ projects:
     license: GPL-3.0
 
   - name: ipsdk
-    type: asset-promotion
+    type: development
     active: true
     status: community
     compatibility:
@@ -81,7 +81,7 @@ projects:
     license: GPL-3.0
 
   - name: itential-dev-stack
-    type: installer
+    type: development
     active: true
     status: community
     compatibility:
@@ -955,7 +955,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Delinea Secret Server Secret Providers
+  - name: Delinea Secret Server - Secret Providers
     type: gateway-asset
     active: true
     status: community
@@ -1031,7 +1031,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Fortinet FortiGate Device Drivers
+  - name: Fortinet FortiGate - Device Drivers
     type: gateway-asset
     active: true
     status: community
@@ -1050,7 +1050,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Fortinet FortiGate Configuration Parsers
+  - name: Fortinet FortiGate - Config Parsers
     type: platform-asset
     active: true
     status: community
@@ -1145,7 +1145,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Ruckus Fastiron Device Drivers
+  - name: Ruckus Fastiron - Device Drivers
     type: gateway-asset
     active: true
     status: community
@@ -1506,7 +1506,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Secrets Manager Secret Providers
+  - name: AWS Secrets Manager - Secret Providers
     type: gateway-asset
     active: true
     status: community
@@ -2133,7 +2133,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft Azure Key Vault Secret Providers
+  - name: Microsoft Azure Key Vault - Secret Providers
     type: gateway-asset
     active: true
     status: community
@@ -2342,7 +2342,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: F5 BIG-IP Device Drivers
+  - name: F5 BIG-IP - Device Drivers
     type: gateway-asset
     active: true
     status: community
@@ -2722,7 +2722,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Juniper JUNOS Device Drivers
+  - name: Juniper JUNOS - Device Drivers
     type: gateway-asset
     active: true
     status: community
@@ -2741,7 +2741,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Juniper JUNOS Configuration Parsers
+  - name: Juniper JUNOS - Config Parsers
     type: platform-asset
     active: true
     status: community
