@@ -955,7 +955,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Delinea Secret Server Secret Providers
+  - name: Delinea Secret Server - Secret Providers
     type: gateway-asset
     active: true
     status: community
@@ -1506,7 +1506,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: AWS Secrets Manager Secret Providers
+  - name: AWS Secrets Manager - Secret Providers
     type: gateway-asset
     active: true
     status: community
@@ -2133,7 +2133,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Microsoft Azure Key Vault Secret Providers
+  - name: Microsoft Azure Key Vault - Secret Providers
     type: gateway-asset
     active: true
     status: community
