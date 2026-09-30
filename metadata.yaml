@@ -61,7 +61,7 @@ projects:
     license: GPL-3.0
 
   - name: ipsdk
-    type: asset-promotion
+    type: development
     active: true
     status: community
     compatibility:
@@ -81,7 +81,7 @@ projects:
     license: GPL-3.0
 
   - name: itential-dev-stack
-    type: installer
+    type: development
     active: true
     status: community
     compatibility:
