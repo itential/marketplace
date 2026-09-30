@@ -1031,7 +1031,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Fortinet FortiGate Device Drivers
+  - name: Fortinet FortiGate - Device Drivers
     type: gateway-asset
     active: true
     status: community
@@ -1145,7 +1145,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Ruckus Fastiron Device Drivers
+  - name: Ruckus Fastiron - Device Drivers
     type: gateway-asset
     active: true
     status: community
@@ -2342,7 +2342,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: F5 BIG-IP Device Drivers
+  - name: F5 BIG-IP - Device Drivers
     type: gateway-asset
     active: true
     status: community
@@ -2722,7 +2722,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: Juniper JUNOS Device Drivers
+  - name: Juniper JUNOS - Device Drivers
     type: gateway-asset
     active: true
     status: community
