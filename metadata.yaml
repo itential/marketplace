@@ -195,6 +195,63 @@ projects:
     source: github
     license: GPL-3.0
 
+  - name: job-and-task-archiver
+    type: admin
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Export and purge completed job data from MongoDB
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/job-and-task-archiver
+    docs: https://github.com/itential/job-and-task-archiver/blob/main/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-07-16"
+    featured: true
+    source: github
+    license: GPL-3.0
+
+  - name: job-metrics-exporter
+    type: admin
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Job metrics for Prometheus
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/job-metrics-exporter
+    docs: https://github.com/itential/job-metrics-exporter/blob/main/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-08-14"
+    featured: true
+    source: github
+    license: GPL-3.0
+
+  - name: platform-atlas
+    type: admin
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Capture config, validate against rulesets, report
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/platform-atlas
+    docs: https://github.com/itential/platform-atlas/blob/main/README.md
+    icon: assets/generic/Icon-Itential.png
+    updated: "2026-08-20"
+    featured: true
+    source: github
+    license: GPL-3.0
+
   - name: Forescout
     type: integration
     active: true
