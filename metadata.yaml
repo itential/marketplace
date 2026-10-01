@@ -21,7 +21,7 @@ projects:
     license: Apache-2.0
 
   - name: ipctl
-    type: cli-tool
+    type: asset-promotion
     active: true
     status: community
     compatibility:
@@ -115,6 +115,26 @@ projects:
     docs: https://github.com/itential/asyncplatform/blob/devel/README.md
     icon: assets/generic/sdk-library.png
     updated: "2026-05-21"
+    featured: true
+    source: github
+    license: GPL-3.0
+
+  - name: asset-repository-template
+    type: asset-promotion
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Git and CI/CD pipeline promotion template
+    tags:
+      - operations
+      - development
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/asset-repository-template
+    docs: https://github.com/itential/asset-repository-template/blob/main/README.md
+    icon: assets/generic/sdk-library.png
+    updated: "2026-07-25"
     featured: true
     source: github
     license: GPL-3.0
