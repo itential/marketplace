@@ -138,6 +138,63 @@ projects:
     source: github
     license: GPL-3.0
 
+  - name: itential.iag5
+    type: deployment
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Ansible collection to install and run Gateway 5
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/itential.iag5
+    docs: https://github.com/itential/itential.iag5/blob/dev/README.md
+    icon: assets/generic/pipeline.png
+    updated: "2026-09-16"
+    featured: true
+    source: github
+    license: GPL-3.0
+
+  - name: iap-helm
+    type: deployment
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Helm chart for the Platform on Kubernetes
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/iap-helm
+    docs: https://github.com/itential/iap-helm/blob/main/README.md
+    icon: assets/generic/pipeline.png
+    updated: "2026-08-05"
+    featured: true
+    source: github
+    license: GPL-3.0
+
+  - name: iag5-helm
+    type: deployment
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Helm chart for Gateway 5 on Kubernetes
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/iag5-helm
+    docs: https://github.com/itential/iag5-helm/blob/main/README.md
+    icon: assets/generic/pipeline.png
+    updated: "2026-09-09"
+    featured: true
+    source: github
+    license: GPL-3.0
+
   - name: Forescout
     type: integration
     active: true
