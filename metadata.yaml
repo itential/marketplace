@@ -125,7 +125,7 @@ projects:
     status: community
     compatibility:
       - platform
-    description: Ansible collection for deploying validated Itential Platform and Gateway architectures
+    description: Ansible deployer for validated architectures
     tags:
       - operations
     maintainer:
