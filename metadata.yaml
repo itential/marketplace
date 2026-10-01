@@ -119,6 +119,25 @@ projects:
     source: github
     license: GPL-3.0
 
+  - name: itential.deployer
+    type: deployment
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Ansible collection for deploying validated Itential Platform and Gateway architectures
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/itential.deployer
+    docs: https://github.com/itential/itential.deployer/blob/dev/README.md
+    icon: assets/generic/pipeline.png
+    updated: "2026-09-28"
+    featured: true
+    source: github
+    license: GPL-3.0
+
   - name: Forescout
     type: integration
     active: true
