@@ -1,7 +1,7 @@
 projects:
 
   - name: builder-skills
-    type: builder-skill
+    type: build
     active: true
     status: community
     compatibility:
@@ -41,7 +41,7 @@ projects:
     license: Apache-2.0
 
   - name: itential-mcp
-    type: mcp-server
+    type: build
     active: true
     status: community
     compatibility:
@@ -61,7 +61,7 @@ projects:
     license: GPL-3.0
 
   - name: ipsdk
-    type: development
+    type: build
     active: true
     status: community
     compatibility:
@@ -81,7 +81,7 @@ projects:
     license: GPL-3.0
 
   - name: itential-dev-stack
-    type: development
+    type: build
     active: true
     status: community
     compatibility:
