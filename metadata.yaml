@@ -21,7 +21,7 @@ projects:
     license: Apache-2.0
 
   - name: ipctl
-    type: asset-promotion
+    type: promote
     active: true
     status: community
     compatibility:
@@ -100,7 +100,7 @@ projects:
     license: GPL-3.0
 
   - name: asyncplatform
-    type: asset-promotion
+    type: promote
     active: true
     status: community
     compatibility:
@@ -120,7 +120,7 @@ projects:
     license: GPL-3.0
 
   - name: asset-repository-template
-    type: asset-promotion
+    type: promote
     active: true
     status: community
     compatibility:
