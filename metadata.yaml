@@ -140,7 +140,7 @@ projects:
     license: GPL-3.0
 
   - name: itential.deployer
-    type: deployment
+    type: deploy-operate
     active: true
     status: community
     compatibility:
@@ -159,7 +159,7 @@ projects:
     license: GPL-3.0
 
   - name: itential.iag5
-    type: deployment
+    type: deploy-operate
     active: true
     status: community
     compatibility:
@@ -178,7 +178,7 @@ projects:
     license: GPL-3.0
 
   - name: iap-helm
-    type: deployment
+    type: deploy-operate
     active: true
     status: community
     compatibility:
@@ -197,7 +197,7 @@ projects:
     license: GPL-3.0
 
   - name: iag5-helm
-    type: deployment
+    type: deploy-operate
     active: true
     status: community
     compatibility:
@@ -216,7 +216,7 @@ projects:
     license: GPL-3.0
 
   - name: job-and-task-archiver
-    type: admin
+    type: deploy-operate
     active: true
     status: community
     compatibility:
@@ -235,7 +235,7 @@ projects:
     license: GPL-3.0
 
   - name: job-metrics-exporter
-    type: admin
+    type: deploy-operate
     active: true
     status: community
     compatibility:
@@ -254,7 +254,7 @@ projects:
     license: GPL-3.0
 
   - name: platform-atlas
-    type: admin
+    type: deploy-operate
     active: true
     status: community
     compatibility:
