@@ -215,6 +215,25 @@ projects:
     source: github
     license: GPL-3.0
 
+  - name: itential.monitoring
+    type: deploy-operate
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Ansible collection for monitoring tools
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/itential.monitoring
+    docs: https://github.com/itential/itential.monitoring/blob/dev/README.md
+    icon: assets/generic/pipeline.png
+    updated: "2026-10-02"
+    featured: true
+    source: github
+    license: GPL-2.0-or-later
+
   - name: job-and-task-archiver
     type: deploy-operate
     active: true
