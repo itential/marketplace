@@ -975,6 +975,25 @@ projects:
     source: github
     license: Apache-2.0
 
+  - name: ServiceNow – Itential Automation Services
+    type: integration
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: ServiceNow Store app for running Itential automations from ServiceNow
+    tags:
+      - integration
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/marketplace/tree/main/docs/servicenow
+    docs: https://github.com/itential/marketplace/blob/main/docs/servicenow/README.md
+    icon: assets/vendors/servicenow.png
+    updated: "2026-10-07"
+    featured: false
+    source: github
+    license: GPL-3.0
+
   - name: Slack – Studio Project
     type: platform-asset
     active: true
