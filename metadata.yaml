@@ -975,7 +975,7 @@ projects:
     source: github
     license: Apache-2.0
 
-  - name: ServiceNow – Itential Automation Services
+  - name: Itential ServiceNow App
     type: integration
     active: true
     status: community
@@ -983,7 +983,7 @@ projects:
       - platform
     description: ServiceNow Store app for running Itential automations from ServiceNow
     tags:
-      - integration
+      - app
     maintainer:
       - "@itential"
     repo: https://github.com/itential/marketplace/tree/main/docs/servicenow
