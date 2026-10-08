@@ -6,7 +6,7 @@ projects:
     status: community
     compatibility:
       - platform
-    description: Open source plugin for Claude Code with built-in domain knowledge and 22 pre-built use case specs
+    description: Open source agentic skills for Itential Platform assets in Claude Code, Copilot, Codex, and Cursor
     tags:
       - workflow
       - development
