@@ -1,7 +1,7 @@
 projects:
 
   - name: builder-skills
-    type: build
+    type: ai-skills
     active: true
     status: community
     compatibility:
