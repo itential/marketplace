@@ -36,7 +36,7 @@ projects:
     docs: https://github.com/itential/ipctl/blob/main/README.md
     icon: assets/generic/cli.png
     updated: "2026-04-08"
-    featured: true
+    featured: false
     source: github
     license: Apache-2.0
 
@@ -76,7 +76,7 @@ projects:
     docs: https://github.com/itential/ipsdk/blob/main/README.md
     icon: assets/generic/sdk-library.png
     updated: "2026-05-21"
-    featured: true
+    featured: false
     source: github
     license: GPL-3.0
 
@@ -135,7 +135,7 @@ projects:
     docs: https://github.com/itential/asset-repository-template/blob/main/README.md
     icon: assets/generic/sdk-library.png
     updated: "2026-07-25"
-    featured: true
+    featured: false
     source: github
     license: GPL-3.0
 
@@ -173,7 +173,7 @@ projects:
     docs: https://github.com/itential/itential.iag5/blob/dev/README.md
     icon: assets/generic/pipeline.png
     updated: "2026-09-16"
-    featured: true
+    featured: false
     source: github
     license: GPL-3.0
 
@@ -192,7 +192,7 @@ projects:
     docs: https://github.com/itential/iap-helm/blob/main/README.md
     icon: assets/generic/pipeline.png
     updated: "2026-08-05"
-    featured: true
+    featured: false
     source: github
     license: GPL-3.0
 
@@ -211,7 +211,7 @@ projects:
     docs: https://github.com/itential/iag5-helm/blob/main/README.md
     icon: assets/generic/pipeline.png
     updated: "2026-09-09"
-    featured: true
+    featured: false
     source: github
     license: GPL-3.0
 
@@ -249,7 +249,7 @@ projects:
     docs: https://github.com/itential/job-and-task-archiver/blob/main/README.md
     icon: assets/generic/Icon-Itential.png
     updated: "2026-07-16"
-    featured: true
+    featured: false
     source: github
     license: GPL-3.0
 
@@ -268,7 +268,7 @@ projects:
     docs: https://github.com/itential/job-metrics-exporter/blob/main/README.md
     icon: assets/generic/Icon-Itential.png
     updated: "2026-08-14"
-    featured: true
+    featured: false
     source: github
     license: GPL-3.0
 
@@ -990,7 +990,7 @@ projects:
     docs: https://github.com/itential/marketplace/blob/main/docs/servicenow/README.md
     icon: assets/vendors/servicenow.png
     updated: "2026-10-07"
-    featured: false
+    featured: true
     source: github
     license: GPL-3.0
 
@@ -1883,7 +1883,7 @@ projects:
     docs: https://github.com/itential/assets/blob/main/Cisco/IOS/README.md
     icon: assets/vendors/cisco.png
     updated: "2026-09-09"
-    featured: false
+    featured: true
     source: github
     license: Apache-2.0
 
@@ -2567,7 +2567,7 @@ projects:
     docs: https://github.com/itential/assets/blob/main/F5/BIG-IQ/README.md
     icon: assets/vendors/f5.png
     updated: "2026-08-27"
-    featured: false
+    featured: true
     source: github
     license: Apache-2.0
 

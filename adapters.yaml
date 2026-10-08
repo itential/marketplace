@@ -682,7 +682,7 @@ projects:
     docs: https://gitlab.com/itentialopensource/adapters/adapter-aws_secretsmanager/-/blob/master/README.md
     icon: assets/vendors/aws.png
     updated: "2023-07-24"
-    featured: false
+    featured: true
 
   - name: azure
     type: integration
@@ -2145,7 +2145,7 @@ projects:
     docs: https://gitlab.com/itentialopensource/adapters/adapter-github/-/blob/master/README.md
     icon: assets/vendors/github.png
     updated: "2019-08-26"
-    featured: false
+    featured: true
 
   - name: gitlab
     type: integration
