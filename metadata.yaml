@@ -6,7 +6,7 @@ projects:
     status: community
     compatibility:
       - platform
-    description: Open source agentic skills for Itential Platform assets in Claude Code, Copilot, Codex, and Cursor
+    description: Open source agentic skills to build Itential Platform assets in Claude Code, Copilot, Codex, and Cursor
     tags:
       - workflow
       - development
