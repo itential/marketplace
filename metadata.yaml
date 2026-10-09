@@ -1,6 +1,6 @@
 projects:
 
-  - name: builder-skills
+  - name: itential-builder-skills
     type: ai-skills
     active: true
     status: community
@@ -20,7 +20,7 @@ projects:
     source: github
     license: GPL-3.0
 
-  - name: admin-skills
+  - name: itential-admin-skills
     type: ai-skills
     active: true
     status: community
@@ -39,7 +39,7 @@ projects:
     source: github
     license: GPL-3.0
 
-  - name: operator-skills
+  - name: itential-operator-skills
     type: ai-skills
     active: true
     status: community
