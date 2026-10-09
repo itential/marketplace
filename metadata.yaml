@@ -15,10 +15,10 @@ projects:
     repo: https://github.com/itential/builder-skills
     docs: https://github.com/itential/builder-skills/blob/main/README.md
     icon: assets/generic/mcp.png
-    updated: "2026-04-08"
+    updated: "2026-10-09"
     featured: true
     source: github
-    license: Apache-2.0
+    license: GPL-3.0
 
   - name: admin-skills
     type: ai-skills
