@@ -20,6 +20,44 @@ projects:
     source: github
     license: Apache-2.0
 
+  - name: admin-skills
+    type: ai-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Open source agentic skills to administer Itential Platform in Claude Code, Copilot, Codex, and Cursor
+    tags:
+      - admin
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/admin-skills
+    docs: https://github.com/itential/admin-skills/blob/main/README.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-09"
+    featured: true
+    source: github
+    license: GPL-3.0
+
+  - name: operator-skills
+    type: ai-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Open source agentic skills to operate Itential Platform in Claude Code, Copilot, Codex, and Cursor
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/operator-skills
+    docs: https://github.com/itential/operator-skills/blob/main/README.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-09"
+    featured: true
+    source: github
+    license: GPL-3.0
+
   - name: ipctl
     type: promote
     active: true
