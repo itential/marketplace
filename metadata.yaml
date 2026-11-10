@@ -1,7 +1,7 @@
 projects:
 
   - name: itential-builder-skills
-    type: ai-skills
+    type: itential-skills
     active: true
     status: community
     compatibility:
@@ -21,7 +21,7 @@ projects:
     license: GPL-3.0
 
   - name: itential-admin-skills
-    type: ai-skills
+    type: itential-skills
     active: true
     status: community
     compatibility:
@@ -40,7 +40,7 @@ projects:
     license: GPL-3.0
 
   - name: itential-operator-skills
-    type: ai-skills
+    type: itential-skills
     active: true
     status: community
     compatibility:
@@ -59,7 +59,7 @@ projects:
     license: GPL-3.0
 
   - name: Alert and Monitor Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -78,7 +78,7 @@ projects:
     license: Apache-2.0
 
   - name: Automation Job Execution
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -97,7 +97,7 @@ projects:
     license: Apache-2.0
 
   - name: CASB Policy Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -116,7 +116,7 @@ projects:
     license: Apache-2.0
 
   - name: CASB Posture Assessment
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -135,7 +135,7 @@ projects:
     license: Apache-2.0
 
   - name: Certificate Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -154,7 +154,7 @@ projects:
     license: Apache-2.0
 
   - name: Change Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -173,7 +173,7 @@ projects:
     license: Apache-2.0
 
   - name: CMDB Asset Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -192,7 +192,7 @@ projects:
     license: Apache-2.0
 
   - name: Compute Instance Provisioning
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -211,7 +211,7 @@ projects:
     license: Apache-2.0
 
   - name: Config Backup Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -230,7 +230,7 @@ projects:
     license: Apache-2.0
 
   - name: Connector Tunnel Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -249,7 +249,7 @@ projects:
     license: Apache-2.0
 
   - name: Container Workload Deployment
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -268,7 +268,7 @@ projects:
     license: Apache-2.0
 
   - name: CRM Contact Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -287,7 +287,7 @@ projects:
     license: Apache-2.0
 
   - name: DCIM Asset Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -306,7 +306,7 @@ projects:
     license: Apache-2.0
 
   - name: DHCP Scope Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -325,7 +325,7 @@ projects:
     license: Apache-2.0
 
   - name: DNS Record Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -344,7 +344,7 @@ projects:
     license: Apache-2.0
 
   - name: DNS Zone Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -363,7 +363,7 @@ projects:
     license: Apache-2.0
 
   - name: Firewall Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -382,7 +382,7 @@ projects:
     license: Apache-2.0
 
   - name: Incident Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -401,7 +401,7 @@ projects:
     license: Apache-2.0
 
   - name: Infrastructure Plan Execution
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -420,7 +420,7 @@ projects:
     license: Apache-2.0
 
   - name: Interface and Link Troubleshooting
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -439,7 +439,7 @@ projects:
     license: Apache-2.0
 
   - name: IPAM Allocation
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -458,7 +458,7 @@ projects:
     license: Apache-2.0
 
   - name: Load Balancing
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -477,7 +477,7 @@ projects:
     license: Apache-2.0
 
   - name: Log Query
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -496,7 +496,7 @@ projects:
     license: Apache-2.0
 
   - name: Metric Query
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -515,7 +515,7 @@ projects:
     license: Apache-2.0
 
   - name: Network Access Control Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -534,7 +534,7 @@ projects:
     license: Apache-2.0
 
   - name: Network Health Verification
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -553,7 +553,7 @@ projects:
     license: Apache-2.0
 
   - name: Network State Collection
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -572,7 +572,7 @@ projects:
     license: Apache-2.0
 
   - name: Notifications
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -591,7 +591,7 @@ projects:
     license: Apache-2.0
 
   - name: Repository Pull Request Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -610,7 +610,7 @@ projects:
     license: Apache-2.0
 
   - name: Routing Troubleshooting
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -629,7 +629,7 @@ projects:
     license: Apache-2.0
 
   - name: SD-WAN Policy Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -648,7 +648,7 @@ projects:
     license: Apache-2.0
 
   - name: SD-WAN Site Onboarding
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -667,7 +667,7 @@ projects:
     license: Apache-2.0
 
   - name: Secret Retrieval
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -686,7 +686,7 @@ projects:
     license: Apache-2.0
 
   - name: Software Upgrade Lifecycle
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -705,7 +705,7 @@ projects:
     license: Apache-2.0
 
   - name: VPN Tunnel Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -724,7 +724,7 @@ projects:
     license: Apache-2.0
 
   - name: Vulnerability Lookup
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -743,7 +743,7 @@ projects:
     license: Apache-2.0
 
   - name: WAF Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -762,7 +762,7 @@ projects:
     license: Apache-2.0
 
   - name: Wireless Network Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
@@ -781,7 +781,7 @@ projects:
     license: Apache-2.0
 
   - name: Zero Trust Access Policy Management
-    type: agent-skills
+    type: infra-skills
     active: true
     status: community
     compatibility:
