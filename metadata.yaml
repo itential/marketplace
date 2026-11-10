@@ -58,6 +58,747 @@ projects:
     source: github
     license: GPL-3.0
 
+  - name: Alert and Monitor Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create threshold monitors and acknowledge or resolve the alerts they raise on supported observability platforms.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/alert-monitor-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/alert-monitor-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Automation Job Execution
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Launch a predefined automation job, such as an Ansible template, a CI pipeline or a build, and follow it to completion.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/automation-job-execution
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/automation-job-execution/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: CASB Policy Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update, enable or disable, and delete policies on a Cloud Access Security Broker.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/casb-policy-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/casb-policy-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-23"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: CASB Posture Assessment
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Read the risk and compliance findings a CASB reports for connected SaaS and cloud integrations.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/casb-posture-assessment
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/casb-posture-assessment/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-23"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Certificate Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Issue, renew, read and revoke TLS certificates on ACME, PKI and certificate-manager platforms.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/certificate-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/certificate-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Change Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create a change request and take it through approval, implementation and close on a supported ITSM platform.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/change-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/change-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: CMDB Asset Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update and delete configuration items in a CMDB and read the relationships between them.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/cmdb-asset-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/cmdb-asset-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Compute Instance Provisioning
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, resize, snapshot, power-control and decommission virtual machines on cloud and hypervisor platforms.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/compute-instance-provisioning
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/compute-instance-provisioning/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Config Backup Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Capture a network site configuration as a portable file, retrieve it, and redeploy a saved copy.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/config-backup-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/config-backup-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Connector Tunnel Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, publish, check and retire an outbound-only tunnel that exposes an internal application or private network.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/connector-tunnel-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/connector-tunnel-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Container Workload Deployment
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, scale, update and remove containerized workloads, and manage the images behind them.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/container-workload-deployment
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/container-workload-deployment/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: CRM Contact Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update and delete contact records on a customer relationship management platform.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/crm-contact-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/crm-contact-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: DCIM Asset Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update and delete physical data-center assets and their rack-unit placement.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/dcim-asset-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/dcim-asset-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: DHCP Scope Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update and delete DHCP scopes and their lease reservations.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/dhcp-scope-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/dhcp-scope-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: DNS Record Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, update and delete DNS records on cloud, appliance and open-source DNS platforms.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/dns-record-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/dns-record-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-26"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: DNS Zone Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update and delete DNS zones, including SOA and NS settings and subdomain delegation.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/dns-zone-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/dns-zone-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-26"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Firewall Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update and delete firewall rules, address and service objects, and NAT rules across vendors.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/firewall-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/firewall-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-28"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Incident Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, assign, acknowledge, hold, resolve, reopen and close incidents on ITSM and incident-response platforms.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/incident-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/incident-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Infrastructure Plan Execution
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Prepare, review and apply a declarative infrastructure plan, then inspect the recorded state and outputs.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/infrastructure-plan-execution
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/infrastructure-plan-execution/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-26"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Interface and Link Troubleshooting
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Diagnose interface-down, flapping, error-counter and duplex problems on network devices.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/interface-link-troubleshooting
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/interface-link-troubleshooting/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-11-10"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: IPAM Allocation
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Allocate IP prefixes and individual addresses on supported IPAM platforms.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/ipam-allocation
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/ipam-allocation/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Load Balancing
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update and delete load-balancer virtual servers, pools and pool members.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/load-balancing
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/load-balancing/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Log Query
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Retrieve stored log events for a stated store, filter and time window, and report what was and was not covered.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/log-query
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/log-query/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-26"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Metric Query
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Read current or historical metric samples for a resource, for troubleshooting or before-and-after comparison.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/metric-query
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/metric-query/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-26"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Network Access Control Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Register, quarantine, release and remove endpoints, and read their session state on a NAC platform.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/network-access-control-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/network-access-control-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Network Health Verification
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Screen devices for CPU, memory, log and core-file problems after a change or during troubleshooting.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/network-health-verification
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/network-health-verification/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-15"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Network State Collection
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Capture structured network state before and after a change, or gather evidence while troubleshooting.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/network-state-collection
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/network-state-collection/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Notifications
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Send a message, notification or report to a channel, thread or recipient on a communications platform.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/notifications
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/notifications/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Repository Pull Request Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Open, review, update, merge and close pull requests or merge requests on GitHub, GitLab and Bitbucket.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/repository-pull-request-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/repository-pull-request-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-15"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Routing Troubleshooting
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Diagnose BGP session and route-propagation problems such as flapping sessions and missing routes.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/routing-troubleshooting
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/routing-troubleshooting/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-26"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: SD-WAN Policy Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Look up, create, edit, activate, deactivate and delete centralized SD-WAN policies.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/sdwan-policy-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/sdwan-policy-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: SD-WAN Site Onboarding
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Bring a new branch site onto an SD-WAN fabric from a blueprint, attach its devices and confirm it works.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/sdwan-site-onboarding
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/sdwan-site-onboarding/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Secret Retrieval
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Read, create, update or rotate a single secret value held in a secrets-management platform.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/secret-retrieval
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/secret-retrieval/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-26"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Software Upgrade Lifecycle
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Upgrade device software with the platform stage, activate, confirm and commit procedure and the documented rollback.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/software-upgrade-lifecycle
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/software-upgrade-lifecycle/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: VPN Tunnel Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update and delete site-to-site VPN tunnels on firewall, router and cloud platforms.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/vpn-tunnel-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/vpn-tunnel-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-28"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Vulnerability Lookup
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Look up known vulnerabilities by product, CPE or CVE identifier.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/vulnerability-lookup
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/vulnerability-lookup/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-26"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: WAF Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, read, update and delete web application firewall rules, rate-limit rules and managed-ruleset bindings.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/waf-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/waf-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-28"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Wireless Network Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Provision, update and read SSID and WLAN configuration on wireless-management platforms.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/wireless-network-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/wireless-network-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-27"
+    featured: false
+    source: github
+    license: Apache-2.0
+
+  - name: Zero Trust Access Policy Management
+    type: agent-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Create, update and delete access and segmentation policy rules on SASE and ZTNA platforms.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/zero-trust-access-policy-management
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/zero-trust-access-policy-management/SKILL.md
+    icon: assets/generic/mcp.png
+    updated: "2026-10-26"
+    featured: false
+    source: github
+    license: Apache-2.0
+
   - name: ipctl
     type: promote
     active: true
