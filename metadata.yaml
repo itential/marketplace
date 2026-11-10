@@ -14,7 +14,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/builder-skills
     docs: https://github.com/itential/builder-skills/blob/main/README.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/Icon-Itential.png
     updated: "2026-10-09"
     featured: true
     source: github
@@ -33,7 +33,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/admin-skills
     docs: https://github.com/itential/admin-skills/blob/main/README.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/Icon-Itential.png
     updated: "2026-10-09"
     featured: true
     source: github
@@ -52,7 +52,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/operator-skills
     docs: https://github.com/itential/operator-skills/blob/main/README.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/Icon-Itential.png
     updated: "2026-10-09"
     featured: true
     source: github
