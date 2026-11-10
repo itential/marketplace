@@ -71,7 +71,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/alert-monitor-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/alert-monitor-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -90,7 +90,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/automation-job-execution
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/automation-job-execution/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -109,7 +109,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/casb-policy-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/casb-policy-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-23"
     featured: false
     source: github
@@ -128,7 +128,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/casb-posture-assessment
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/casb-posture-assessment/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-23"
     featured: false
     source: github
@@ -147,7 +147,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/certificate-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/certificate-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -166,7 +166,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/change-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/change-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -185,7 +185,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/cmdb-asset-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/cmdb-asset-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -204,7 +204,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/compute-instance-provisioning
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/compute-instance-provisioning/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -223,7 +223,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/config-backup-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/config-backup-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -242,7 +242,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/connector-tunnel-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/connector-tunnel-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -261,7 +261,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/container-workload-deployment
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/container-workload-deployment/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -280,7 +280,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/crm-contact-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/crm-contact-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -299,7 +299,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/dcim-asset-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/dcim-asset-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -318,7 +318,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/dhcp-scope-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/dhcp-scope-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -337,7 +337,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/dns-record-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/dns-record-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-26"
     featured: false
     source: github
@@ -356,7 +356,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/dns-zone-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/dns-zone-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-26"
     featured: false
     source: github
@@ -375,7 +375,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/firewall-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/firewall-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-28"
     featured: false
     source: github
@@ -394,7 +394,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/incident-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/incident-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -413,7 +413,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/infrastructure-plan-execution
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/infrastructure-plan-execution/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-26"
     featured: false
     source: github
@@ -432,7 +432,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/interface-link-troubleshooting
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/interface-link-troubleshooting/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-11-10"
     featured: false
     source: github
@@ -451,7 +451,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/ipam-allocation
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/ipam-allocation/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -470,7 +470,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/load-balancing
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/load-balancing/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -489,7 +489,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/log-query
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/log-query/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-26"
     featured: false
     source: github
@@ -508,7 +508,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/metric-query
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/metric-query/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-26"
     featured: false
     source: github
@@ -527,7 +527,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/network-access-control-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/network-access-control-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -546,7 +546,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/network-health-verification
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/network-health-verification/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-15"
     featured: false
     source: github
@@ -565,7 +565,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/network-state-collection
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/network-state-collection/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -584,7 +584,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/notifications
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/notifications/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -603,7 +603,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/repository-pull-request-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/repository-pull-request-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-15"
     featured: false
     source: github
@@ -622,7 +622,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/routing-troubleshooting
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/routing-troubleshooting/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-26"
     featured: false
     source: github
@@ -641,7 +641,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/sdwan-policy-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/sdwan-policy-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -660,7 +660,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/sdwan-site-onboarding
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/sdwan-site-onboarding/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -679,7 +679,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/secret-retrieval
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/secret-retrieval/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-26"
     featured: false
     source: github
@@ -698,7 +698,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/software-upgrade-lifecycle
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/software-upgrade-lifecycle/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -717,7 +717,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/vpn-tunnel-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/vpn-tunnel-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-28"
     featured: false
     source: github
@@ -736,7 +736,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/vulnerability-lookup
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/vulnerability-lookup/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-26"
     featured: false
     source: github
@@ -755,7 +755,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/waf-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/waf-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-28"
     featured: false
     source: github
@@ -774,7 +774,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/wireless-network-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/wireless-network-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-27"
     featured: false
     source: github
@@ -793,7 +793,7 @@ projects:
       - "@itential"
     repo: https://github.com/itential/infra-agent-skills/tree/main/skills/zero-trust-access-policy-management
     docs: https://github.com/itential/infra-agent-skills/blob/main/skills/zero-trust-access-policy-management/SKILL.md
-    icon: assets/generic/mcp.png
+    icon: assets/generic/agent-skills.png
     updated: "2026-10-26"
     featured: false
     source: github
