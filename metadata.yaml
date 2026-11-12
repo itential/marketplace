@@ -172,6 +172,25 @@ projects:
     source: github
     license: Apache-2.0
 
+  - name: Cloud Security Group Audit
+    type: infra-skills
+    active: true
+    status: community
+    compatibility:
+      - platform
+    description: Read-only audit of cloud security groups and firewall rules for internet exposure, unattached groups, and overlapping rules.
+    tags:
+      - operations
+    maintainer:
+      - "@itential"
+    repo: https://github.com/itential/infra-agent-skills/tree/main/skills/cloud-security-group-audit
+    docs: https://github.com/itential/infra-agent-skills/blob/main/skills/cloud-security-group-audit/SKILL.md
+    icon: assets/generic/agent-skills.png
+    updated: "2026-11-10"
+    featured: false
+    source: github
+    license: Apache-2.0
+
   - name: CMDB Asset Management
     type: infra-skills
     active: true
